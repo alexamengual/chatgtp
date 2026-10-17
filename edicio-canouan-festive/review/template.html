@@ -1,0 +1,330 @@
+<title>Canouan Edition Longlist</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a sticky filter bar over a single dense list of artist rows; each row ends in a three-way pick control. */
+:root {
+  --bg: #f3f5f4;
+  --surface: #ffffff;
+  --ink: #142233;
+  --muted: #5b6876;
+  --line: #d9dfe3;
+  --accent: #0f6e78;        /* lagoon */
+  --accent-ink: #ffffff;
+  --gold: #b8892a;          /* sargassum */
+  --short: #0f7a55; --short-bg: #e2f3eb;
+  --maybe: #9a6a00; --maybe-bg: #fbf0d6;
+  --pass: #6b7480;  --pass-bg: #eceff2;
+  --chip: #e8eef0;
+  --font-display: "Newsreader", Georgia, "Times New Roman", serif;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0d1620; --surface: #142130; --ink: #e5ebf0; --muted: #9aa8b5; --line: #24364a;
+  --accent: #4fb8c2; --accent-ink: #06222a; --gold: #d9b45a;
+  --short: #5fd3a3; --short-bg: #12352a; --maybe: #e8c060; --maybe-bg: #3a2f12;
+  --pass: #9aa5b0; --pass-bg: #222f3c; --chip: #1c2c3d; color-scheme: dark;
+} }
+:root[data-theme="dark"] {
+  --bg: #0d1620; --surface: #142130; --ink: #e5ebf0; --muted: #9aa8b5; --line: #24364a;
+  --accent: #4fb8c2; --accent-ink: #06222a; --gold: #d9b45a;
+  --short: #5fd3a3; --short-bg: #12352a; --maybe: #e8c060; --maybe-bg: #3a2f12;
+  --pass: #9aa5b0; --pass-bg: #222f3c; --chip: #1c2c3d; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 15px/1.5 var(--font-body); }
+a { color: var(--accent); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.wrap { max-width: 1120px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+header.top { padding-block: 28px 12px; }
+.eyebrow { font: 500 12px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+h1 { font: 600 clamp(28px, 5vw, 42px)/1.1 var(--font-display); margin: 8px 0 8px; text-wrap: balance; }
+.lede { color: var(--muted); max-width: 65ch; margin: 0; }
+.tally { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 14px; font: 500 13px/1.4 var(--font-mono); font-variant-numeric: tabular-nums; }
+.tally b { font-weight: 600; }
+.tally .s { color: var(--short); } .tally .m { color: var(--maybe); } .tally .p { color: var(--pass); }
+.sync { font: 12px/1.4 var(--font-mono); color: var(--muted); margin-top: 6px; }
+
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); border-bottom: 1px solid var(--line); }
+.bar .wrap { padding-block: 10px; display: flex; flex-direction: column; gap: 8px; }
+.tabs { display: flex; gap: 4px; flex-wrap: wrap; }
+.tab { border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 6px 12px; font: 500 13px/1 var(--font-body); cursor: pointer; }
+.tab[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.tab .n { font-family: var(--font-mono); opacity: .7; margin-left: 4px; font-variant-numeric: tabular-nums; }
+.filters { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.filters input[type=search], .filters select { font: 14px var(--font-body); color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 7px 10px; min-width: 0; }
+.filters input[type=search] { flex: 1 1 200px; }
+.filters label.chk { display: inline-flex; gap: 6px; align-items: center; font-size: 13px; color: var(--muted); }
+.count { font: 12px var(--font-mono); color: var(--muted); margin-left: auto; font-variant-numeric: tabular-nums; }
+
+main { padding-block: 16px 48px; }
+.list { display: flex; flex-direction: column; gap: 8px; }
+.row { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 16px; }
+.row[data-pick="shortlist"] { border-left: 4px solid var(--short); }
+.row[data-pick="maybe"] { border-left: 4px solid var(--maybe); }
+.row[data-pick="pass"] { opacity: .62; }
+.who { min-width: 0; }
+.name { font: 600 18px/1.25 var(--font-display); margin: 0; }
+.name .unv { font: 500 11px var(--font-mono); color: var(--gold); margin-left: 6px; vertical-align: 2px; letter-spacing: .04em; }
+.meta { color: var(--muted); font-size: 13.5px; margin-top: 2px; }
+.meta .life { font-family: var(--font-mono); font-size: 12.5px; font-variant-numeric: tabular-nums; }
+.chips { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.chip { font: 500 11.5px/1 var(--font-body); background: var(--chip); color: var(--ink); padding: 4px 7px; border-radius: 5px; }
+.chip.pool { background: transparent; border: 1px solid var(--line); color: var(--muted); }
+.chip.dead { color: var(--muted); }
+.chip.ed { background: var(--maybe-bg); color: var(--maybe); }
+.chip.svg { background: var(--short-bg); color: var(--short); }
+.links { display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 6px; font-size: 13px; }
+.links .find { color: var(--muted); }
+.note { color: var(--muted); font-size: 13px; margin-top: 4px; max-width: 80ch; }
+.pick { display: flex; flex-direction: column; gap: 6px; align-items: flex-end; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
+.seg button { border: 0; background: var(--surface); color: var(--muted); font: 500 12.5px/1 var(--font-body); padding: 8px 10px; cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"][data-v="shortlist"] { background: var(--short-bg); color: var(--short); }
+.seg button[aria-pressed="true"][data-v="maybe"] { background: var(--maybe-bg); color: var(--maybe); }
+.seg button[aria-pressed="true"][data-v="pass"] { background: var(--pass-bg); color: var(--pass); }
+.seg button:disabled { cursor: default; opacity: .6; }
+.notebtn { border: 0; background: none; color: var(--accent); font: 12.5px var(--font-body); cursor: pointer; padding: 2px 0; }
+.mynote { grid-column: 1 / -1; display: flex; gap: 8px; align-items: flex-start; }
+.mynote textarea { flex: 1; min-width: 0; font: 13.5px/1.4 var(--font-body); color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px; resize: vertical; min-height: 56px; }
+.mynote .saved { font: 12px var(--font-mono); color: var(--muted); white-space: nowrap; padding-top: 8px; }
+.shown-note { grid-column: 1 / -1; font-size: 13.5px; border-top: 1px dashed var(--line); padding-top: 6px; white-space: pre-wrap; }
+.empty { text-align: center; color: var(--muted); padding: 40px 0; }
+.legend { font-size: 12.5px; color: var(--muted); margin-top: 10px; max-width: 80ch; }
+@media (max-width: 640px) {
+  .row { grid-template-columns: minmax(0, 1fr); }
+  .pick { align-items: flex-start; flex-direction: row; flex-wrap: wrap; }
+  .count { margin-left: 0; width: 100%; }
+  .bar { position: static; }
+}
+@media (prefers-reduced-motion: no-preference) { .row { transition: opacity .15s, border-color .15s; } }
+</style>
+
+<header class="top wrap">
+  <div class="eyebrow">EDICIÓ × Canouan Festive 2026 · artist longlist</div>
+  <h1>Canouan Edition Longlist</h1>
+  <p class="lede">Caribbean artists to consider for the Edicio limited edition, from the <i>A to Z of Caribbean Art</i>, the Mustique Caribbean Contemporary Art Show, the St Vincent &amp; the Grenadines research and Anjeni Ramtahal's LES ÎLES. Mark each one Shortlist, Maybe or Pass and add a note. Picks are saved for the next step.</p>
+  <div class="tally" id="tally" aria-live="polite"></div>
+  <div class="sync" id="sync">Connecting to saved picks…</div>
+</header>
+
+<div class="bar">
+  <div class="wrap">
+    <div class="tabs" role="group" aria-label="View">
+      <button class="tab" data-tab="artists" aria-pressed="true">Artists<span class="n" id="n-artists"></span></button>
+      <button class="tab" data-tab="shortlist" aria-pressed="false">My picks<span class="n" id="n-picks"></span></button>
+      <button class="tab" data-tab="advisors" aria-pressed="false">Advisors<span class="n" id="n-advisors"></span></button>
+    </div>
+    <div class="filters" id="filters">
+      <input type="search" id="q" placeholder="Search name, country, medium, gallery" aria-label="Search">
+      <select id="pool" aria-label="Source">
+        <option value="">All sources</option>
+        <option value="svg">St Vincent &amp; Grenadines</option>
+        <option value="mustique">Mustique show</option>
+        <option value="lesiles">LES ÎLES</option>
+        <option value="az">A to Z of Caribbean Art</option>
+        <option value="scott">Scott's pan-Caribbean picks</option>
+      </select>
+      <select id="life" aria-label="Living status">
+        <option value="living">Living</option>
+        <option value="unknown">Status unknown</option>
+        <option value="deceased">Deceased (estates)</option>
+        <option value="">Any status</option>
+      </select>
+      <select id="country" aria-label="Country"><option value="">All countries</option></select>
+      <label class="chk"><input type="checkbox" id="edonly"> Makes editions</label>
+      <label class="chk"><input type="checkbox" id="unpicked"> Not yet picked</label>
+      <span class="count" id="count"></span>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="list" id="list"></div>
+  <p class="legend"><b>site</b> and <b>@handle</b> were found in search results; open an Instagram handle once to confirm it. <b>find</b> opens a web search to check by hand. <span style="color:var(--gold)">UNVERIFIED</span> rows carry background facts the research hasn't confirmed yet. Data from the research of 17 Oct 2026.</p>
+</main>
+
+<script id="data" type="application/json">/*DATA*/</script>
+<script>
+(function () {
+  const DATA = JSON.parse(document.getElementById("data").textContent);
+  const ARTISTS = DATA.artists, ADVISORS = DATA.advisors;
+  const POOL_LABEL = { az: "A to Z", mustique: "Mustique show", svg: "SVG", lesiles: "LES ÎLES", scott: "Scott's pick" };
+  const picks = {};        // id -> {status, note}
+  let db = null, canWrite = true, tab = "artists";
+  const $ = (id) => document.getElementById(id);
+
+  // Country filter options
+  const countries = [...new Set(ARTISTS.map(a => a.countryKey).filter(Boolean))].sort();
+  for (const c of countries) { const o = document.createElement("option"); o.value = c; o.textContent = c; $("country").append(o); }
+
+  function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+  function searchUrl(q) { return "https://www.google.com/search?q=" + encodeURIComponent(q); }
+
+  function matches(a) {
+    const q = $("q").value.trim().toLowerCase();
+    if (q && !a.hay.includes(q)) return false;
+    if (tab === "shortlist") { const p = picks[a.id]?.status; return p === "shortlist" || p === "maybe"; }
+    const pool = $("pool").value; if (pool && !a.pools.includes(pool)) return false;
+    const life = $("life").value; if (life && a.living !== life) return false;
+    const c = $("country").value; if (c && a.countryKey !== c) return false;
+    if ($("edonly").checked && !(a.editions === "yes" || a.editions === "some")) return false;
+    if ($("unpicked").checked && picks[a.id]?.status) return false;
+    return true;
+  }
+
+  function linksHtml(a, kind) {
+    const out = [];
+    if (a.site) out.push(`<a href="${esc(a.site)}" target="_blank" rel="noopener">site</a>`);
+    if (a.ig) out.push(`<a href="https://www.instagram.com/${esc(a.ig)}/" target="_blank" rel="noopener">@${esc(a.ig)}</a>`);
+    for (const l of (a.extra || [])) out.push(`<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)}</a>`);
+    const base = kind === "advisor" ? a.name : a.name + " artist";
+    if (!a.site) out.push(`<a class="find" href="${searchUrl(base)}" target="_blank" rel="noopener">find site</a>`);
+    if (!a.ig) out.push(`<a class="find" href="${searchUrl(base + " instagram")}" target="_blank" rel="noopener">find IG</a>`);
+    return out.join("");
+  }
+
+  function pickHtml(id) {
+    const st = picks[id]?.status || "";
+    const dis = canWrite ? "" : " disabled";
+    const b = (v, label) => `<button type="button" data-v="${v}" aria-pressed="${st === v}"${dis}>${label}</button>`;
+    const note = picks[id]?.note;
+    return `<div class="pick"><div class="seg" role="group" aria-label="Pick">${b("shortlist", "Shortlist")}${b("maybe", "Maybe")}${b("pass", "Pass")}</div>` +
+      (canWrite ? `<button type="button" class="notebtn" data-act="note">${note ? "Edit note" : "Add note"}</button>` : "") + `</div>`;
+  }
+
+  function artistRow(a) {
+    const p = picks[a.id];
+    const chips = [];
+    for (const t of a.tags || []) chips.push(`<span class="chip ${t.cls || ""}">${esc(t.label)}</span>`);
+    if (a.living === "deceased") chips.push(`<span class="chip dead">estate</span>`);
+    if (a.editions === "yes" || a.editions === "some") chips.push(`<span class="chip ed">makes editions</span>`);
+    for (const pl of a.pools) chips.push(`<span class="chip pool">${POOL_LABEL[pl]}</span>`);
+    const meta = [esc(a.country), a.life ? `<span class="life">${esc(a.life)}</span>` : "", esc(a.medium)].filter(Boolean).join(" · ");
+    return `<article class="row" data-id="${a.id}" data-pick="${p?.status || ""}">
+      <div class="who">
+        <h2 class="name">${esc(a.name)}${a.verified ? "" : '<span class="unv">UNVERIFIED</span>'}</h2>
+        <div class="meta">${meta}${a.based ? ` · based ${esc(a.based)}` : ""}${a.gallery ? ` · ${esc(a.gallery)}` : ""}</div>
+        <div class="chips">${chips.join("")}</div>
+        <div class="links">${linksHtml(a, "artist")}</div>
+        ${a.note ? `<div class="note">${esc(a.note)}</div>` : ""}
+      </div>
+      ${pickHtml(a.id)}
+      ${p?.note ? `<div class="shown-note">${esc(p.note)}</div>` : ""}
+    </article>`;
+  }
+
+  function advisorRow(v) {
+    const p = picks[v.id];
+    return `<article class="row" data-id="${v.id}" data-pick="${p?.status || ""}">
+      <div class="who">
+        <h2 class="name">${esc(v.name)}</h2>
+        <div class="meta">${esc(v.region)}${v.status ? ` · <span class="life">${esc(v.status)}</span>` : ""}</div>
+        <div class="note" style="color:var(--ink)">${esc(v.role)}</div>
+        <div class="links">${linksHtml(v, "advisor")}</div>
+      </div>
+      ${pickHtml(v.id)}
+      ${p?.note ? `<div class="shown-note">${esc(p.note)}</div>` : ""}
+    </article>`;
+  }
+
+  function render() {
+    const isAdv = tab === "advisors";
+    $("filters").querySelectorAll("select, label.chk").forEach(el => el.hidden = tab !== "artists");
+    let rows;
+    if (isAdv) {
+      const q = $("q").value.trim().toLowerCase();
+      rows = ADVISORS.filter(v => !q || v.hay.includes(q)).map(advisorRow);
+    } else {
+      const list = ARTISTS.filter(matches);
+      rows = list.map(artistRow);
+    }
+    $("list").innerHTML = rows.length ? rows.join("") :
+      `<p class="empty">${tab === "shortlist" ? "No picks yet. Mark artists Shortlist or Maybe in the Artists view." : "No artists match these filters."}</p>`;
+    $("count").textContent = `${rows.length} shown`;
+    tally();
+  }
+
+  function tally() {
+    const v = Object.values(picks);
+    const n = s => v.filter(p => p.status === s).length;
+    const living = ARTISTS.filter(a => a.living === "living").length;
+    $("tally").innerHTML = `<span><b>${ARTISTS.length}</b> artists · ${living} living</span><span class="s"><b>${n("shortlist")}</b> shortlist</span><span class="m"><b>${n("maybe")}</b> maybe</span><span class="p"><b>${n("pass")}</b> pass</span>`;
+    $("n-artists").textContent = ARTISTS.length;
+    $("n-picks").textContent = ARTISTS.filter(a => ["shortlist", "maybe"].includes(picks[a.id]?.status)).length;
+    $("n-advisors").textContent = ADVISORS.length;
+  }
+
+  // Writes: one doc per artist or advisor in "picks"
+  async function save(id, patch) {
+    const prev = picks[id] || {};
+    const next = { ...prev, ...patch };
+    picks[id] = next; render();
+    if (!db) { $("sync").textContent = "Not connected: this pick is shown here but not saved."; return; }
+    try {
+      const rec = ARTISTS.find(a => a.id === id) || ADVISORS.find(a => a.id === id);
+      await db.collection("picks").doc(id).set({
+        status: next.status || "", note: next.note || "", name: rec ? rec.name : id,
+        kind: ADVISORS.some(a => a.id === id) ? "advisor" : "artist", updatedAt: new Date().toISOString()
+      });
+      $("sync").textContent = "Saved.";
+    } catch (e) {
+      picks[id] = prev; render();
+      $("sync").textContent = e && (e.code === "permission_denied" || e.code === "not_granted")
+        ? "You can view picks but not change them." : "That pick didn't save. Check your connection and try again.";
+    }
+  }
+
+  $("list").addEventListener("click", (ev) => {
+    const row = ev.target.closest(".row"); if (!row) return;
+    const id = row.dataset.id;
+    const b = ev.target.closest(".seg button");
+    if (b && !b.disabled) {
+      const v = b.dataset.v;
+      save(id, { status: picks[id]?.status === v ? "" : v });
+      return;
+    }
+    if (ev.target.closest('[data-act="note"]')) {
+      if (row.querySelector(".mynote")) return;
+      const box = document.createElement("div"); box.className = "mynote";
+      box.innerHTML = `<textarea id="note-${id}" aria-label="Note on this artist" placeholder="Why them, which work, who knows them…"></textarea><span class="saved"></span>`;
+      const shown = row.querySelector(".shown-note"); if (shown) shown.hidden = true;
+      row.append(box);
+      const ta = box.querySelector("textarea"); ta.value = picks[id]?.note || ""; ta.focus();
+      ta.addEventListener("blur", () => {
+        if (ta.value !== (picks[id]?.note || "")) save(id, { note: ta.value.trim() });
+        else render();
+      });
+    }
+  });
+
+  document.querySelectorAll(".tab").forEach(t => t.addEventListener("click", () => {
+    tab = t.dataset.tab;
+    document.querySelectorAll(".tab").forEach(x => x.setAttribute("aria-pressed", String(x === t)));
+    render();
+  }));
+  ["q", "pool", "life", "country", "edonly", "unpicked"].forEach(id => $(id).addEventListener("input", render));
+
+  render();
+
+  // Saved picks
+  (async () => {
+    try {
+      db = await window.claude?.use?.("db");
+    } catch (e) { db = null; }
+    if (!db) { $("sync").textContent = "Picks can't be saved in this view. Open the page signed in to claude.ai."; canWrite = false; render(); return; }
+    db.collection("picks").onSnapshot((snap) => {
+      for (const k of Object.keys(picks)) delete picks[k];
+      for (const d of snap.docs) { const v = d.data() || {}; picks[d.id] = { status: v.status || "", note: v.note || "" }; }
+      const focused = document.activeElement && document.activeElement.tagName === "TEXTAREA";
+      if (!focused) render(); else tally();
+      $("sync").textContent = `${snap.size} saved pick${snap.size === 1 ? "" : "s"}.`;
+    }, () => { $("sync").textContent = "Couldn't load saved picks. Reload the page to try again."; });
+  })();
+})();
+</script>

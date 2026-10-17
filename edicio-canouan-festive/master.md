@@ -13,6 +13,7 @@ to Z of Caribbean Art* and the Mustique art show. Last updated 17 Oct 2026.
 | `advisors.md` | The book's editors, 18 regional advisors and 29 writers as potential advisors, with current roles |
 | `mustique.md` | The Mustique Caribbean Contemporary Art Show: editions, juries, every artist, Anjeni's gallery LES ÎLES |
 | `data/az-artists.json` | The A to Z data (country, dates, medium, website, Instagram, gallery, editions, sources) |
+| `review/` | The review page: https://claude.ai/artifact/UT6nBSXukBkr9e1BPGczWp (picks save to its database). Rebuild with `python3 -I review/build.py` |
 
 Scott's original research is in Alex OS:
 [Research · Caribbean art and the festive gallery](https://apps.amengual.net/library/a10f06f5-1ca3-4905-8c8d-ae0c1660360e)
@@ -69,8 +70,9 @@ Richardson, Elladj Lincy Deloumeaux, Morel Doucet, Errol Brewster, Mark King.
 ### 3. The *A to Z of Caribbean Art* (established, from the early 20th century to now)
 
 266 artists from the English-, Spanish-, French- and Dutch-speaking Caribbean
-and the diaspora. Pass 1 found **96 living**, 65 deceased and 105 not yet
-checked. By country: Cuba 43, Jamaica 34, Haiti 29, Trinidad & Tobago 27,
+and the diaspora. After two research passes (221 of 266 researched): **127
+living**, 82 deceased, 57 unknown; 57 artist websites and 8 Instagram handles
+found. By country: Cuba 43, Jamaica 34, Haiti 29, Trinidad & Tobago 27,
 Puerto Rico 18, Dominican Republic 16, Guyana 11, The Bahamas 8, Barbados 6+,
 the French and Dutch Caribbean and Suriname about 20. The **Eastern
 Caribbean is thin**: one Vincentian entry each for Huggins and Bynoe, Canute
@@ -110,13 +112,22 @@ See `az-artists.md`.
 2. Geoffrey MacLean (A to Z advisor, Trinidad) died in 2024.
 3. Polibio Díaz is Dominican, not Cuban. Roberto Diago (1920–1955) and Juan
    Roberto Diago are two different artists. Ras Akyem-i is Barbadian.
-4. Veerle Poupeye now runs the Cayman Islands National Museum (since November
+4. Pass 2 found further deaths: John Beadle (2024), Tony Capellán (2017),
+   Alison Chapman-Andrews (2025), Quisqueya Henríquez (2024), Bendel Hydes
+   (2024), Jorge Pineda (2024), Dawn Scott (2010), Embah (2015), Leila Locke
+   (1992), plus several historic artists. Ewan Atkinson is Barbadian; Radcliffe
+   "Ruddy" Roye is a photographer; Guyodo is Frantz Jacques (Haiti, Atis
+   Rezistans).
+5. Veerle Poupeye now runs the Cayman Islands National Museum (since November
    2024); Nicole Smythe-Johnson is at Boston University.
 
 ## What's still to do
 
-1. **Pass 2 of the A to Z research:** websites and Instagram for the living
-   and unchecked artists (stopped at the per-turn search limit).
+1. **Curate on the review page.** Instagram is thin (8 handles): search
+   results rarely show handles, and Instagram itself is blocked here. Use the
+   "find IG" links on the shortlist, or a third pass on the shortlist alone.
+   45 A to Z names are still unresearched or unidentified (e.g. Susan Dayal,
+   Pascal Smarth, José Man Lius, Osaira Muyale).
 2. Read the Instagram post Alex sent (blocked here: paste the names or give the
    account's handle).
 3. Alex's second source (still to come).

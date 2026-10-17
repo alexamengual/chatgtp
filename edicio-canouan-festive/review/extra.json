@@ -1,0 +1,432 @@
+{
+ "artists": [
+  {
+   "name": "Akilah Watts",
+   "country": "Barbados",
+   "medium": "painting, multidisciplinary",
+   "living": "living",
+   "site": "https://akilahwatts.wixsite.com/akilah",
+   "ig": "stricklyakilah",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 · 1st prize"
+    }
+   ],
+   "verified": true,
+   "note": "Instagram from her Linktree title; confirm."
+  },
+  {
+   "name": "Brian Ashing",
+   "country": "Trinidad and Tobago",
+   "life": "b. 1994",
+   "medium": "oil painting",
+   "living": "living",
+   "site": "https://thebrianashing.wixsite.com/home",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 · 2nd prize"
+    }
+   ],
+   "verified": true,
+   "note": "Mick Jagger bought his prize painting. Co-curates LOFTT Gallery, Port of Spain."
+  },
+  {
+   "name": "Anna Gibson",
+   "country": "Barbados",
+   "medium": "painting",
+   "living": "living",
+   "site": "https://annagibson246.com",
+   "ig": "anner_er",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 · 3rd prize"
+    }
+   ],
+   "verified": true,
+   "note": "Instagram from an older interview; confirm."
+  },
+  {
+   "name": "Maurel Reynolds",
+   "country": "St Vincent and the Grenadines",
+   "medium": "watercolour",
+   "living": "living",
+   "pools": [
+    "mustique",
+    "svg"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 longlist"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Romario Martindale",
+   "country": "St Vincent and the Grenadines",
+   "based": "Bequia",
+   "medium": "acrylic painting",
+   "living": "living",
+   "pools": [
+    "mustique",
+    "svg"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 longlist"
+    }
+   ],
+   "verified": true,
+   "extra": [
+    {
+     "label": "press",
+     "url": "https://stvincenttimes.com/showcasing-art-from-the-grenadines/"
+    }
+   ]
+  },
+  {
+   "name": "Zen Punnett",
+   "country": "St Vincent and the Grenadines",
+   "living": "living",
+   "pools": [
+    "mustique",
+    "svg"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 longlist"
+    }
+   ],
+   "verified": false,
+   "note": "Named on the official site only."
+  },
+  {
+   "name": "Brandon Best",
+   "country": "Barbados",
+   "medium": "abstract; oil pastel, acrylic, mixed media",
+   "living": "living",
+   "ig": "brandonkbest",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Instagram unconfirmed."
+  },
+  {
+   "name": "Kesia Estwick",
+   "country": "Barbados",
+   "life": "b. 1990",
+   "medium": "visual art; former fashion designer",
+   "living": "living",
+   "ig": "kingkesia",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Works as King Kesia. Instagram unconfirmed."
+  },
+  {
+   "name": "Dominique Hunter",
+   "country": "Guyana",
+   "life": "b. 1987",
+   "medium": "multidisciplinary",
+   "living": "living",
+   "site": "https://dominiquehunter.org",
+   "ig": "dhunter.art",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Instagram unconfirmed."
+  },
+  {
+   "name": "Ozy Merrique",
+   "country": "Trinidad and Tobago",
+   "medium": "painting, music, writing",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 longlist"
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Aurora / Kristen Honeywell",
+   "country": "Trinidad and Tobago",
+   "medium": "oil with resin and found materials",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 longlist"
+    }
+   ],
+   "verified": false,
+   "note": "Listed as Aurora on the longlist and Kristen on the artist page; probably one person."
+  },
+  {
+   "name": "Naja Simeon (Sakey)",
+   "country": "Saint Lucia",
+   "medium": "murals, painting",
+   "living": "living",
+   "site": "https://sakeyartproductions.com",
+   "ig": "sakeyart",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 longlist"
+    }
+   ],
+   "verified": false,
+   "note": "Identity match with the longlisted Naja Simeon not confirmed."
+  },
+  {
+   "name": "Sabrina Romulus",
+   "country": "Saint Lucia",
+   "medium": "portraiture",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2024 longlist"
+    }
+   ],
+   "verified": false
+  },
+  {
+   "name": "Nzimbu Browne",
+   "country": "St Vincent and the Grenadines",
+   "medium": "banana-leaf collage",
+   "living": "living",
+   "gallery": "Fig Tree Studio Art Gallery (Antigua)",
+   "pools": [
+    "svg"
+   ],
+   "verified": true,
+   "note": "From Scott's research. Check whether works in SVG come through the gallery."
+  },
+  {
+   "name": "Peace Memorial Hall mural team",
+   "country": "St Vincent and the Grenadines",
+   "medium": "sculptural mural",
+   "living": "living",
+   "pools": [
+    "svg"
+   ],
+   "verified": true,
+   "note": "Shanique Stewart, Jania Francis, Rahje Ash, Donnie Collins. SVG's first large sculptural mural, unveiled 31 Mar 2026 (Searchlight)."
+  },
+  {
+   "name": "Camille Saunders-Musser",
+   "country": "St Vincent and the Grenadines",
+   "medium": "oil painting",
+   "living": "living",
+   "pools": [
+    "svg"
+   ],
+   "verified": true,
+   "note": "Founder of the Youlou Arts Foundation."
+  },
+  {
+   "name": "Sargeant Brothers",
+   "country": "St Vincent and the Grenadines",
+   "based": "Bequia",
+   "medium": "model boats",
+   "living": "living",
+   "pools": [
+    "svg"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Mike Goddard",
+   "country": "UK",
+   "based": "Bequia",
+   "medium": "pottery",
+   "living": "living",
+   "pools": [
+    "svg"
+   ],
+   "verified": true,
+   "note": "English, lives on Bequia."
+  },
+  {
+   "name": "Julie Savage Lea",
+   "country": "",
+   "based": "Bequia",
+   "medium": "painting",
+   "living": "unknown",
+   "pools": [
+    "svg"
+   ],
+   "verified": false,
+   "note": "One source (Caribbean Beat)."
+  },
+  {
+   "name": "Peter Carr",
+   "country": "",
+   "based": "Bequia",
+   "medium": "painting",
+   "living": "unknown",
+   "pools": [
+    "svg"
+   ],
+   "verified": false,
+   "note": "One source (Caribbean Beat)."
+  },
+  {
+   "name": "Claude Victorine",
+   "country": "",
+   "based": "Bequia",
+   "medium": "painting",
+   "living": "unknown",
+   "pools": [
+    "svg"
+   ],
+   "verified": false,
+   "note": "One source (Caribbean Beat)."
+  },
+  {
+   "name": "Roland \"Scrapie\" Dopwell",
+   "country": "St Vincent and the Grenadines",
+   "living": "unknown",
+   "pools": [
+    "svg"
+   ],
+   "verified": false,
+   "note": "Future Africa exhibition, 2025 (one government page)."
+  },
+  {
+   "name": "Nkuru Dyer",
+   "country": "St Vincent and the Grenadines",
+   "living": "unknown",
+   "pools": [
+    "svg"
+   ],
+   "verified": false,
+   "note": "Future Africa exhibition, 2025 (one government page)."
+  },
+  {
+   "name": "Suchitra Mattai",
+   "country": "Guyana",
+   "based": "USA",
+   "living": "living",
+   "pools": [
+    "lesiles"
+   ],
+   "verified": true,
+   "note": "First artist to join LES ÎLES (2020)."
+  },
+  {
+   "name": "Yermine Richardson",
+   "country": "Dominican Republic",
+   "based": "Barcelona",
+   "living": "living",
+   "pools": [
+    "lesiles"
+   ],
+   "verified": true,
+   "note": "Shown by LES ÎLES at Caribbean Days Paris 2025."
+  },
+  {
+   "name": "Elladj Lincy Deloumeaux",
+   "country": "Guadeloupe",
+   "based": "Paris",
+   "living": "living",
+   "pools": [
+    "lesiles"
+   ],
+   "verified": true,
+   "editions": "some",
+   "note": "LES ÎLES sells his print Reborn."
+  },
+  {
+   "name": "Morel Doucet",
+   "country": "Haiti",
+   "based": "Miami",
+   "living": "living",
+   "pools": [
+    "lesiles"
+   ],
+   "verified": true
+  },
+  {
+   "name": "Errol Brewster",
+   "country": "",
+   "living": "unknown",
+   "pools": [
+    "lesiles"
+   ],
+   "verified": false,
+   "note": "Listed on LES ÎLES' Artsy page."
+  },
+  {
+   "name": "Christopher Cozier",
+   "country": "Trinidad and Tobago",
+   "medium": "drawing, printmaking, installation",
+   "living": "living",
+   "gallery": "David Krut Projects (prints)",
+   "pools": [
+    "scott"
+   ],
+   "tags": [],
+   "verified": true,
+   "note": "Not in the A to Z list. 2026 Roy Lichtenstein Award (FCA). A 2026 Mustique nominator according to Scott's research, not confirmed."
+  }
+ ],
+ "poolAdd": {
+  "Nadia Huggins": [
+   "svg"
+  ],
+  "Holly Bynoe": [
+   "svg"
+  ],
+  "Mark King": [
+   "lesiles"
+  ],
+  "Llewellyn Xavier": [
+   "scott"
+  ]
+ },
+ "tagAdd": {
+  "Nadia Huggins": "Vincentian anchor (Scott)",
+  "Holly Bynoe": "Vincentian; also an advisor"
+ },
+ "noteOverride": {
+  "Holly Bynoe": "Vincentian curator, writer and artist. Co-founder of ARC Magazine with Nadia Huggins; ex-Chief Curator, National Art Gallery of The Bahamas. Also an A to Z advisor."
+ }
+}

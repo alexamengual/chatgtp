@@ -1,0 +1,268 @@
+[
+ {
+  "name": "Akuzuru",
+  "searched": false
+ },
+ {
+  "name": "Thierry Alet",
+  "searched": false
+ },
+ {
+  "name": "José R. Alicea",
+  "searched": false
+ },
+ {
+  "name": "Allora & Calzadilla",
+  "searched": false
+ },
+ {
+  "name": "Juan Carlos Alom",
+  "searched": false
+ },
+ {
+  "name": "Hurvin Anderson",
+  "searched": false
+ },
+ {
+  "name": "Victor Anicet",
+  "searched": false
+ },
+ {
+  "name": "Ano",
+  "searched": true,
+  "note": "Search found no identifiable artist named Ano; name ambiguous"
+ },
+ {
+  "name": "Janine Antoni",
+  "searched": true,
+  "born": 1964,
+  "based": "Brooklyn, USA",
+  "gallery": "Luhring Augustine; Anthony Meier Fine Arts",
+  "living": true,
+  "note": "Born Freeport, Bahamas; no own website/Instagram found in results",
+  "sources": [
+   "https://www.luhringaugustine.com/artists/janine-antoni",
+   "https://www.cityarts.org/antoni"
+  ]
+ },
+ {
+  "name": "Deborah Anzinger",
+  "searched": true,
+  "website": "https://www.deborahanzinger.com",
+  "born": 1978,
+  "living": true,
+  "note": "Born Kingston; founder of New Local Space (NLS); 2019 solo at ICA Philadelphia",
+  "sources": [
+   "https://www.deborahanzinger.com/about",
+   "https://ocula.com/artists/deborah-anzinger/"
+  ]
+ },
+ {
+  "name": "Gesner Armand",
+  "searched": true,
+  "born": 1936,
+  "died": 2008,
+  "living": false,
+  "note": "Born Croix-des-Bouquets; Centre d'Art member; died 2008",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Gesner_Armand",
+   "https://www.naderhaitianart.com/collections/armand-gesner"
+  ]
+ },
+ {
+  "name": "Ewan Atkinson",
+  "searched": true,
+  "country": "Barbados",
+  "born": 1975,
+  "living": true,
+  "medium": "painting, illustration, design",
+  "note": "CORRECTION: Barbadian, not Jamaican; BFA coordinator at Barbados Community College, Fresh Milk board, TENDER grantee 2024",
+  "sources": [
+   "https://smallaxe.net/sxvisualities/portfolios/46",
+   "https://freshmilkbarbados.com/projects/tender/tender-grantees-2024-interviews/ewan-atkinson/"
+  ]
+ },
+ {
+  "name": "Firelei Báez",
+  "searched": true,
+  "gallery": "Hauser & Wirth",
+  "living": true,
+  "note": "Survey at MCA Chicago through May 2026; own website/Instagram not found in results",
+  "sources": [
+   "https://www.hauserwirth.com/artists/firelei-baez/"
+  ]
+ },
+ {
+  "name": "Ralph and Vera Baney",
+  "searched": true,
+  "country": "Trinidad and Tobago",
+  "based": "Maryland, USA",
+  "medium": "sculpture (Ralph); pottery (Vera)",
+  "living": false,
+  "note": "Ralph Baney, San Fernando-born sculptor, died aged 84 at Maryland home; Vera Baney, potter (Hummingbird Medal, honorary doctorate), died about five years earlier",
+  "sources": [
+   "https://www.guardian.co.tt/article-6.2.377539.880898882a"
+  ]
+ },
+ {
+  "name": "Wray Banker",
+  "searched": true,
+  "country": "Cayman Islands",
+  "born": 1968,
+  "medium": "pop-art painting, graphic design, mixed media",
+  "living": true,
+  "note": "Born West Bay, Grand Cayman; founding member of Native Sons collective; Ode to Milo series",
+  "sources": [
+   "https://nationalgallery.org.ky/artist/wray-banker",
+   "https://www.caymancompass.com/2014/03/28/creative-caymanians-wray-banker-making-his-mark/"
+  ]
+ },
+ {
+  "name": "Abel Barroso",
+  "searched": true,
+  "born": 1971,
+  "based": "Havana",
+  "gallery": "Pan American Art (Miami); Michel Soskine (Madrid)",
+  "sources": [
+   "https://www.cubanartresources.org/abelbarroso",
+   "https://soskine.com/artists/abel-barroso"
+  ]
+ },
+ {
+  "name": "John Beadle",
+  "searched": true,
+  "country": "Bahamas",
+  "born": 1964,
+  "died": 2024,
+  "living": false,
+  "medium": "painting, sculpture, installation (Junkanoo-influenced)",
+  "note": "Died 2024; posthumous collaboration with Lavar Munroe at Bahamas Pavilion, Venice Biennale 2026",
+  "sources": [
+   "https://artreview.com/john-beadle-pioneer-bahamian-artist-1964-2024/",
+   "https://nagb.org.bs/the-bahamas-announces-participation-in-2026-venice-biennale/"
+  ]
+ },
+ {
+  "name": "José Bedia",
+  "searched": true,
+  "born": 1959,
+  "based": "Miami",
+  "sources": [
+   "https://tamarind.unm.edu/artist/jose-bedia/",
+   "https://www.cubanartresources.org/jose-bedia"
+  ]
+ },
+ {
+  "name": "La Vaughn Belle",
+  "searched": true,
+  "website": "https://lavaughnbelle.com",
+  "born": 1974,
+  "living": true,
+  "note": "Co-created I Am Queen Mary (Copenhagen); 2026 solo at Nordic Museum; birthplace given variously as Tobago/Trinidad",
+  "sources": [
+   "https://en.wikipedia.org/wiki/La_Vaughn_Belle",
+   "https://nordicmuseum.org/exhibitions/la-vaughn-belle"
+  ]
+ },
+ {
+  "name": "Mario Benjamin",
+  "searched": true,
+  "website": "https://www.mariobenjamin.net",
+  "born": 1964,
+  "note": "Website from a 2010 exhibition listing; liveness unverified. Born Port-au-Prince",
+  "sources": [
+   "https://www.naderhaitianart.com/collections/mario-benjamin-haitian-1964"
+  ]
+ },
+ {
+  "name": "Christian Bertin",
+  "searched": true,
+  "country": "Martinique",
+  "born": 1952,
+  "medium": "assemblage, installation, performance",
+  "note": "Born Fort-de-France; shown at Liverpool Biennial; profile at Fondation Pernod Ricard; no website found",
+  "sources": [
+   "https://www.fondation-pernod-ricard.com/en/node/6152"
+  ]
+ },
+ {
+  "name": "Jeannette Betancourt",
+  "searched": true,
+  "website": "https://www.jeannettebetancourt.com",
+  "based": "Mexico City",
+  "medium": "sculpture",
+  "note": "Website taken from her CV (Premio Celeste); sculptor with Puerto Rican link, based in Mexico City; not to be confused with Carlos Betancourt",
+  "sources": [
+   "https://premioceleste.it/info/idu:82662"
+  ]
+ },
+ {
+  "name": "Terry Boddie",
+  "searched": true,
+  "website": "https://www.terryboddie.com",
+  "medium": "photography, mixed media",
+  "gallery": "Shiva Gallery",
+  "note": "Website per EverybodyWiki, not confirmed live",
+  "sources": [
+   "https://shivagallery.org/terry-boddie/",
+   "https://en.everybodywiki.com/Terry_Boddie"
+  ]
+ },
+ {
+  "name": "Isaiah James Boodhoo",
+  "searched": true,
+  "born": 1932,
+  "died": 2004,
+  "living": false,
+  "note": "Trinidadian painter and poet; gallery in his name at Indian Caribbean Museum, Carapichaima (2018)",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Isaiah_James_Boodhoo",
+   "https://www.caribbean-beat.com/issue-6/isaiah-james-boodhoo-poet-plains"
+  ]
+ },
+ {
+  "name": "Edward Bowen",
+  "searched": true,
+  "country": "Trinidad and Tobago",
+  "based": "Trinidad",
+  "born": 1963,
+  "living": true,
+  "medium": "painting, drawing",
+  "gallery": "Y Art Gallery",
+  "note": "Included in Grenada Pavilion, Venice Biennale 2026; book Black Light Void (2024)",
+  "sources": [
+   "https://repeatingislands.com/2026/08/23/edward-bowen-at-the-grenada-pavilion-2026-biennale-di-venezia/"
+  ]
+ },
+ {
+  "name": "Frank Bowling",
+  "searched": true,
+  "website": "https://frankbowling.com",
+  "instagram": "frankbowlingstudio",
+  "instagram_confidence": "likely",
+  "born": 1934,
+  "living": true,
+  "gallery": "Hauser & Wirth; Gazelli Art House",
+  "note": "Born British Guiana; knighted 2020; Instagram from a single blog mention",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Frank_Bowling",
+   "https://manchesteruniversitypress.co.uk/blog/2021/10/04/black-history-month-frank-bowling/"
+  ]
+ },
+ {
+  "name": "Ernest Breleur",
+  "searched": true,
+  "born": 1945,
+  "living": true,
+  "gallery": "Maëlle Galerie; Ceysson & Bénétière",
+  "note": "Paris show at Ceysson & Bénétière to 10 Oct 2026; possible studio Instagram studio_breleur unconfirmed",
+  "sources": [
+   "https://www.maellegalerie.com/en/ernest-breleur-2/",
+   "https://repeatingislands.com/2026/09/01/exhibition-ernest-breleur-at-ceysson-benetiere-paris/"
+  ]
+ },
+ {
+  "name": "Tania Bruguera",
+  "searched": false
+ }
+]
