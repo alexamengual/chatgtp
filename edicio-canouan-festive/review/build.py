@@ -50,7 +50,9 @@ for r in AZ:
         "life": life(r), "living": living(r.get("living")), "medium": clean(r.get("medium")),
         "gallery": clean(r.get("gallery")), "editions": clean(r.get("editions")),
         "site": r.get("website") or "", "ig": r.get("instagram") or "",
-        "note": strip_boiler(r.get("note")), "verified": bool(r.get("researched")), "tags": [],
+        "note": strip_boiler(r.get("note3") or r.get("note")), "verified": bool(r.get("researched")), "tags": [],
+        "born": r.get("born"), "died": r.get("died"), "origin": clean(r.get("origin_country")),
+        "residence": clean(r.get("residence")) or clean(r.get("based")), "works": r.get("works") or [],
     }
     a["pools"] += EXTRA["poolAdd"].get(r["name"], [])
     a["note"] = EXTRA.get("noteOverride", {}).get(r["name"], a["note"])
@@ -60,14 +62,55 @@ for r in AZ:
 
 for e in EXTRA["artists"]:
     a = {"id": "x-" + slug(e["name"]), "life": "", "based": "", "medium": "", "gallery": "",
-         "editions": "", "site": "", "ig": "", "note": "", "tags": [], **e}
+         "editions": "", "site": "", "ig": "", "note": "", "tags": [], "works": [], **e}
+    a["origin"] = clean(e.get("origin_country")) or a.get("country", "")
+    a["residence"] = clean(e.get("residence")) or a.get("based", "")
+    if e.get("note3"): a["note"] = strip_boiler(e["note3"])
+    a.pop("origin_country", None); a.pop("note3", None)
     if "svg" in a["pools"] and not any(t.get("cls") == "svg" for t in a["tags"]):
         a["tags"] = a["tags"] + [{"label": "St Vincent & Grenadines", "cls": "svg"}]
     artists.append(a)
 
+CARIB = ["jamaica", "trinidad", "tobago", "barbados", "bahamas", "nassau", "haiti", "port-au-prince", "cuba", "havana",
+         "dominican republic", "santo domingo", "puerto rico", "san juan", "guyana", "georgetown", "suriname", "paramaribo",
+         "martinique", "guadeloupe", "curaçao", "curacao", "aruba", "sint maarten", "st. martin", "saint-martin", "st martin",
+         "st vincent", "saint vincent", "kingstown", "bequia", "grenada", "saint lucia", "st lucia", "dominica", "antigua",
+         "cayman", "virgin islands", "st. croix", "st croix", "bermuda", "french guiana", "guyane", "moengo", "léogâne",
+         "kingston", "port of spain", "mariani", "cap-haïtien", "loíza", "montego bay", "fort-de-france", "baie-mahault", "caribbean"]
+ABROAD = ["usa", "united states", "new york", "brooklyn", "miami", "los angeles", "chicago", "boston", "washington", "baltimore",
+          "atlanta", "philadelphia", "colorado", "ohio", "nashville", "new jersey", "staten island", "austin", "bronx", "queens",
+          " uk", "united kingdom", "london", "england", "cornwall", "scotland", "hastings", "cambridgeshire", "canada", "toronto",
+          "montreal", "vancouver", "victoria", "ontario", "france", "paris", "netherlands", "amsterdam", "rotterdam", "den haag",
+          "germany", "berlin", "spain", "madrid", "barcelona", "gran canaria", "las palmas", "mexico", "mérida", "vienna", "austria",
+          "denmark", "copenhagen", "japan", "nagoya", "abidjan", "north carolina", "abroad"]
+
+def lives_region(res):
+    s = " " + (res or "").lower()
+    if not res.strip(): return ""
+    c = any(k in s for k in CARIB)
+    a = any(k in s.replace("port of spain", "") for k in ABROAD)
+    return "both" if c and a else "caribbean" if c else "abroad" if a else ""
+
+THIS_YEAR = 2026
 for a in artists:
-    a["countryKey"] = country_key(a["country"])
-    a["hay"] = " ".join(str(a.get(k, "")) for k in ("name", "country", "based", "medium", "gallery", "note")).lower()
+    b = a.get("born")
+    try: b = int(str(b)[:4]) if b else None
+    except ValueError: b = None
+    if b is None:
+        m = re.search(r"b\. (\d{4})", a.get("life", "")); b = int(m.group(1)) if m else None
+    a["born"] = b
+    a["age"] = THIS_YEAR - b if b and a["living"] != "deceased" else None
+    old = a["living"] == "deceased" or (a["age"] is not None and a["age"] > 75)
+    a["section"] = "master" if old else "main"
+    if a["living"] == "deceased" and b and a.get("died"): a["life"] = f"{b}–{a['died']}"
+    a["livesRegion"] = lives_region(a.get("residence", ""))
+    a["works"] = [w for w in (a.get("works") or []) if isinstance(w, dict) and w.get("title")][:3]
+    if not a.get("origin"): a["origin"] = a.get("country", "")
+
+for a in artists:
+    a["countryKey"] = country_key(a["origin"] or a["country"])
+    a["hay"] = " ".join(str(a.get(k, "")) for k in ("name", "country", "origin", "residence", "medium", "gallery", "note")).lower()
+    a["hay"] += " " + " ".join(w["title"] for w in a["works"]).lower()
     a["hay"] += " " + " ".join(t["label"] for t in a["tags"]).lower()
 
 # Order: SVG and Mustique first, then the rest alphabetically by surname

@@ -16,7 +16,24 @@
     }
    ],
    "verified": true,
-   "note": "Instagram from her Linktree title; confirm."
+   "note": "Instagram from her Linktree title; confirm.",
+   "born": 1996,
+   "life": "b. 1996",
+   "origin_country": "Barbados",
+   "residence": "Barbados",
+   "works": [
+    {
+     "title": "Moments From My Island Home (series)",
+     "year": null,
+     "url": "https://themelrosegallery.com/artists/280/"
+    },
+    {
+     "title": "Beautifully Braided (series)",
+     "year": null,
+     "url": "https://themelrosegallery.com/artists/280/"
+    }
+   ],
+   "note3": "Residence inferred from gallery listing as Barbadian; BFA Barbados Community College 2017."
   },
   {
    "name": "Brian Ashing",
@@ -34,7 +51,28 @@
     }
    ],
    "verified": true,
-   "note": "Mick Jagger bought his prize painting. Co-curates LOFTT Gallery, Port of Spain."
+   "note": "Mick Jagger bought his prize painting. Co-curates LOFTT Gallery, Port of Spain.",
+   "born": 1994,
+   "origin_country": "Trinidad and Tobago",
+   "residence": "Sangre Grande, Trinidad and Tobago",
+   "works": [
+    {
+     "title": "The Quiet",
+     "year": 2025,
+     "url": "https://reach.dog/shop/les-iles/products/the-quiet"
+    },
+    {
+     "title": "Survivor",
+     "year": 2025,
+     "url": "https://reach.dog/shop/les-iles/products/survivor"
+    },
+    {
+     "title": "Prelude (first solo show, 101 Art Gallery)",
+     "year": null,
+     "url": "https://guardian.co.tt/article/imaginative-realism-at-101-6.2.1382162.18b6558f95"
+    }
+   ],
+   "note3": "Oil painter; UWI St Augustine graduate; paints full-time from home in Trinidad."
   },
   {
    "name": "Anna Gibson",
@@ -52,7 +90,16 @@
     }
    ],
    "verified": true,
-   "note": "Instagram from an older interview; confirm."
+   "note": "Instagram from an older interview; confirm.",
+   "origin_country": "Barbados",
+   "works": [
+    {
+     "title": "Landscape Studies 2",
+     "year": null,
+     "url": "https://www.artworkarchive.com/profile/caribbean-brushstrokes/artwork/landscape-studies-2"
+    }
+   ],
+   "note3": "Barbadian painter; BE OPEN Regional Artist of the Month (June); Fresh Milk Healing Arts Initiative / Barbados Trailway rain shelter commission. Birth year and residence not shown."
   },
   {
    "name": "Maurel Reynolds",
@@ -68,7 +115,8 @@
      "label": "Mustique 2024 longlist"
     }
    ],
-   "verified": true
+   "verified": true,
+   "note3": "No results found for this name; check spelling."
   },
   {
    "name": "Romario Martindale",
@@ -91,7 +139,8 @@
      "label": "press",
      "url": "https://stvincenttimes.com/showcasing-art-from-the-grenadines/"
     }
-   ]
+   ],
+   "note3": "No results found for this name; check spelling."
   },
   {
    "name": "Zen Punnett",
@@ -107,7 +156,8 @@
     }
    ],
    "verified": false,
-   "note": "Named on the official site only."
+   "note": "Named on the official site only.",
+   "note3": "No results found for this name; check spelling."
   },
   {
    "name": "Brandon Best",
@@ -124,7 +174,8 @@
     }
    ],
    "verified": true,
-   "note": "Instagram unconfirmed."
+   "note": "Instagram unconfirmed.",
+   "note3": "No Caribbean artist of this name found in results."
   },
   {
    "name": "Kesia Estwick",
@@ -142,7 +193,8 @@
     }
    ],
    "verified": true,
-   "note": "Works as King Kesia. Instagram unconfirmed."
+   "note": "Works as King Kesia. Instagram unconfirmed.",
+   "note3": "No results found for this name; check spelling."
   },
   {
    "name": "Dominique Hunter",
@@ -161,7 +213,11 @@
     }
    ],
    "verified": true,
-   "note": "Instagram unconfirmed."
+   "note": "Instagram unconfirmed.",
+   "born": 1987,
+   "origin_country": "Guyana",
+   "residence": "Georgetown, Guyana",
+   "note3": "Correction: results show a Guyanese (not Bahamian) artist, born Georgetown 1987; BFA Barbados Community College 2015; Director of Studies at E.R. Burrowes School of Art; motif: morning glory vine. Assumes the listed name is this artist."
   },
   {
    "name": "Ozy Merrique",
@@ -176,7 +232,8 @@
      "label": "Mustique 2024 longlist"
     }
    ],
-   "verified": true
+   "verified": true,
+   "note3": "No results found for this name; check spelling."
   },
   {
    "name": "Aurora / Kristen Honeywell",
@@ -192,7 +249,8 @@
     }
    ],
    "verified": false,
-   "note": "Listed as Aurora on the longlist and Kristen on the artist page; probably one person."
+   "note": "Listed as Aurora on the longlist and Kristen on the artist page; probably one person.",
+   "note3": "No results found for this name."
   },
   {
    "name": "Naja Simeon (Sakey)",
@@ -210,7 +268,8 @@
     }
    ],
    "verified": false,
-   "note": "Identity match with the longlisted Naja Simeon not confirmed."
+   "note": "Identity match with the longlisted Naja Simeon not confirmed.",
+   "note3": "No results found for this name in two searches; unverified."
   },
   {
    "name": "Sabrina Romulus",
@@ -225,7 +284,8 @@
      "label": "Mustique 2024 longlist"
     }
    ],
-   "verified": false
+   "verified": false,
+   "note3": "No results found for this name; unverified."
   },
   {
    "name": "Nzimbu Browne",
@@ -237,7 +297,17 @@
     "svg"
    ],
    "verified": true,
-   "note": "From Scott's research. Check whether works in SVG come through the gallery."
+   "note": "From Scott's research. Check whether works in SVG come through the gallery.",
+   "origin_country": "Saint Vincent and the Grenadines",
+   "residence": "Kingstown, Saint Vincent and the Grenadines",
+   "works": [
+    {
+     "title": "Collage (UNNY253G)",
+     "year": 2004,
+     "url": "https://www.un.org/ungifts/collage"
+    }
+   ],
+   "note3": "Self-taught 'banana art' (dried banana leaf) artist and musician; studio on McKie's Hill, Kingstown. Birth year not shown."
   },
   {
    "name": "Peace Memorial Hall mural team",
@@ -248,7 +318,9 @@
     "svg"
    ],
    "verified": true,
-   "note": "Shanique Stewart, Jania Francis, Rahje Ash, Donnie Collins. SVG's first large sculptural mural, unveiled 31 Mar 2026 (Searchlight)."
+   "note": "Shanique Stewart, Jania Francis, Rahje Ash, Donnie Collins. SVG's first large sculptural mural, unveiled 31 Mar 2026 (Searchlight).",
+   "origin_country": "Saint Vincent and the Grenadines",
+   "note3": "Group, not an individual. Govt of SVG Department of Culture announced (24 Feb 2026) a Mural Sculpture at Peace Memorial Hall made with students/young people; no named artists found."
   },
   {
    "name": "Camille Saunders-Musser",
@@ -259,7 +331,8 @@
     "svg"
    ],
    "verified": true,
-   "note": "Founder of the Youlou Arts Foundation."
+   "note": "Founder of the Youlou Arts Foundation.",
+   "note3": "No results found for this name; unverified."
   },
   {
    "name": "Sargeant Brothers",
@@ -270,7 +343,10 @@
    "pools": [
     "svg"
    ],
-   "verified": true
+   "verified": true,
+   "origin_country": "Saint Vincent and the Grenadines",
+   "residence": "Bequia, Saint Vincent and the Grenadines",
+   "note3": "Likely Sargeant Brothers Model Boat Shop, Bequia: family workshop making hand-built model boats (craft, not fine art). Individuals not identified."
   },
   {
    "name": "Mike Goddard",
@@ -282,7 +358,8 @@
     "svg"
    ],
    "verified": true,
-   "note": "English, lives on Bequia."
+   "note": "English, lives on Bequia.",
+   "note3": "No Caribbean artist found. Search surfaced Graham Goddard (b. 1982 Port of Spain, Trinidad; LA-based) - a different person, not confirmed as intended."
   },
   {
    "name": "Julie Savage Lea",
@@ -294,7 +371,8 @@
     "svg"
    ],
    "verified": false,
-   "note": "One source (Caribbean Beat)."
+   "note": "One source (Caribbean Beat).",
+   "note3": "No results found for this name; unverified."
   },
   {
    "name": "Peter Carr",
@@ -306,7 +384,8 @@
     "svg"
    ],
    "verified": false,
-   "note": "One source (Caribbean Beat)."
+   "note": "One source (Caribbean Beat).",
+   "note3": "No Caribbean-born Peter Carr confirmed. Peter Carr (1925-1981) is a Laguna Beach US artist (different person). A follow-up result mentions an Australian painter Peter Carr whose Bequia watercolours/oils are collected worldwide - unverified, not Caribbean-born."
   },
   {
    "name": "Claude Victorine",
@@ -318,7 +397,8 @@
     "svg"
    ],
    "verified": false,
-   "note": "One source (Caribbean Beat)."
+   "note": "One source (Caribbean Beat).",
+   "note3": "No results found for this name in two searches; unverified."
   },
   {
    "name": "Roland \"Scrapie\" Dopwell",
@@ -328,7 +408,10 @@
     "svg"
    ],
    "verified": false,
-   "note": "Future Africa exhibition, 2025 (one government page)."
+   "note": "Future Africa exhibition, 2025 (one government page).",
+   "origin_country": "Saint Vincent and the Grenadines",
+   "residence": "McKies Hill, Kingstown, Saint Vincent and the Grenadines",
+   "note3": "Vincentian carnival/arts craftsman rather than fine artist; 2022 gave a plaque with replica of National Hero Chatoyer to Oxley 'De Giddy' Lockhart. Birth year not shown."
   },
   {
    "name": "Nkuru Dyer",
@@ -338,7 +421,8 @@
     "svg"
    ],
    "verified": false,
-   "note": "Future Africa exhibition, 2025 (one government page)."
+   "note": "Future Africa exhibition, 2025 (one government page).",
+   "note3": "No results found for this name; unverified."
   },
   {
    "name": "Suchitra Mattai",
@@ -349,7 +433,12 @@
     "lesiles"
    ],
    "verified": true,
-   "note": "First artist to join LES ÎLES (2020)."
+   "note": "First artist to join LES ÎLES (2020).",
+   "born": 1973,
+   "life": "b. 1973",
+   "origin_country": "Guyana",
+   "residence": "Los Angeles, USA",
+   "note3": "Born Georgetown, Guyana; family moved to Canada 1974. Sources conflict on residence: Wikipedia and Buffalo AKG say Los Angeles; Sharjah Art Foundation, Aicon, Dikeou list Denver. Anonymous Was a Woman award 2023."
   },
   {
    "name": "Yermine Richardson",
@@ -360,7 +449,15 @@
     "lesiles"
    ],
    "verified": true,
-   "note": "Shown by LES ÎLES at Caribbean Days Paris 2025."
+   "note": "Shown by LES ÎLES at Caribbean Days Paris 2025.",
+   "residence": "Spain",
+   "works": [
+    {
+     "title": "Creation of the Universe",
+     "url": "https://www.singulart.com/en/artworks/yermine-richardson-creation-of-the-universe-2464886"
+    }
+   ],
+   "note3": "Singulart profile: painter and photographer based in Spain, exhibited in Dominican Republic, drawing on growing up in the Caribbean. Only source is a sales platform; birth/origin not shown."
   },
   {
    "name": "Elladj Lincy Deloumeaux",
@@ -372,7 +469,12 @@
    ],
    "verified": true,
    "editions": "some",
-   "note": "LES ÎLES sells his print Reborn."
+   "note": "LES ÎLES sells his print Reborn.",
+   "born": 1995,
+   "life": "b. 1995",
+   "origin_country": "Guadeloupe (France)",
+   "residence": "Paris, France / Abidjan, Cote d'Ivoire",
+   "note3": "Born Les Abymes, Guadeloupe; moved to mainland France aged 8. June 2025 CV: lives and works between Paris and Abidjan. Solo shows: 'Un est multiple' (Cecile Fakhoury Abidjan, 2020-21), 'Souvenirs entrelaces' (Perrotin Dubai, 2023). Individual work titles not seen."
   },
   {
    "name": "Morel Doucet",
@@ -382,7 +484,22 @@
    "pools": [
     "lesiles"
    ],
-   "verified": true
+   "verified": true,
+   "born": 1990,
+   "life": "b. 1990",
+   "origin_country": "Haiti",
+   "residence": "Miami, USA",
+   "works": [
+    {
+     "title": "Water Grieves (series)",
+     "url": "https://en.wikipedia.org/wiki/Morel_Doucet"
+    },
+    {
+     "title": "White Noise (series)",
+     "url": "https://en.wikipedia.org/wiki/Morel_Doucet"
+    }
+   ],
+   "note3": "Birth year 1990 per Wikipedia, 1991 per Miami MoCAAD. Born Pilate, Haiti; raised in Miami. Work in PAMM and MoCA North Miami collections."
   },
   {
    "name": "Errol Brewster",
@@ -392,7 +509,28 @@
     "lesiles"
    ],
    "verified": false,
-   "note": "Listed on LES ÎLES' Artsy page."
+   "note": "Listed on LES ÎLES' Artsy page.",
+   "born": 1953,
+   "life": "b. 1953",
+   "origin_country": "Guyana",
+   "residence": "USA",
+   "works": [
+    {
+     "title": "Stop Death from Malnutrition",
+     "year": 1984,
+     "url": "https://veerlepoupeye.com/2019/11/02/caribbean-conversations-errol-ross-brewster-part-i/"
+    },
+    {
+     "title": "Beware the Promise Today (photo essay)",
+     "url": "https://veerlepoupeye.com/2019/11/02/caribbean-conversations-errol-ross-brewster-part-i/"
+    },
+    {
+     "title": "Sidewalks of the Americas (IDB installation)",
+     "year": 2018,
+     "url": "https://veerlepoupeye.com/2019/11/02/caribbean-conversations-errol-ross-brewster-part-i/"
+    }
+   ],
+   "note3": "Full name Errol Ross Brewster. City in USA not shown. Took part in First International Triennial of Caribbean Art (2010)."
   },
   {
    "name": "Christopher Cozier",
@@ -405,7 +543,29 @@
    ],
    "tags": [],
    "verified": true,
-   "note": "Not in the A to Z list. 2026 Roy Lichtenstein Award (FCA). A 2026 Mustique nominator according to Scott's research, not confirmed."
+   "note": "Not in the A to Z list. 2026 Roy Lichtenstein Award (FCA). A 2026 Mustique nominator according to Scott's research, not confirmed.",
+   "born": 1959,
+   "life": "b. 1959",
+   "origin_country": "Trinidad and Tobago",
+   "residence": "Port of Spain, Trinidad and Tobago",
+   "works": [
+    {
+     "title": "Tropical Night",
+     "year": 2007,
+     "url": "https://princeclausfund.nl/awardees/christopher-cozier"
+    },
+    {
+     "title": "Dark Circles (series)",
+     "year": 2014,
+     "url": "https://www.sharjahart.org/en/people/details/cozier-christopher"
+    },
+    {
+     "title": "turbulence",
+     "year": 2019,
+     "url": "https://www.sharjahart.org/en/people/details/cozier-christopher"
+    }
+   ],
+   "note3": "Co-director of Alice Yard, Port of Spain; Prince Claus Award 2013. 'turbulence' dated 2019-2021."
   }
  ],
  "poolAdd": {

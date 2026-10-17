@@ -4,7 +4,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
-/* Layout: a sticky filter bar over a single dense list of artist rows; each row ends in a three-way pick control. */
+/* Layout: a filter bar over the collaboration list; each artist row carries works and a four-step rating. The master-only list (deceased or over 75) sits below, folded. */
 :root {
   --bg: #f3f5f4;
   --surface: #ffffff;
@@ -12,32 +12,35 @@
   --muted: #5b6876;
   --line: #d9dfe3;
   --accent: #0f6e78;        /* lagoon */
-  --accent-ink: #ffffff;
   --gold: #b8892a;          /* sargassum */
-  --short: #0f7a55; --short-bg: #e2f3eb;
+  --abs: #0b5c3f; --abs-bg: #cdebdc;
+  --yes: #0f7a55; --yes-bg: #e2f3eb;
   --maybe: #9a6a00; --maybe-bg: #fbf0d6;
-  --pass: #6b7480;  --pass-bg: #eceff2;
+  --no: #6b7480;  --no-bg: #eceff2;
   --chip: #e8eef0;
+  --work: #f6f8f8;
   --font-display: "Newsreader", Georgia, "Times New Roman", serif;
   --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --bg: #0d1620; --surface: #142130; --ink: #e5ebf0; --muted: #9aa8b5; --line: #24364a;
-  --accent: #4fb8c2; --accent-ink: #06222a; --gold: #d9b45a;
-  --short: #5fd3a3; --short-bg: #12352a; --maybe: #e8c060; --maybe-bg: #3a2f12;
-  --pass: #9aa5b0; --pass-bg: #222f3c; --chip: #1c2c3d; color-scheme: dark;
+  --accent: #4fb8c2; --gold: #d9b45a;
+  --abs: #8ff0c4; --abs-bg: #134a37; --yes: #5fd3a3; --yes-bg: #12352a;
+  --maybe: #e8c060; --maybe-bg: #3a2f12; --no: #9aa5b0; --no-bg: #222f3c;
+  --chip: #1c2c3d; --work: #182739; color-scheme: dark;
 } }
 :root[data-theme="dark"] {
   --bg: #0d1620; --surface: #142130; --ink: #e5ebf0; --muted: #9aa8b5; --line: #24364a;
-  --accent: #4fb8c2; --accent-ink: #06222a; --gold: #d9b45a;
-  --short: #5fd3a3; --short-bg: #12352a; --maybe: #e8c060; --maybe-bg: #3a2f12;
-  --pass: #9aa5b0; --pass-bg: #222f3c; --chip: #1c2c3d; color-scheme: dark;
+  --accent: #4fb8c2; --gold: #d9b45a;
+  --abs: #8ff0c4; --abs-bg: #134a37; --yes: #5fd3a3; --yes-bg: #12352a;
+  --maybe: #e8c060; --maybe-bg: #3a2f12; --no: #9aa5b0; --no-bg: #222f3c;
+  --chip: #1c2c3d; --work: #182739; color-scheme: dark;
 }
 * { box-sizing: border-box; }
 body { background: var(--bg); color: var(--ink); font: 15px/1.5 var(--font-body); }
 a { color: var(--accent); text-underline-offset: 2px; }
-a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .wrap { max-width: 1120px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 header.top { padding-block: 28px 12px; }
 .eyebrow { font: 500 12px/1 var(--font-mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
@@ -45,7 +48,7 @@ h1 { font: 600 clamp(28px, 5vw, 42px)/1.1 var(--font-display); margin: 8px 0 8px
 .lede { color: var(--muted); max-width: 65ch; margin: 0; }
 .tally { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 14px; font: 500 13px/1.4 var(--font-mono); font-variant-numeric: tabular-nums; }
 .tally b { font-weight: 600; }
-.tally .s { color: var(--short); } .tally .m { color: var(--maybe); } .tally .p { color: var(--pass); }
+.tally .r-absolutely { color: var(--abs); } .tally .r-yes { color: var(--yes); } .tally .r-maybe { color: var(--maybe); } .tally .r-no { color: var(--no); }
 .sync { font: 12px/1.4 var(--font-mono); color: var(--muted); margin-top: 6px; }
 
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
@@ -62,40 +65,64 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .count { font: 12px var(--font-mono); color: var(--muted); margin-left: auto; font-variant-numeric: tabular-nums; }
 
 main { padding-block: 16px 48px; }
+.section-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; margin: 4px 0 10px; }
+.section-head h2 { font: 600 20px/1.2 var(--font-display); margin: 0; }
+.section-head p { margin: 0; color: var(--muted); font-size: 13.5px; }
 .list { display: flex; flex-direction: column; gap: 8px; }
+details.master { margin-top: 36px; border-top: 2px solid var(--line); padding-top: 18px; }
+details.master > summary { cursor: pointer; list-style: none; }
+details.master > summary::-webkit-details-marker { display: none; }
+details.master > summary .section-head h2::before { content: "▸ "; color: var(--muted); }
+details.master[open] > summary .section-head h2::before { content: "▾ "; }
+details.master .row { background: transparent; }
+
 .row { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 16px; }
-.row[data-pick="shortlist"] { border-left: 4px solid var(--short); }
+.row[data-pick="absolutely"] { border-left: 5px solid var(--abs); }
+.row[data-pick="yes"] { border-left: 4px solid var(--yes); }
 .row[data-pick="maybe"] { border-left: 4px solid var(--maybe); }
-.row[data-pick="pass"] { opacity: .62; }
+.row[data-pick="no"] { opacity: .6; }
 .who { min-width: 0; }
-.name { font: 600 18px/1.25 var(--font-display); margin: 0; }
+.name { font: 600 19px/1.25 var(--font-display); margin: 0; }
+.name .age { font: 500 14px var(--font-mono); color: var(--muted); font-variant-numeric: tabular-nums; }
 .name .unv { font: 500 11px var(--font-mono); color: var(--gold); margin-left: 6px; vertical-align: 2px; letter-spacing: .04em; }
+.place { font-size: 14px; margin-top: 2px; }
+.place .lbl { font: 500 11px var(--font-mono); text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.place .moved { font: 500 11px var(--font-mono); color: var(--accent); border: 1px solid var(--accent); border-radius: 4px; padding: 1px 4px; margin-left: 4px; vertical-align: 1px; }
 .meta { color: var(--muted); font-size: 13.5px; margin-top: 2px; }
-.meta .life { font-family: var(--font-mono); font-size: 12.5px; font-variant-numeric: tabular-nums; }
 .chips { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
 .chip { font: 500 11.5px/1 var(--font-body); background: var(--chip); color: var(--ink); padding: 4px 7px; border-radius: 5px; }
 .chip.pool { background: transparent; border: 1px solid var(--line); color: var(--muted); }
-.chip.dead { color: var(--muted); }
 .chip.ed { background: var(--maybe-bg); color: var(--maybe); }
-.chip.svg { background: var(--short-bg); color: var(--short); }
-.links { display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 6px; font-size: 13px; }
+.chip.svg { background: var(--yes-bg); color: var(--yes); }
+.chip.warn { background: transparent; border: 1px dashed var(--gold); color: var(--gold); }
+.works { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.work { background: var(--work); border: 1px solid var(--line); border-radius: 8px; padding: 6px 9px; font-size: 13px; line-height: 1.3; max-width: 100%; }
+.work i { font-family: var(--font-display); font-size: 14.5px; }
+.work .yr { font-family: var(--font-mono); font-size: 11.5px; color: var(--muted); margin-left: 4px; }
+.work a { text-decoration: none; color: var(--ink); }
+.work a:hover i { text-decoration: underline; }
+.work.see { border-style: dashed; background: transparent; }
+.work.see a { color: var(--accent); font-weight: 500; }
+.thumbs { display: flex; gap: 6px; margin-top: 8px; overflow-x: auto; }
+.thumbs img { height: 120px; width: auto; border-radius: 6px; border: 1px solid var(--line); background: var(--work); }
+.links { display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 8px; font-size: 13px; }
 .links .find { color: var(--muted); }
 .note { color: var(--muted); font-size: 13px; margin-top: 4px; max-width: 80ch; }
 .pick { display: flex; flex-direction: column; gap: 6px; align-items: flex-end; }
 .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
-.seg button { border: 0; background: var(--surface); color: var(--muted); font: 500 12.5px/1 var(--font-body); padding: 8px 10px; cursor: pointer; }
+.seg button { border: 0; background: var(--surface); color: var(--muted); font: 500 12.5px/1 var(--font-body); padding: 9px 10px; cursor: pointer; }
 .seg button + button { border-left: 1px solid var(--line); }
-.seg button[aria-pressed="true"][data-v="shortlist"] { background: var(--short-bg); color: var(--short); }
+.seg button[aria-pressed="true"][data-v="absolutely"] { background: var(--abs-bg); color: var(--abs); font-weight: 600; }
+.seg button[aria-pressed="true"][data-v="yes"] { background: var(--yes-bg); color: var(--yes); }
 .seg button[aria-pressed="true"][data-v="maybe"] { background: var(--maybe-bg); color: var(--maybe); }
-.seg button[aria-pressed="true"][data-v="pass"] { background: var(--pass-bg); color: var(--pass); }
+.seg button[aria-pressed="true"][data-v="no"] { background: var(--no-bg); color: var(--no); }
 .seg button:disabled { cursor: default; opacity: .6; }
 .notebtn { border: 0; background: none; color: var(--accent); font: 12.5px var(--font-body); cursor: pointer; padding: 2px 0; }
 .mynote { grid-column: 1 / -1; display: flex; gap: 8px; align-items: flex-start; }
 .mynote textarea { flex: 1; min-width: 0; font: 13.5px/1.4 var(--font-body); color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px; resize: vertical; min-height: 56px; }
-.mynote .saved { font: 12px var(--font-mono); color: var(--muted); white-space: nowrap; padding-top: 8px; }
 .shown-note { grid-column: 1 / -1; font-size: 13.5px; border-top: 1px dashed var(--line); padding-top: 6px; white-space: pre-wrap; }
-.empty { text-align: center; color: var(--muted); padding: 40px 0; }
-.legend { font-size: 12.5px; color: var(--muted); margin-top: 10px; max-width: 80ch; }
+.empty { text-align: center; color: var(--muted); padding: 32px 0; }
+.legend { font-size: 12.5px; color: var(--muted); margin-top: 18px; max-width: 80ch; }
 @media (max-width: 640px) {
   .row { grid-template-columns: minmax(0, 1fr); }
   .pick { align-items: flex-start; flex-direction: row; flex-wrap: wrap; }
@@ -108,45 +135,50 @@ main { padding-block: 16px 48px; }
 <header class="top wrap">
   <div class="eyebrow">EDICIÓ × Canouan Festive 2026 · artist longlist</div>
   <h1>Canouan Edition Longlist</h1>
-  <p class="lede">Caribbean artists to consider for the Edicio limited edition, from the <i>A to Z of Caribbean Art</i>, the Mustique Caribbean Contemporary Art Show, the St Vincent &amp; the Grenadines research and Anjeni Ramtahal's LES ÎLES. Mark each one Shortlist, Maybe or Pass and add a note. Picks are saved for the next step.</p>
+  <p class="lede">Living Caribbean artists aged 75 or under, for the Edicio limited edition. Rate each one No, Maybe, Yes or Absolutely and add a note; ratings save for the next step. Deceased artists and those over 75 stay in the master list at the bottom.</p>
   <div class="tally" id="tally" aria-live="polite"></div>
-  <div class="sync" id="sync">Connecting to saved picks…</div>
+  <div class="sync" id="sync">Connecting to saved ratings…</div>
 </header>
 
 <div class="bar">
   <div class="wrap">
     <div class="tabs" role="group" aria-label="View">
       <button class="tab" data-tab="artists" aria-pressed="true">Artists<span class="n" id="n-artists"></span></button>
-      <button class="tab" data-tab="shortlist" aria-pressed="false">My picks<span class="n" id="n-picks"></span></button>
+      <button class="tab" data-tab="shortlist" aria-pressed="false">My ratings<span class="n" id="n-picks"></span></button>
       <button class="tab" data-tab="advisors" aria-pressed="false">Advisors<span class="n" id="n-advisors"></span></button>
     </div>
     <div class="filters" id="filters">
-      <input type="search" id="q" placeholder="Search name, country, medium, gallery" aria-label="Search">
-      <select id="pool" aria-label="Source">
+      <input type="search" id="q" placeholder="Search name, country, medium, work" aria-label="Search">
+      <select id="pool" aria-label="Source" class="af">
         <option value="">All sources</option>
         <option value="svg">St Vincent &amp; Grenadines</option>
         <option value="mustique">Mustique show</option>
         <option value="lesiles">LES ÎLES</option>
-        <option value="az">A to Z of Caribbean Art</option>
         <option value="scott">Scott's pan-Caribbean picks</option>
+        <option value="az">A to Z of Caribbean Art</option>
       </select>
-      <select id="life" aria-label="Living status">
-        <option value="living">Living</option>
-        <option value="unknown">Status unknown</option>
-        <option value="deceased">Deceased (estates)</option>
-        <option value="">Any status</option>
+      <select id="country" aria-label="From" class="af"><option value="">From: anywhere</option></select>
+      <select id="lives" aria-label="Lives in" class="af">
+        <option value="">Lives: anywhere</option>
+        <option value="caribbean">Lives in the Caribbean</option>
+        <option value="abroad">Lives abroad (US, Europe…)</option>
+        <option value="unknown">Residence not known</option>
       </select>
-      <select id="country" aria-label="Country"><option value="">All countries</option></select>
-      <label class="chk"><input type="checkbox" id="edonly"> Makes editions</label>
-      <label class="chk"><input type="checkbox" id="unpicked"> Not yet picked</label>
+      <label class="chk af"><input type="checkbox" id="edonly"> Makes editions</label>
+      <label class="chk af"><input type="checkbox" id="unpicked"> Not yet rated</label>
       <span class="count" id="count"></span>
     </div>
   </div>
 </div>
 
 <main class="wrap">
+  <div id="main-head" class="section-head"></div>
   <div class="list" id="list"></div>
-  <p class="legend"><b>site</b> and <b>@handle</b> were found in search results; open an Instagram handle once to confirm it. <b>find</b> opens a web search to check by hand. <span style="color:var(--gold)">UNVERIFIED</span> rows carry background facts the research hasn't confirmed yet. Data from the research of 17 Oct 2026.</p>
+  <details class="master" id="master">
+    <summary><div class="section-head"><h2>Master list only</h2><p id="master-sub"></p></div></summary>
+    <div class="list" id="list-master"></div>
+  </details>
+  <p class="legend">Ages are worked out from the birth year, so may be a year out. <b>From</b> is the country of birth or nationality; <b>lives in</b> is where they work now. Works were found in search results; click a title to see where it's shown, or <b>See images</b> for a picture search. <b>site</b> and <b>@handle</b> come from search results; open a handle once to confirm it. <span style="color:var(--gold)">UNVERIFIED</span> rows carry facts the research hasn't confirmed. Research of 17 Oct 2026.</p>
 </main>
 
 <script id="data" type="application/json">/*DATA*/</script>
@@ -155,24 +187,26 @@ main { padding-block: 16px 48px; }
   const DATA = JSON.parse(document.getElementById("data").textContent);
   const ARTISTS = DATA.artists, ADVISORS = DATA.advisors;
   const POOL_LABEL = { az: "A to Z", mustique: "Mustique show", svg: "SVG", lesiles: "LES ÎLES", scott: "Scott's pick" };
-  const picks = {};        // id -> {status, note}
+  const RATINGS = [["no", "No"], ["maybe", "Maybe"], ["yes", "Yes"], ["absolutely", "Absolutely"]];
+  const RANK = { absolutely: 0, yes: 1, maybe: 2, no: 3 };
+  const LEGACY = { shortlist: "yes", pass: "no" };   // values saved by the first version of the page
+  const picks = {};
   let db = null, canWrite = true, tab = "artists";
   const $ = (id) => document.getElementById(id);
 
-  // Country filter options
   const countries = [...new Set(ARTISTS.map(a => a.countryKey).filter(Boolean))].sort();
-  for (const c of countries) { const o = document.createElement("option"); o.value = c; o.textContent = c; $("country").append(o); }
+  for (const c of countries) { const o = document.createElement("option"); o.value = c; o.textContent = "From: " + c; $("country").append(o); }
 
   function esc(s) { return String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
-  function searchUrl(q) { return "https://www.google.com/search?q=" + encodeURIComponent(q); }
+  function searchUrl(q, images) { return "https://www.google.com/search?" + (images ? "tbm=isch&" : "") + "q=" + encodeURIComponent(q); }
 
-  function matches(a) {
+  function filtersPass(a) {
     const q = $("q").value.trim().toLowerCase();
     if (q && !a.hay.includes(q)) return false;
-    if (tab === "shortlist") { const p = picks[a.id]?.status; return p === "shortlist" || p === "maybe"; }
+    if (tab === "shortlist") return !!picks[a.id]?.status && picks[a.id].status !== "no";
     const pool = $("pool").value; if (pool && !a.pools.includes(pool)) return false;
-    const life = $("life").value; if (life && a.living !== life) return false;
     const c = $("country").value; if (c && a.countryKey !== c) return false;
+    const lv = $("lives").value; if (lv && (a.livesRegion || "unknown") !== lv && !(lv !== "unknown" && a.livesRegion === "both")) return false;
     if ($("edonly").checked && !(a.editions === "yes" || a.editions === "some")) return false;
     if ($("unpicked").checked && picks[a.id]?.status) return false;
     return true;
@@ -189,27 +223,48 @@ main { padding-block: 16px 48px; }
     return out.join("");
   }
 
+  function worksHtml(a) {
+    const items = (a.works || []).slice(0, 3).map(w => {
+      const t = `<i>${esc(w.title)}</i>${w.year ? `<span class="yr">${esc(w.year)}</span>` : ""}`;
+      return `<span class="work">${w.url ? `<a href="${esc(w.url)}" target="_blank" rel="noopener">${t}</a>` : t}</span>`;
+    });
+    items.push(`<span class="work see"><a href="${searchUrl(a.name + " artist artwork", true)}" target="_blank" rel="noopener">See images ↗</a></span>`);
+    const thumbs = (a.images || []).length ? `<div class="thumbs">${a.images.map(s => `<img src="${esc(s.src)}" alt="${esc(s.alt || a.name)}" loading="lazy">`).join("")}</div>` : "";
+    return thumbs + `<div class="works">${items.join("")}</div>`;
+  }
+
   function pickHtml(id) {
     const st = picks[id]?.status || "";
     const dis = canWrite ? "" : " disabled";
-    const b = (v, label) => `<button type="button" data-v="${v}" aria-pressed="${st === v}"${dis}>${label}</button>`;
-    const note = picks[id]?.note;
-    return `<div class="pick"><div class="seg" role="group" aria-label="Pick">${b("shortlist", "Shortlist")}${b("maybe", "Maybe")}${b("pass", "Pass")}</div>` +
-      (canWrite ? `<button type="button" class="notebtn" data-act="note">${note ? "Edit note" : "Add note"}</button>` : "") + `</div>`;
+    const btns = RATINGS.map(([v, label]) => `<button type="button" data-v="${v}" aria-pressed="${st === v}"${dis}>${label}</button>`).join("");
+    return `<div class="pick"><div class="seg" role="group" aria-label="Rating">${btns}</div>` +
+      (canWrite ? `<button type="button" class="notebtn" data-act="note">${picks[id]?.note ? "Edit note" : "Add note"}</button>` : "") + `</div>`;
+  }
+
+  function placeHtml(a) {
+    const from = a.origin || a.country;
+    const lives = a.residence;
+    let html = `<span class="lbl">From</span> ${esc(from || "—")} · <span class="lbl">lives in</span> ${lives ? esc(lives) : '<span style="color:var(--muted)">not yet known</span>'}`;
+    if (a.livesRegion === "abroad" || a.livesRegion === "both") html += `<span class="moved">${a.livesRegion === "both" ? "two bases" : "moved abroad"}</span>`;
+    return html;
   }
 
   function artistRow(a) {
     const p = picks[a.id];
     const chips = [];
     for (const t of a.tags || []) chips.push(`<span class="chip ${t.cls || ""}">${esc(t.label)}</span>`);
-    if (a.living === "deceased") chips.push(`<span class="chip dead">estate</span>`);
+    if (a.living === "deceased") chips.push(`<span class="chip">died${a.died ? " " + esc(a.died) : ""}</span>`);
+    if (a.living === "unknown") chips.push(`<span class="chip warn">living status to check</span>`);
     if (a.editions === "yes" || a.editions === "some") chips.push(`<span class="chip ed">makes editions</span>`);
     for (const pl of a.pools) chips.push(`<span class="chip pool">${POOL_LABEL[pl]}</span>`);
-    const meta = [esc(a.country), a.life ? `<span class="life">${esc(a.life)}</span>` : "", esc(a.medium)].filter(Boolean).join(" · ");
+    const ageTxt = a.living === "deceased" ? (a.life ? a.life : "") : (a.age ? `${a.age}` : "age ?");
+    const meta = [esc(a.medium), a.gallery ? esc(a.gallery) : ""].filter(Boolean).join(" · ");
     return `<article class="row" data-id="${a.id}" data-pick="${p?.status || ""}">
       <div class="who">
-        <h2 class="name">${esc(a.name)}${a.verified ? "" : '<span class="unv">UNVERIFIED</span>'}</h2>
-        <div class="meta">${meta}${a.based ? ` · based ${esc(a.based)}` : ""}${a.gallery ? ` · ${esc(a.gallery)}` : ""}</div>
+        <h3 class="name">${esc(a.name)}<span class="age" title="${a.born ? "born " + esc(a.born) : "birth year not found"}">${a.living === "deceased" ? "" : ", "}${esc(ageTxt)}</span>${a.verified ? "" : '<span class="unv">UNVERIFIED</span>'}</h3>
+        <div class="place">${placeHtml(a)}</div>
+        ${meta ? `<div class="meta">${meta}</div>` : ""}
+        ${worksHtml(a)}
         <div class="chips">${chips.join("")}</div>
         <div class="links">${linksHtml(a, "artist")}</div>
         ${a.note ? `<div class="note">${esc(a.note)}</div>` : ""}
@@ -223,8 +278,8 @@ main { padding-block: 16px 48px; }
     const p = picks[v.id];
     return `<article class="row" data-id="${v.id}" data-pick="${p?.status || ""}">
       <div class="who">
-        <h2 class="name">${esc(v.name)}</h2>
-        <div class="meta">${esc(v.region)}${v.status ? ` · <span class="life">${esc(v.status)}</span>` : ""}</div>
+        <h3 class="name">${esc(v.name)}</h3>
+        <div class="meta">${esc(v.region)}${v.status ? ` · ${esc(v.status)}` : ""}</div>
         <div class="note" style="color:var(--ink)">${esc(v.role)}</div>
         <div class="links">${linksHtml(v, "advisor")}</div>
       </div>
@@ -234,38 +289,48 @@ main { padding-block: 16px 48px; }
   }
 
   function render() {
-    const isAdv = tab === "advisors";
-    $("filters").querySelectorAll("select, label.chk").forEach(el => el.hidden = tab !== "artists");
-    let rows;
-    if (isAdv) {
+    document.querySelectorAll(".af").forEach(el => el.hidden = tab !== "artists");
+    const master = $("master");
+    if (tab === "advisors") {
       const q = $("q").value.trim().toLowerCase();
-      rows = ADVISORS.filter(v => !q || v.hay.includes(q)).map(advisorRow);
+      const rows = ADVISORS.filter(v => !q || v.hay.includes(q));
+      $("main-head").innerHTML = `<h2>Potential advisors</h2><p>The A to Z book team, plus Anjeni Ramtahal and Tiqui Atencio Demirdjian.</p>`;
+      $("list").innerHTML = rows.map(advisorRow).join("") || `<p class="empty">No advisors match.</p>`;
+      master.hidden = true; $("count").textContent = `${rows.length} shown`;
+    } else if (tab === "shortlist") {
+      const rows = ARTISTS.filter(filtersPass).sort((x, y) => RANK[picks[x.id].status] - RANK[picks[y.id].status]);
+      $("main-head").innerHTML = `<h2>My ratings</h2><p>Absolutely, then Yes, then Maybe.</p>`;
+      $("list").innerHTML = rows.map(artistRow).join("") || `<p class="empty">Nothing rated yet. Rate artists Maybe, Yes or Absolutely in the Artists view.</p>`;
+      master.hidden = true; $("count").textContent = `${rows.length} shown`;
     } else {
-      const list = ARTISTS.filter(matches);
-      rows = list.map(artistRow);
+      const shown = ARTISTS.filter(filtersPass);
+      const main = shown.filter(a => a.section === "main"), rest = shown.filter(a => a.section !== "main");
+      $("main-head").innerHTML = `<h2>Open for collaboration</h2><p>${main.length} living artists aged 75 or under (or age not yet found).</p>`;
+      $("list").innerHTML = main.map(artistRow).join("") || `<p class="empty">No artists match these filters.</p>`;
+      master.hidden = false;
+      $("master-sub").textContent = `${rest.length} deceased or over 75: kept for reference, not for invitation.`;
+      $("list-master").innerHTML = master.open ? rest.map(artistRow).join("") : "";
+      $("count").textContent = `${main.length} + ${rest.length} shown`;
     }
-    $("list").innerHTML = rows.length ? rows.join("") :
-      `<p class="empty">${tab === "shortlist" ? "No picks yet. Mark artists Shortlist or Maybe in the Artists view." : "No artists match these filters."}</p>`;
-    $("count").textContent = `${rows.length} shown`;
     tally();
   }
 
   function tally() {
     const v = Object.values(picks);
     const n = s => v.filter(p => p.status === s).length;
-    const living = ARTISTS.filter(a => a.living === "living").length;
-    $("tally").innerHTML = `<span><b>${ARTISTS.length}</b> artists · ${living} living</span><span class="s"><b>${n("shortlist")}</b> shortlist</span><span class="m"><b>${n("maybe")}</b> maybe</span><span class="p"><b>${n("pass")}</b> pass</span>`;
-    $("n-artists").textContent = ARTISTS.length;
-    $("n-picks").textContent = ARTISTS.filter(a => ["shortlist", "maybe"].includes(picks[a.id]?.status)).length;
+    const main = ARTISTS.filter(a => a.section === "main").length;
+    $("tally").innerHTML = `<span><b>${main}</b> open for collaboration · ${ARTISTS.length - main} master only</span>` +
+      RATINGS.slice().reverse().map(([s, l]) => `<span class="r-${s}"><b>${n(s)}</b> ${l.toLowerCase()}</span>`).join("");
+    $("n-artists").textContent = main;
+    $("n-picks").textContent = ARTISTS.filter(a => picks[a.id]?.status && picks[a.id].status !== "no").length;
     $("n-advisors").textContent = ADVISORS.length;
   }
 
-  // Writes: one doc per artist or advisor in "picks"
   async function save(id, patch) {
     const prev = picks[id] || {};
     const next = { ...prev, ...patch };
     picks[id] = next; render();
-    if (!db) { $("sync").textContent = "Not connected: this pick is shown here but not saved."; return; }
+    if (!db) { $("sync").textContent = "Not connected: this rating shows here but isn't saved."; return; }
     try {
       const rec = ARTISTS.find(a => a.id === id) || ADVISORS.find(a => a.id === id);
       await db.collection("picks").doc(id).set({
@@ -276,55 +341,51 @@ main { padding-block: 16px 48px; }
     } catch (e) {
       picks[id] = prev; render();
       $("sync").textContent = e && (e.code === "permission_denied" || e.code === "not_granted")
-        ? "You can view picks but not change them." : "That pick didn't save. Check your connection and try again.";
+        ? "You can view ratings but not change them." : "That rating didn't save. Check your connection and try again.";
     }
   }
 
-  $("list").addEventListener("click", (ev) => {
+  function onListClick(ev) {
     const row = ev.target.closest(".row"); if (!row) return;
     const id = row.dataset.id;
     const b = ev.target.closest(".seg button");
-    if (b && !b.disabled) {
-      const v = b.dataset.v;
-      save(id, { status: picks[id]?.status === v ? "" : v });
-      return;
-    }
+    if (b && !b.disabled) { const v = b.dataset.v; save(id, { status: picks[id]?.status === v ? "" : v }); return; }
     if (ev.target.closest('[data-act="note"]')) {
       if (row.querySelector(".mynote")) return;
       const box = document.createElement("div"); box.className = "mynote";
-      box.innerHTML = `<textarea id="note-${id}" aria-label="Note on this artist" placeholder="Why them, which work, who knows them…"></textarea><span class="saved"></span>`;
+      box.innerHTML = `<textarea id="note-${id}" aria-label="Note" placeholder="Why them, which work, who knows them…"></textarea>`;
       const shown = row.querySelector(".shown-note"); if (shown) shown.hidden = true;
       row.append(box);
       const ta = box.querySelector("textarea"); ta.value = picks[id]?.note || ""; ta.focus();
-      ta.addEventListener("blur", () => {
-        if (ta.value !== (picks[id]?.note || "")) save(id, { note: ta.value.trim() });
-        else render();
-      });
+      ta.addEventListener("blur", () => { if (ta.value.trim() !== (picks[id]?.note || "")) save(id, { note: ta.value.trim() }); else render(); });
     }
-  });
+  }
+  $("list").addEventListener("click", onListClick);
+  $("list-master").addEventListener("click", onListClick);
+  $("master").addEventListener("toggle", render);
 
   document.querySelectorAll(".tab").forEach(t => t.addEventListener("click", () => {
     tab = t.dataset.tab;
     document.querySelectorAll(".tab").forEach(x => x.setAttribute("aria-pressed", String(x === t)));
     render();
   }));
-  ["q", "pool", "life", "country", "edonly", "unpicked"].forEach(id => $(id).addEventListener("input", render));
+  ["q", "pool", "country", "lives", "edonly", "unpicked"].forEach(id => $(id).addEventListener("input", render));
 
   render();
 
-  // Saved picks
   (async () => {
-    try {
-      db = await window.claude?.use?.("db");
-    } catch (e) { db = null; }
-    if (!db) { $("sync").textContent = "Picks can't be saved in this view. Open the page signed in to claude.ai."; canWrite = false; render(); return; }
+    try { db = await window.claude?.use?.("db"); } catch (e) { db = null; }
+    if (!db) { $("sync").textContent = "Ratings can't be saved in this view. Open the page signed in to claude.ai."; canWrite = false; render(); return; }
     db.collection("picks").onSnapshot((snap) => {
       for (const k of Object.keys(picks)) delete picks[k];
-      for (const d of snap.docs) { const v = d.data() || {}; picks[d.id] = { status: v.status || "", note: v.note || "" }; }
+      for (const d of snap.docs) {
+        const v = d.data() || {};
+        picks[d.id] = { status: LEGACY[v.status] || v.status || "", note: v.note || "" };
+      }
       const focused = document.activeElement && document.activeElement.tagName === "TEXTAREA";
       if (!focused) render(); else tally();
-      $("sync").textContent = `${snap.size} saved pick${snap.size === 1 ? "" : "s"}.`;
-    }, () => { $("sync").textContent = "Couldn't load saved picks. Reload the page to try again."; });
+      $("sync").textContent = `${snap.size} saved rating${snap.size === 1 ? "" : "s"}.`;
+    }, () => { $("sync").textContent = "Couldn't load saved ratings. Reload the page to try again."; });
   })();
 })();
 </script>

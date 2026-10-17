@@ -80,10 +80,21 @@
   "sources": [
    "https://smallaxe.net/sxvisualities/portfolios/39",
    "https://artcorejournal.net/2013/01/23/beyond-the-biennials-thierry-alet-as-international-artist-and-impresario-by-una-kariim-a-cross/",
-   "https://www.fondation-clement.org/wp-content/uploads/2024/06/CAT_VENTE_MACFC24_web.pdf"
+   "https://www.fondation-clement.org/wp-content/uploads/2024/06/CAT_VENTE_MACFC24_web.pdf",
+   "https://fashion.at/mobile/2011/thierryalet8-2011.htm"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Guadeloupe (France)",
+  "residence": "Guadeloupe",
+  "works": [
+   {
+    "title": "Blood",
+    "year": 2011,
+    "url": "https://fashion.at/mobile/2011/thierryalet8-2011.htm"
+   }
+  ],
+  "note3": "Birth sources conflict: 1965 Martinique (fashion.at 2011) vs 1969 Basse-Terre, Guadeloupe (Guadeloupe 1ere listing, Fondation Clement 2024 catalogue). Lived in New York from 1995, later settled in Guadeloupe and opened a gallery."
  },
  {
   "name": "José R. Alicea",
@@ -144,10 +155,22 @@
   "sources": [
    "https://www.lissongallery.com/artists/allora-and-calzadilla",
    "https://www.crousel.com/en/artist/jennifer-allora-guillermo-calzadilla/",
-   "https://artnet.com/artists/allora-calzadilla/"
+   "https://artnet.com/artists/allora-calzadilla/",
+   "https://hawaiicontemporary.org/ht25-artist-allora-calzadilla",
+   "https://art21.org/artist/allora-calzadilla/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "USA (Jennifer Allora, b. 1974 Philadelphia) / Cuba (Guillermo Calzadilla, b. 1971 Havana)",
+  "residence": "San Juan, Puerto Rico",
+  "works": [
+   {
+    "title": "Glória",
+    "year": 2011,
+    "url": null
+   }
+  ],
+  "note3": "Duo; no single birth year. Recent shows: Specters of Noon (Menil Collection, 2020), Chalk (Walker Art Center, 2019), The Tropical Pharmacy (Guggenheim Bilbao, 2019). Represented the USA at Venice Biennale 2011."
  },
  {
   "name": "Juan Carlos Alom",
@@ -165,10 +188,32 @@
   "note": "Born Havana; Afro-Cuban ritual series (Nacimiento de una Tierra, 2010); Mellon Artist in Residence NYU Hemispheric Institute 2023; in PAMM and LACMA collections",
   "sources": [
    "https://en.wikipedia.org/wiki/Juan_Carlos_Alom",
-   "https://cci.pamm.org/en/the-camera-becomes-an-extension-of-my-body-a-conversation-between-juan-carlos-alom-and-iberia-perez-gonzalez/"
+   "https://cci.pamm.org/en/the-camera-becomes-an-extension-of-my-body-a-conversation-between-juan-carlos-alom-and-iberia-perez-gonzalez/",
+   "https://www.cubanartresources.org/juan-carlos-alom",
+   "https://elespacio23.org/2022/10/14/juan-carlos-alom/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Havana, Cuba",
+  "works": [
+   {
+    "title": "Nacimiento de una Tierra",
+    "year": 2010,
+    "url": "https://en.wikipedia.org/wiki/Juan_Carlos_Alom"
+   },
+   {
+    "title": "Iroko",
+    "year": 2004,
+    "url": "https://draft.greenhousestudios.uconn.edu/?p=1620"
+   },
+   {
+    "title": "Diario",
+    "year": 2009,
+    "url": "https://draft.greenhousestudios.uconn.edu/?p=1620"
+   }
+  ],
+  "note3": "Photographer and filmmaker. One source says he splits time between Havana and New York; Mellon Artist in Residence at NYU Hemispheric Institute 2023."
  },
  {
   "name": "Hurvin Anderson",
@@ -187,10 +232,23 @@
   "sources": [
    "https://www.thomasdanegallery.com/exhibitions/312/",
    "https://www.durhampress.com/artists/31-hurvin-anderson/",
-   "https://batch.artuk.org/discover/stories/seven-questions-with-hurvin-anderson"
+   "https://batch.artuk.org/discover/stories/seven-questions-with-hurvin-anderson",
+   "https://royalacademy.org.uk/art-artists/name/hurvin-anderson-ra",
+   "https://www.tate.org.uk/art/artists/hurvin-anderson-12583/turner-prize-2017-biography",
+   "https://www.durhampress.com/artists/prints/hurvin-anderson/biography/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "United Kingdom (born Birmingham, Jamaican heritage)",
+  "residence": "Cambridgeshire / London, United Kingdom",
+  "works": [
+   {
+    "title": "Black and Red Grille",
+    "year": null,
+    "url": "https://drawingroom.org.uk/drawing-biennial/drawing-biennial-2017/black-and-red-grille/"
+   }
+  ],
+  "note3": "Sources differ: Royal Academy says Cambridgeshire; Tate and Artnet say London; Durham Press says between London and Cambridgeshire. Turner Prize shortlist 2017."
  },
  {
   "name": "Victor Anicet",
@@ -248,10 +306,33 @@
   "note": "Born Freeport, Bahamas; no own website/Instagram found in results",
   "sources": [
    "https://www.luhringaugustine.com/artists/janine-antoni",
-   "https://www.cityarts.org/antoni"
+   "https://www.cityarts.org/antoni",
+   "https://art21.org/artist/janine-antoni",
+   "https://www.artnet.com/artists/Janine-Antoni/",
+   "https://www.afmuseet.no/en/?p=192"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Bahamas",
+  "residence": "New York, USA",
+  "works": [
+   {
+    "title": "Gnaw",
+    "year": 1992,
+    "url": "https://art21.org/artist/janine-antoni"
+   },
+   {
+    "title": "Moor",
+    "year": null,
+    "url": "https://art21.org/artist/janine-antoni"
+   },
+   {
+    "title": "Touch",
+    "year": null,
+    "url": "https://art21.org/artist/janine-antoni"
+   }
+  ],
+  "note3": "Born Freeport, Bahamas; Bahamian-born American. MacArthur Fellow 1998."
  },
  {
   "name": "Deborah Anzinger",
@@ -269,10 +350,27 @@
   "note": "Born Kingston; founder of New Local Space (NLS); 2019 solo at ICA Philadelphia",
   "sources": [
    "https://www.deborahanzinger.com/about",
-   "https://ocula.com/artists/deborah-anzinger/"
+   "https://ocula.com/artists/deborah-anzinger/",
+   "https://en.wikipedia.org/wiki/Deborah_Anzinger",
+   "https://35.bienal.org.br/en/participante/deborah-anzinger/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Kingston, Jamaica / USA",
+  "works": [
+   {
+    "title": "Untitled Transmutation (series)",
+    "year": null,
+    "url": "https://mag.washcoll.edu/summer-2025/summer-2025-home/deborah-anzinger/index.html"
+   },
+   {
+    "title": "An Unlikely Birth (monograph)",
+    "year": null,
+    "url": "https://Artbook.com/catalog--art--monographs--anzinger--deborah.html"
+   }
+  ],
+  "note3": "Maintains studios in the US and Jamaica; founder of New Local Space, Kingston. Birthplace: Kingston (own site, Ocula) vs St Andrew (Wikipedia). Shown at 35th Sao Paulo Biennial."
  },
  {
   "name": "Gesner Armand",
@@ -314,7 +412,8 @@
    "https://freshmilkbarbados.com/projects/tender/tender-grantees-2024-interviews/ewan-atkinson/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "note3": "No results found for this name; search returned only unrelated Atkinsons. Nothing verified."
  },
  {
   "name": "Sybil Atteck",
@@ -367,10 +466,16 @@
   "editions": "some",
   "note": "Survey at MCA Chicago through May 2026; own website/Instagram not found in results",
   "sources": [
-   "https://www.hauserwirth.com/artists/firelei-baez/"
+   "https://www.hauserwirth.com/artists/firelei-baez/",
+   "https://www.hauserwirth.com/fr/artists/firelei-baez",
+   "https://collection.africafirst.art/artists/artist/237193",
+   "https://www.kunstinstituutmelly.nl/en/people/2275-firelei-baez"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Dominican Republic",
+  "residence": "New York, USA",
+  "note3": "Birth year given as 1980 or 1981 by institutional sources. Emigrated to US aged nine, raised in Miami. Shows: Bloodlines (Perez Art Museum Miami, 2015), Joy Out of Fire (Studio Museum in Harlem, 2018), Trust Memory Over History (Kunstmuseum Wolfsburg, travelled to Louisiana Museum 2023), survey at Des Moines Art Center 2025. Represented by Hauser & Wirth."
  },
  {
   "name": "Myrna Báez",
@@ -429,7 +534,8 @@
    "https://www.caymancompass.com/2014/03/28/creative-caymanians-wray-banker-making-his-mark/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "note3": "No results found for this name; search returned unrelated Wray / Banker artists. Nothing verified."
  },
  {
   "name": "Abel Barroso",
@@ -447,10 +553,14 @@
   "note": "NOT web-verified (search budget exhausted); background knowledge",
   "sources": [
    "https://www.cubanartresources.org/abelbarroso",
-   "https://soskine.com/artists/abel-barroso"
+   "https://soskine.com/artists/abel-barroso",
+   "https://www.fondation-clement.org/en/publications/abel-barroso-une-ile-a-letranger-2/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Havana, Cuba",
+  "note3": "Born Pinar del Rio, Cuba; printmaker making woodcut sculptures/installations. Exhibition: Abel Barroso, Une ile a l'etranger (Fondation Clement)."
  },
  {
   "name": "Castera Bazile",
@@ -507,10 +617,16 @@
   "note": "NOT web-verified (search budget exhausted); Afro-Cuban religious themes; background knowledge",
   "sources": [
    "https://tamarind.unm.edu/artist/jose-bedia/",
-   "https://www.cubanartresources.org/jose-bedia"
+   "https://www.cubanartresources.org/jose-bedia",
+   "https://www.artnet.com/artists/jos%c3%a9-bedia/biography",
+   "https://onatefineart.com/artist/639-jose-bedia/cv",
+   "https://jmcohen.com/artist/Jose_Bedia/biography/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Miami, USA",
+  "note3": "Born Havana; in Miami since 1993 (one source mentions a Mexico stint first). Magiciens de la Terre 1989; first prize Beijing Biennale 2010."
  },
  {
   "name": "La Vaughn Belle",
@@ -528,10 +644,27 @@
   "note": "Co-created I Am Queen Mary (Copenhagen); 2026 solo at Nordic Museum; birthplace given variously as Tobago/Trinidad",
   "sources": [
    "https://en.wikipedia.org/wiki/La_Vaughn_Belle",
-   "https://nordicmuseum.org/exhibitions/la-vaughn-belle"
+   "https://nordicmuseum.org/exhibitions/la-vaughn-belle",
+   "https://www.lavaughnbelle.com/info",
+   "https://www.orlandoweekly.com/arts/la-vaughn-belles-artwork-reminds-us-that-history-refuses-to-be-buried/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "US Virgin Islands (born Tobago per Wikipedia; Trinidad and Tobago per other sources)",
+  "residence": "St. Croix, US Virgin Islands",
+  "works": [
+   {
+    "title": "I Am Queen Mary (with Jeannette Ehlers)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/La_Vaughn_Belle"
+   },
+   {
+    "title": "The House That Freedoms Built",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/La_Vaughn_Belle"
+   }
+  ],
+  "note3": "Moved to St. Thomas as an infant. Royal Copenhagen porcelain commission."
  },
  {
   "name": "Mario Benjamin",
@@ -548,10 +681,22 @@
   "editions": "no evidence",
   "note": "Website from a 2010 exhibition listing; liveness unverified. Born Port-au-Prince",
   "sources": [
-   "https://www.naderhaitianart.com/collections/mario-benjamin-haitian-1964"
+   "https://www.naderhaitianart.com/collections/mario-benjamin-haitian-1964",
+   "https://framerframed.nl/en/mensen/mario-benjamin/",
+   "https://africanah.org/?p=30987"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "residence": "Port-au-Prince, Haiti",
+  "works": [
+   {
+    "title": "Abstract Expressionist Portrait",
+    "year": 2017,
+    "url": "https://www.naderhaitianart.com/en-kr/products/mario-benjamin-68-75-x48-abstract-expressionist-portrait-2017-acrylic-on-canvas-unframed-painting-1th"
+   }
+  ],
+  "note3": "Self-taught; shown at Havana, Johannesburg, Venice, Sao Paulo, Dakar biennials. Made a 2011 earthquake memorial for Digicel."
  },
  {
   "name": "Rigaud Benoit",
@@ -586,10 +731,14 @@
   "editions": "no evidence",
   "note": "Could not identify; not searched (budget exhausted) Born Fort-de-France; shown at Liverpool Biennial; profile at Fondation Pernod Ricard; no website found",
   "sources": [
-   "https://www.fondation-pernod-ricard.com/en/node/6152"
+   "https://www.fondation-pernod-ricard.com/en/node/6152",
+   "https://www.fondation-clement.org/wp-content/uploads/2024/06/CAT_VENTE_MACFC24_web.pdf"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Martinique (France)",
+  "residence": "Martinique",
+  "note3": "Born Fort-de-France; returned to Martinique 1986; installations and performance (memory, wounds, healing). Solo shows Espace Oberkampf 2019, SERMAC 2017, Fondation Clement 2010; Liverpool Biennial 2010."
  },
  {
   "name": "Jeannette Betancourt",
@@ -687,10 +836,21 @@
   "editions": "no evidence",
   "note": "Could not identify; not searched (budget exhausted) Included in Grenada Pavilion, Venice Biennale 2026; book Black Light Void (2024)",
   "sources": [
-   "https://repeatingislands.com/2026/08/23/edward-bowen-at-the-grenada-pavilion-2026-biennale-di-venezia/"
+   "https://repeatingislands.com/2026/08/23/edward-bowen-at-the-grenada-pavilion-2026-biennale-di-venezia/",
+   "https://nowgrenada.com/2026/08/a-landscape-of-correspondences-by-edward-bowen/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Trinidad and Tobago",
+  "residence": "Trinidad and Tobago",
+  "works": [
+   {
+    "title": "A Walk in the Park with Doctor Bob",
+    "year": null,
+    "url": "https://repeatingislands.com/2026/08/23/edward-bowen-at-the-grenada-pavilion-2026-biennale-di-venezia/"
+   }
+  ],
+  "note3": "In the Grenada Pavilion, 'The Poetics of Correspondence', 2026 Venice Biennale (to 22 Nov 2026). Solo shows: Stories 2017, Heds 2019, The Rainwater Paintings 2022 (Y Art Gallery); book Black Light Void (2024)."
  },
  {
   "name": "Frank Bowling",
@@ -811,10 +971,33 @@
   "note": "Founder of Hannah Arendt Institute of Artivism (INSTAR, 2015); detained in Havana 2015; official site and Instagram not found in search; based (Havana/New York) not confirmed",
   "sources": [
    "https://milanigallery.com.au/artists/tania-bruguera/",
-   "https://falling-walls.com/foundation/people/tania-bruguera"
+   "https://falling-walls.com/foundation/people/tania-bruguera",
+   "https://en.wikipedia.org/wiki/Tania_Bruguera",
+   "https://nationalacademy.emuseum.com/people/6261/tania-bruguera",
+   "https://tate.org.uk/art/artists/tania-bruguera-11982"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "New York, USA (Queens) / Cambridge, Massachusetts, USA",
+  "works": [
+   {
+    "title": "Tatlin's Whisper #5",
+    "year": 2008,
+    "url": "https://www.tate.org.uk/whats-on/tate-modern/exhibition/tania-bruguera-immigrant-movement-international"
+   },
+   {
+    "title": "Untitled (Kassel, 2002)",
+    "year": 2002,
+    "url": "https://en.wikipedia.org/wiki/Tania_Bruguera"
+   },
+   {
+    "title": "Immigrant Movement International",
+    "year": null,
+    "url": "https://www.tate.org.uk/whats-on/tate-modern/exhibition/tania-bruguera-immigrant-movement-international"
+   }
+  ],
+  "note3": "Residence sources conflict: Queens NY (National Academy, Tate listing) vs Cambridge MA (Tate bio, Wikipedia; Harvard). Other sources say Havana/New York."
  },
  {
   "name": "Alex Burke",
@@ -861,7 +1044,7 @@
   "name": "Ras Ishi Butcher",
   "country": "Barbados",
   "based": "Barbados",
-  "born": null,
+  "born": 1965,
   "died": null,
   "living": true,
   "medium": "painting, mixed media",
@@ -873,16 +1056,20 @@
   "note": "Self-taught; gold at 1992 Caribbean and Central American Biennial (Santo Domingo); teaches BFA at Barbados Community College; postgraduate ISA Havana 1997; often shown with Ras Akyem Ramsay Self-taught Barbadian; gold at 1992 Caribbean and Central American Biennial; teaches BFA at Barbados Community College. No website/Instagram found.",
   "sources": [
    "https://www.internationalcuratorsforum.org/people/ras-ishi-butcher/",
-   "https://art.state.gov/personnel/ras_butcher/"
+   "https://art.state.gov/personnel/ras_butcher/",
+   "https://www.caribbean-beat.com/?p=253"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Barbados",
+  "residence": "Barbados",
+  "note3": "Birth year uncertain: one profile says 1965, a 1992 report calls him 33 (c.1959). Teaches in BFA programme at Barbados Community College; studied at ISA Havana 1997; gold award at first Caribbean and Central American Biennial, Santo Domingo 1992; solo show 'Isolation' 1995."
  },
  {
   "name": "Holly Bynoe",
   "country": "St Vincent and the Grenadines",
   "based": "Barbados / Scotland",
-  "born": null,
+  "born": 1980,
   "died": null,
   "living": true,
   "medium": "photography, curating",
@@ -896,10 +1083,32 @@
    "https://www.searchlight.vc/news/2006/10/20/holly-bynoe-speaks-with-her-camera",
    "https://hollybynoe.com/about",
    "https://www.saatchiart.com/hollybynoe",
-   "https://nagb.org.bs/?p=1416"
+   "https://nagb.org.bs/?p=1416",
+   "https://worldbank.emuseum.com/people/2922/holly-bynoe/objects",
+   "https://www.e-flux.com/announcements/185751/new-chief-curator-appointed"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Saint Vincent and the Grenadines",
+  "residence": "Scotland, UK / Caribbean",
+  "works": [
+   {
+    "title": "Imperial",
+    "year": 2010,
+    "url": "https://worldbank.emuseum.com/people/2922/holly-bynoe/objects"
+   },
+   {
+    "title": "Generation Fight",
+    "year": 2010,
+    "url": "https://worldbank.emuseum.com/people/2922/holly-bynoe/objects"
+   },
+   {
+    "title": "Inbred",
+    "year": 2010,
+    "url": "https://worldbank.emuseum.com/people/2922/holly-bynoe/objects"
+   }
+  ],
+  "note3": "Artist, curator, writer; co-founder ARC Magazine; former Chief Curator NAGB (to end 2019); PhD candidate at St Andrews; birth year from a single source."
  },
  {
   "name": "Francisco Cabral",
@@ -960,10 +1169,16 @@
    "https://www.waapart.com/acquisition-charles-campbells-maroonscape-1-2-vancouver-art-gallery/",
    "https://thegoldfarbgallery.ca/project/ocean-to-livity/",
    "https://www.gallery.ca/whats-on/sobey-art-award/artists-2025/pacific",
-   "https://www.waapart.com/portfolio/charles-campbell-breath-portraits/"
+   "https://www.waapart.com/portfolio/charles-campbell-breath-portraits/",
+   "https://rungh.org/?p=3532",
+   "https://westharlem.art/2022/08/10/jamaican-born-charles-campbell-wins-canadian-top-prize/",
+   "https://curatorsintl.org/collaborators/charles-campbell"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Victoria, British Columbia, Canada",
+  "note3": "Jamaican-born; moved to Prince Edward Island aged five; formerly Chief Curator, National Gallery of Jamaica; 2022 VIVA Award. Shows: Fragments of Epic Memory (AGO), The Other Side of Now (PAMM). Birth year not shown."
  },
  {
   "name": "María Magdalena Campos-Pons",
@@ -983,10 +1198,16 @@
    "https://www.gallerywendinorris.com/artists/maria-magdalena-campos-pons",
    "https://www.masterworks.com/academy/artists/maria-magdalena-campos-pons",
    "https://fristartmuseum.org/?p=22540",
-   "https://clac.rutgers.edu/node/73"
+   "https://clac.rutgers.edu/node/73",
+   "https://en.wikipedia.org/wiki/Mar%C3%ADa_Magdalena_Campos_Pons",
+   "https://as.vanderbilt.edu/art/bio/mariamagdalena-campos-pons/",
+   "https://www.cubanartresources.org/maria-magdalena-campos-pons"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Nashville, USA / Boston, USA",
+  "note3": "Born La Vega, Matanzas, 22 July 1959 (one infobox says August). Residence sources split: Nashville (Vanderbilt chair since 2017) vs Boston. Represented Cuba at 2013 Venice Biennale; retrospective Everything is Separated by Water (Indianapolis, 2006); 2023 MacArthur noted."
  },
  {
   "name": "Tony Capellán",
@@ -1066,10 +1287,21 @@
   "sources": [
    "https://usfcam.usf.edu/GS/artists/castillo_liset/castillo.html",
    "https://www.torchgallery.com/artists/liset-castillo",
-   "https://www.ecured.cu/Liset_Castillo_Vald%C3%A9s"
+   "https://www.ecured.cu/Liset_Castillo_Vald%C3%A9s",
+   "https://collections.carlos.emory.edu/people/5683/liset-castillo"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Amsterdam, Netherlands",
+  "works": [
+   {
+    "title": "Rice, Garlic, Spoon (photogravure series)",
+    "year": 2000,
+    "url": "https://usfcam.usf.edu/GS/artists/castillo_liset/castillo.html"
+   }
+  ],
+  "note3": "Born Camagüey; ISA Havana 1998; De Ateliers Amsterdam 2000-02; sand-based work; recent solo at TORCH Gallery, Amsterdam."
  },
  {
   "name": "Marie-Hélène Cauvin",
@@ -1169,7 +1401,10 @@
    "https://larkindurey.com/publications/97"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Martinique",
+  "residence": "Fort-de-France, Martinique",
+  "note3": "Photographer (portraiture); trained in Paris 1986-89; solo show 'Correspondence' at Nuku Photo Festival Accra 2018 and 14N 61W 2019. Only one gallery listing (c.2021) found."
  },
  {
   "name": "Camille Chedda",
@@ -1190,7 +1425,10 @@
    "https://www.theolympiagallery.com/camille-chedda"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Kingston, Jamaica",
+  "note3": "Born Manchester, Jamaica; lectures at Edna Manley College; represented by The Olympia Gallery; shown at documenta fifteen. No specific work titles in results."
  },
  {
   "name": "Albert Chong",
@@ -1208,10 +1446,32 @@
   "note": "Born Kingston 1958; teaches at University of Colorado Boulder. Instagram not found.",
   "sources": [
    "https://www.albertchong.com/bio",
-   "https://www.colorado.edu/artandarthistory/albert-chong"
+   "https://www.colorado.edu/artandarthistory/albert-chong",
+   "https://en.wikipedia.org/wiki/Albert_Chong",
+   "https://www.emmanuelgallery.org/albertchong"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Colorado, USA",
+  "works": [
+   {
+    "title": "Throne for the Ancestors",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Albert_Chong"
+   },
+   {
+    "title": "Color Still Lives",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Albert_Chong"
+   },
+   {
+    "title": "Winged Evocations",
+    "year": null,
+    "url": "https://www.emmanuelgallery.org/albertchong"
+   }
+  ],
+  "note3": "Born Kingston; emigrated to USA 1977; retrospective 'Illuminations and Ruminations' at Emmanuel Gallery Jan-Mar 2026. Exact city not stated in results (sources mention Colorado since 1991)."
  },
  {
   "name": "Pat Chu Foon",
@@ -1253,7 +1513,7 @@
   "name": "Nayda Collazo-Lloréns",
   "country": "Puerto Rico",
   "based": "Kalamazoo, Michigan, USA",
-  "born": null,
+  "born": 1968,
   "died": null,
   "living": true,
   "medium": "painting, installation",
@@ -1265,10 +1525,32 @@
   "note": "Instagram not found.",
   "sources": [
    "https://www.naydacollazollorens.com/bio.html",
-   "https://www.keijserskoning.com/artists/37-nayda-collazo-llorens/biography/"
+   "https://www.keijserskoning.com/artists/37-nayda-collazo-llorens/biography/",
+   "https://en.wikipedia.org/wiki/Nayda_Collazo-Llorens",
+   "https://www.mapr.org/en/art/artwork/circa-1978"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Puerto Rico",
+  "residence": "New York, USA",
+  "works": [
+   {
+    "title": "Circa 1978",
+    "year": 2001,
+    "url": "https://www.mapr.org/en/art/artwork/circa-1978"
+   },
+   {
+    "title": "RE_SIGHTINGS",
+    "year": 2016,
+    "url": "https://www.keijserskoning.com/artists/37-nayda-collazo-llorens/biography/"
+   },
+   {
+    "title": "Unmappings",
+    "year": 2018,
+    "url": "https://www.keijserskoning.com/artists/37-nayda-collazo-llorens/biography/"
+   }
+  ],
+  "note3": "Born San Juan; also makes public interventions in San Juan."
  },
  {
   "name": "Jaime Colson",
@@ -1304,10 +1586,16 @@
   "note": "Prince Claus Fund awardee; work in National Gallery of Art, Quai Branly, PAMM etc. No own website/Instagram found.",
   "sources": [
    "https://princeclausfund.nl/awardees/myrlande-constant",
-   "https://www.nga.gov/artworks/227847-guede-djable-2-cornes"
+   "https://www.nga.gov/artworks/227847-guede-djable-2-cornes",
+   "https://en.wikipedia.org/wiki/Myrlande_Constant",
+   "https://vanguardculture.com/the-buzz-myrlande-constant-the-work-of-radiance/",
+   "https://36.bienal.org.br/en/artista/myrlande-constant-en/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "residence": "Port-au-Prince, Haiti",
+  "note3": "Beaded Vodou flag (drapo) artist; Fowler Museum UCLA retrospective 'The Work of Radiance' 2023; 2024 Prince Claus Impact Award; 36th Bienal de Sao Paulo; Figge Art Museum 'Drapo' to May 2025. No individual work titles in results."
  },
  {
   "name": "James Cooper",
@@ -1347,10 +1635,13 @@
   "sources": [
    "https://bahamasportraitgallery.com/author/editor/page/6",
    "https://www.daguilarartfoundation.com/explore/artist/21/cox_john.html",
-   "https://www.caciqueinternational.com/blog/johncox"
+   "https://www.caciqueinternational.com/blog/johncox",
+   "https://bahamasportraitgallery.com/?p=7014"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Bahamas",
+  "note3": "Residence not found. Artist, educator, founder of Popopstudios, former chief curator National Art Gallery of The Bahamas; executive director arts and culture at Baha Mar as of 2023. No work titles in results."
  },
  {
   "name": "Renee Cox",
@@ -1369,10 +1660,31 @@
   "sources": [
    "https://www.reneecox.org/about",
    "https://en.wikipedia.org/wiki/Renee_Cox",
-   "https://www.guildhall.org/?p=16990"
+   "https://www.guildhall.org/?p=16990",
+   "https://www.artnet.com/artists/ren%c3%a9e-cox/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "New York, USA",
+  "works": [
+   {
+    "title": "Yo Mama's Last Supper",
+    "year": 2001,
+    "url": "https://en.wikipedia.org/wiki/Renee_Cox"
+   },
+   {
+    "title": "Queen Nanny of the Maroons",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Renee_Cox"
+   },
+   {
+    "title": "Raje",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Renee_Cox"
+   }
+  ],
+  "note3": "Born Colgate, Jamaica; one source lists Harlem and Amagansett (East Hampton) as bases; archive acquired by Smithsonian Archives of American Art 2019."
  },
  {
   "name": "Luis Cruz Azaceta",
@@ -1411,16 +1723,21 @@
   "note": "Nassau-born; director of Ruby Cruel, Hackney; also shown by Tern Gallery (Nassau) and Copperfield Gallery; works in AGO and National Art Gallery of The Bahamas",
   "sources": [
    "https://www.bluecurry.com/about",
-   "https://www.copperfieldgallery.com/bluecurry.html"
+   "https://www.copperfieldgallery.com/bluecurry.html",
+   "https://en.wikipedia.org/wiki/Blue_Curry",
+   "https://sitesantafe.org/en/artists/blue-curry"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Bahamas",
+  "residence": "London, UK",
+  "note3": "Born Nassau; lives in London, works between there and the Caribbean; Popop collective member since 2000; directs Ruby Cruel, Hackney. Early beach-sand project and a 2009 bull shark jaw/rope/cassette installation (untitled in results)."
  },
  {
   "name": "Annalee Davis",
   "country": "Barbados",
   "based": "Barbados",
-  "born": null,
+  "born": 1963,
   "died": null,
   "living": true,
   "medium": "drawing, painting, installation",
@@ -1432,10 +1749,23 @@
   "note": "Founder of Fresh Milk arts platform (2011); co-founder Caribbean Linked, Tilting Axis; MFA Rutgers Founder of Fresh Milk (2011), studio on a working dairy farm, a former sugarcane plantation; no Instagram found",
   "sources": [
    "https://annaleedavis.com/about",
-   "https://freshmilkbarbados.com/the-fresh-milk-team/"
+   "https://freshmilkbarbados.com/the-fresh-milk-team/",
+   "https://en.wikipedia.org/wiki/Annalee_Davis",
+   "https://www.kunstinstituutmelly.nl/en/people/856",
+   "https://curatorsintl.org/about/collaborators/7624-annalee-davis"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Barbados",
+  "residence": "Barbados",
+  "works": [
+   {
+    "title": "Self as Plot",
+    "year": null,
+    "url": "https://www.aberdeencity.gov.uk/AAGM/museum-home/blogs/artists-intervene-in-victorian-portraits"
+   }
+  ],
+  "note3": "Born St Michael; studio on a working dairy farm, former sugar plantation; founding director Fresh Milk Art Platform (2011)."
  },
  {
   "name": "Susan Dayal",
@@ -1473,16 +1803,28 @@
    "https://bienalsescvideobrasil.org.br/artistas/maksaens-denis/en",
    "https://www.artbasel.com/stories/haitian-artists-art-basel-miami-beach-2024?lang=fr",
    "https://cvc.wisc.edu/programs/maksaens_denis/",
-   "https://contemporaryand.com/america-latina-magazine/texts/denis-maksaens-glitch-and-representation-in-the-caribbean"
+   "https://contemporaryand.com/america-latina-magazine/texts/denis-maksaens-glitch-and-representation-in-the-caribbean",
+   "https://cvcps.wisc.edu/?p=2809",
+   "https://www.nyartbeat.com/event/2018/00C7"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "residence": "Port-au-Prince, Haiti / Dominican Republic / Paris, France",
+  "works": [
+   {
+    "title": "36 Seconds",
+    "year": 2010,
+    "url": "https://www.nyartbeat.com/event/2018/00C7"
+   }
+  ],
+  "note3": "Birth year not found. Multimedia artist and DJ/VJ; 36 Seconds won the Fondation Blachere prize at Dakar Biennale 2010; 2018 show 'Selebrasyon! Ayiti Angaje'."
  },
  {
   "name": "Jean-Ulrick Désert",
   "country": "Haiti / USA / Germany",
   "based": "Berlin",
-  "born": 1960,
+  "born": 1965,
   "died": null,
   "living": true,
   "medium": "conceptual art, painting, sculpture, video",
@@ -1495,16 +1837,33 @@
   "sources": [
    "https://www.instinct.berlin/jean-ulrick-desert",
    "https://www.angl.hu-berlin.de/department/duboismemorial/artist",
-   "https://www.transartinstitute.org/people/jean-ulrick-dsert"
+   "https://www.transartinstitute.org/people/jean-ulrick-dsert",
+   "https://www.hkw.de/en/programme/contributors/jean-ulrick-desert",
+   "https://art.northwestern.edu/node/684"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "residence": "Berlin, Germany",
+  "works": [
+   {
+    "title": "Negerhosen2000",
+    "year": 2000,
+    "url": "https://www.hkw.de/en/programme/contributors/jean-ulrick-desert"
+   },
+   {
+    "title": "Burqa Project",
+    "year": null,
+    "url": "https://www.hkw.de/en/programme/contributors/jean-ulrick-desert"
+   }
+  ],
+  "note3": "Born Port-au-Prince; Berlin studio since 2002; Haiti Pavilion Venice Biennale 2019; 'The Butterfly Resistance' Warsaw 2024; 'Josephine Baker Icon in Motion' Neue Nationalgalerie 2024."
  },
  {
   "name": "Juan Roberto Diago",
   "country": "Cuba",
   "based": "Havana",
-  "born": null,
+  "born": 1971,
   "died": null,
   "living": true,
   "medium": "painting, sculpture, installation",
@@ -1518,10 +1877,14 @@
    "https://www.pinta.art/Pinta/Past-Editions/Pinta-Miami/2024/Galleries/Main-Section/Galeria-Artizar/Sin-titulo2",
    "https://news.harvard.edu/gazette/story/2017/01/juan-robert-diago-artwork-shadows-of-cubas-past",
    "https://www.artemorfosis.com/artist/juan-roberto-diago-durruthy/",
-   "https://www.p55.art/en/collections/roberto-diago"
+   "https://www.p55.art/en/collections/roberto-diago",
+   "https://myartguides.com/people/diago-juan-roberto/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Havana, Cuba",
+  "note3": "Born Havana; grandson of painter Roberto Diago Querol; Venice Biennale 1997; shows 'The Past of This Afro-Cuban Present' (Harvard, AMA Washington) and 'Foraged Materials, Assembled Histories' (Univ. of Missouri). No individual work titles in results."
  },
  {
   "name": "Roberto Diago",
@@ -1558,10 +1921,30 @@
   "sources": [
    "https://www.elcaribe.com.do/sin-categoria/las-obras-polibio-diaz-canada/",
    "https://arteinformado.com/guia/f/polibio-diaz-35481",
-   "https://www1.essex.ac.uk/arthistory/research/pdfs/arara_issue_9/garridocastellano.pdf"
+   "https://www1.essex.ac.uk/arthistory/research/pdfs/arara_issue_9/garridocastellano.pdf",
+   "https://repeatingislands.com/2013/08/18/videoperformance-polibio-diaz-receives-award-for-manifiesto/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Dominican Republic",
+  "works": [
+   {
+    "title": "Manifiesto",
+    "year": 2013,
+    "url": "https://repeatingislands.com/2013/08/18/videoperformance-polibio-diaz-receives-award-for-manifiesto/"
+   },
+   {
+    "title": "Imágenes de Carnaval",
+    "year": null,
+    "url": "https://www.elcaribe.com.do/sin-categoria/las-obras-polibio-diaz-canada/"
+   },
+   {
+    "title": "Interiores",
+    "year": null,
+    "url": "https://www.elcaribe.com.do/sin-categoria/las-obras-polibio-diaz-canada/"
+   }
+  ],
+  "note3": "Born Barahona. Residence not found; 2014 Davidoff residency at ISCP Brooklyn. Manifiesto year approximate (award reported 2013)."
  },
  {
   "name": "Rex Dixon",
@@ -1602,10 +1985,21 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Philippe_Dodard",
    "https://expressionsgaleriedart.com/artist/philippe-dodard/",
-   "https://galerielakaye.com/philippe-dodard"
+   "https://galerielakaye.com/philippe-dodard",
+   "https://haitianartsociety.org/dodard-philippe-haitian-b-1954",
+   "https://obama.artifacts.archives.gov/people/15875/philippe-dodard"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "works": [
+   {
+    "title": "L'Espoir",
+    "year": 1984,
+    "url": "https://www.naderhaitianart.com/es/products/philippe-dodard-60x48-lespoir-1984-acrylic-on-masonite-1eb"
+   }
+  ],
+  "note3": "Born Port-au-Prince (one Wikipedia version wrongly says Philippines). Residence not confirmed; Obama Library catalogue lists Port-au-Prince as active location. Collaborated with Donna Karan (MOCA North Miami)."
  },
  {
   "name": "Peter Doig",
@@ -1625,10 +2019,22 @@
    "https://michaelwerner.com/news/peter-doig",
    "https://en.wikipedia.org/wiki/Peter_Doig",
    "https://ocula.com/artists/Peter-Doig/",
-   "https://michaelwerner.com/news/peter-doig9"
+   "https://michaelwerner.com/news/peter-doig9",
+   "https://myartguides.com/people/doig-peter",
+   "https://www.artnet.com/artists/peter-doig/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "United Kingdom (Scotland)",
+  "residence": "Trinidad and Tobago",
+  "works": [
+   {
+    "title": "White Canoe",
+    "year": null,
+    "url": "https://www.artnet.com/artists/peter-doig/"
+   }
+  ],
+  "note3": "Born Edinburgh; moved to Trinidad 2002; Tate Britain retrospective 2008; White Canoe sold $11.3m Sotheby's 2007."
  },
  {
   "name": "Roland Dorcély",
@@ -1709,10 +2115,23 @@
   "note": "Born Port-au-Prince; Miami-Dade County Artist-in-Residence; retrospective at The Betsy, Miami Beach; shown with Pan American Art (Pinta Miami 2020); birth year from background knowledge",
   "sources": [
    "https://duval-carrie.com/edouard-duval-carrie-frieze-n-y-2019/",
-   "https://www.cbsnews.com/amp/miami/news/miami-proud-edouard-duval-carrie-artist-haiti"
+   "https://www.cbsnews.com/amp/miami/news/miami-proud-edouard-duval-carrie-artist-haiti",
+   "https://en.wikipedia.org/wiki/Edouard_Duval-Carri%C3%A9",
+   "https://www.labiennale.org/en/node/19552",
+   "https://haitianartsociety.org/duval-carrie-edouard-haitian-b-1954"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "residence": "Miami, USA",
+  "works": [
+   {
+    "title": "Etude Berstadt Marie Antoinette et al",
+    "year": null,
+    "url": "https://www.pinta.art/Pinta/Past-Editions/Pinta-Miami/2020/Galleries-2020/Contemporary/Pan-American-Art/Etude-Berstadt-Marie-Antoinette-et-al"
+   }
+  ],
+  "note3": "Born Port-au-Prince; Haiti Pavilion Venice 2011; 'Imagined Landscapes' PAMM 2014; in Venice Biennale 2026 (bronze deities and oil on canvas)."
  },
  {
   "name": "Davin K. Ebanks",
@@ -1730,10 +2149,31 @@
   "note": "Associate Professor, Head of Glass at Kent State; National Gallery of Cayman board; Blue Meridian solo 2011; Bendel Hydes Award 3rd Cayman Biennial 2021; public sculpture 'Adjacent' Associate Professor, Head of Glass at Kent State; National Gallery of Cayman Islands board member; no own website or Instagram found",
   "sources": [
    "https://nationalgallery.org.ky/artist/davin-ebanks",
-   "https://www.caymanartweek.com/davin-k-ebanks"
+   "https://www.caymanartweek.com/davin-k-ebanks",
+   "https://www.kent.edu/art/davin-ebanks"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cayman Islands",
+  "residence": "Ohio, USA (Kent State University)",
+  "works": [
+   {
+    "title": "Blue Meridian",
+    "year": 2011,
+    "url": "https://nationalgallery.org.ky/artist/davin-ebanks"
+   },
+   {
+    "title": "Adjacent",
+    "year": 2012,
+    "url": "https://nationalgallery.org.ky/artist/davin-ebanks"
+   },
+   {
+    "title": "Nowhere Is Blue",
+    "year": 2021,
+    "url": "https://www.kent.edu/art/davin-ebanks"
+   }
+  ],
+  "note3": "Glass artist; area head of glass at Kent State. Blue Meridian is a series/solo show 2011; Adjacent won NGCI public sculpture competition 2012; Nowhere Is Blue is a 2021 solo show. Not Al Ebanks."
  },
  {
   "name": "Jeannette Ehlers",
@@ -1751,10 +2191,26 @@
   "note": "Co-creator with La Vaughn Belle of 'I Am Queen Mary' (2018); solo 'Archives in the Tongue' at Kunsthal Charlottenborg; website per Wikipedia",
   "sources": [
    "https://en.wikipedia.org/wiki/Jeannette_Ehlers",
-   "https://www.contemporaryartlibrary.org/project/jeannette-ehlers-at-sharp-projects-copenhagen-29799"
+   "https://www.contemporaryartlibrary.org/project/jeannette-ehlers-at-sharp-projects-copenhagen-29799",
+   "https://framerframed.nl/en/mensen/jeannette-ehlers/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Denmark",
+  "residence": "Copenhagen, Denmark",
+  "works": [
+   {
+    "title": "I Am Queen Mary",
+    "year": 2018,
+    "url": "https://en.wikipedia.org/wiki/Jeannette_Ehlers"
+   },
+   {
+    "title": "The Invisible Empire",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Jeannette_Ehlers"
+   }
+  ],
+  "note3": "Danish-Trinidadian (father from Trinidad); I Am Queen Mary made with La Vaughn Belle; 'Archives in the Tongue' solo at Kunsthal Charlottenborg."
  },
  {
   "name": "Antonia Eiriz",
@@ -1856,7 +2312,7 @@
   "name": "Nicolás Dumit Estévez Raful",
   "country": "Dominican Republic / USA",
   "based": "South Bronx, New York",
-  "born": null,
+  "born": 1967,
   "died": null,
   "living": true,
   "medium": "performance, installation, socially engaged art",
@@ -1868,16 +2324,38 @@
   "note": "Founding director of The Interior Beauty Salon and The Mangu Museum; no personal site or Instagram confirmed; Hemispheric Institute archive home page exists",
   "sources": [
    "https://www.bronxarts.org/programs/resource/artist-registry/Nicolás-Dumit-Estévez-Raful-Espejo.html",
-   "https://transartinstitute.org/people/nicolas-dumit-estevz"
+   "https://transartinstitute.org/people/nicolas-dumit-estevz",
+   "https://elmuseo.org/?p=38915",
+   "https://www.macdowell.org/artists/nicolas-dumit-estevez"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Dominican Republic",
+  "residence": "South Bronx, New York, USA",
+  "works": [
+   {
+    "title": "For Art's Sake",
+    "year": null,
+    "url": "https://sites.dlib.nyu.edu/hidvl/76hdrb3f"
+   },
+   {
+    "title": "Office Hours (OH)",
+    "year": null,
+    "url": "https://elmuseo.org/?p=38915"
+   },
+   {
+    "title": "Performing the Bronx and other home-based actions",
+    "year": 2015,
+    "url": "https://bx200.com/oct-7-january-7-2016-2016-casita-maria-nicolas-dumit-estevez-solo-exhibition-performing-the-bronx/"
+   }
+  ],
+  "note3": "Born Santiago de los Caballeros; performance and social practice artist; one profile mentions UT Austin and Transart teaching posts."
  },
  {
   "name": "Roberto Fabelo",
   "country": "Cuba",
   "based": "Havana, Cuba",
-  "born": 1951,
+  "born": 1950,
   "died": null,
   "living": true,
   "medium": "painting, drawing, sculpture",
@@ -1889,16 +2367,37 @@
   "note": "Born Camagüey (some sources 1950); National Visual Arts Prize 2004; no website or Instagram found",
   "sources": [
    "https://cubanartresources.org/roberto-fabelo",
-   "https://heraklionartgallery.gr/en/artist/fabelo-roberto/"
+   "https://heraklionartgallery.gr/en/artist/fabelo-roberto/",
+   "https://en.wikipedia.org/wiki/Roberto_Fabelo",
+   "https://www.masterworks.com/academy/artists/roberto-fabelo"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "works": [
+   {
+    "title": "Viaje Fantástico",
+    "year": 2012,
+    "url": "https://en.wikipedia.org/wiki/Roberto_Fabelo"
+   },
+   {
+    "title": "Survival",
+    "year": 2009,
+    "url": "https://en.wikipedia.org/wiki/Roberto_Fabelo"
+   },
+   {
+    "title": "Perrerio (triptych)",
+    "year": 2018,
+    "url": "https://www.masterworks.com/academy/artists/roberto-fabelo"
+   }
+  ],
+  "note3": "Born Guaimaro, Camaguey; birth year 1950 per Wikipedia/Masterworks, 1951 per some galleries. Residence not stated in results; represented by Cernuda Arte."
  },
  {
   "name": "Laura Facey",
   "country": "Jamaica",
   "based": "St Ann, Jamaica",
-  "born": null,
+  "born": 1954,
   "died": null,
   "living": true,
   "medium": "sculpture",
@@ -1910,10 +2409,33 @@
   "note": "Redemption Song (2003), Emancipation Park, Kingston; Abeng debuted Design Miami 2025; personal Instagram not found",
   "sources": [
    "https://laurafacey.com/?p=29",
-   "https://toddmerrillstudio.com/designer/laura-facey/"
+   "https://toddmerrillstudio.com/designer/laura-facey/",
+   "https://en.wikipedia.org/wiki/Laura_Facey",
+   "https://smallaxe.net/sxvisualities/portfolios/40",
+   "https://veerlepoupeye.com/2023/01/01/laura-faceys-laboratory-of-the-ticking-heart-and-ormsby-hall/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Saint Ann, Jamaica",
+  "works": [
+   {
+    "title": "Redemption Song",
+    "year": 2003,
+    "url": "https://en.wikipedia.org/wiki/Laura_Facey"
+   },
+   {
+    "title": "Laboratory of the Ticking Heart",
+    "year": 2022,
+    "url": "https://veerlepoupeye.com/2023/01/01/laura-faceys-laboratory-of-the-ticking-heart-and-ormsby-hall/"
+   },
+   {
+    "title": "Seed",
+    "year": 2022,
+    "url": "https://autre.love/journal/tag/diotima"
+   }
+  ],
+  "note3": "2022 solo show Laboratory of the Ticking Heart at Ormsby Hall, Kingston; Seed chalk drawing became a cotton print for Diotima SS24."
  },
  {
   "name": "Amos Ferguson",
@@ -1970,10 +2492,27 @@
   "note": "Born Grenada 1956; moved to London 1967; MBE Dec 2020; no own website or Instagram found",
   "sources": [
    "https://www.stephenfriedman.com/artists/35-denzil-forrester/biography/",
-   "https://tate.org.uk/art/artists/denzil-forrester-25570"
+   "https://tate.org.uk/art/artists/denzil-forrester-25570",
+   "https://artspace.com/artists/denzil-forrester",
+   "https://iniva.org/library/digital-archive/people/f/denzil-forrester"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Grenada",
+  "residence": "Cornwall, UK",
+  "works": [
+   {
+    "title": "Three Wicked Men",
+    "year": 1982,
+    "url": "https://www.stephenfriedman.com/artists/35-denzil-forrester/biography/"
+   },
+   {
+    "title": "Carnival Dub",
+    "year": 1987,
+    "url": "https://www.stephenfriedman.com/artists/35-denzil-forrester/biography/"
+   }
+  ],
+  "note3": "Grenada-born British painter, moved to London 1967; 2019 Brixton Station public commission; MBE (2020/21); Stephen Friedman Gallery."
  },
  {
   "name": "José Manuel Fors",
@@ -1991,10 +2530,26 @@
   "note": "Born Havana 1956; Volumen I (1981); no website or Instagram found",
   "sources": [
    "https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Fors",
-   "https://www.cubanartresources.org/jose-manuel-fors"
+   "https://www.cubanartresources.org/jose-manuel-fors",
+   "https://oncubanews.com/en/culture/visual-arts/past-present-and-future-the-fors-triad/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Havana, Cuba",
+  "works": [
+   {
+    "title": "Acumulaciones",
+    "year": 1983,
+    "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Fors"
+   },
+   {
+    "title": "Palimpsesto",
+    "year": 2019,
+    "url": "https://miami.pinta.art/Ediciones-anteriores/2020-Edition/Galleries-2020/Contemporary/Pan-American-Art/Palimpsesto"
+   }
+  ],
+  "note3": "Cuba National Prize for Visual Arts 2016; represented at Pinta Miami 2020 by Pan American Art."
  },
  {
   "name": "Carlos Garaicoa",
@@ -2012,10 +2567,16 @@
   "note": "Website cited in Fondazione Berengo bio, not opened; no Instagram found",
   "sources": [
    "https://fondazioneberengo.org/carlos-garaicoa/",
-   "https://www.goodman-gallery.com/artists/carlos-garaicoa"
+   "https://www.goodman-gallery.com/artists/carlos-garaicoa",
+   "https://artcollection.unicredit.eu/artists/297/",
+   "https://south-south.art/artists/carlos-garaicoa/",
+   "https://www.janelombardgallery.com/artists/159"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Havana, Cuba / Madrid, Spain",
+  "note3": "Recent profiles say he divides time between Havana and Madrid (older profile: Havana only). PEM 2021 award; 2024 solo at Rocca Maggiore, Assisi; 2023 Goodman Gallery Johannesburg. No specific work titles in results."
  },
  {
   "name": "Aimée García",
@@ -2033,10 +2594,31 @@
   "note": "Likely Aimée García Marrero, born Limonar, Matanzas 1972; Wikipedia links an official site but URL not shown; no Instagram found",
   "sources": [
    "https://en.wikipedia.org/wiki/Aime%C3%A9_Garc%C3%ADa_Marrero",
-   "https://www.cubanartresources.org/aime-garcia"
+   "https://www.cubanartresources.org/aime-garcia",
+   "https://www.timessquarenyc.org/artists/aimee-garcia-marrero"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Havana, Cuba (Wikipedia) / North Carolina, USA (2022 gallery listing)",
+  "works": [
+   {
+    "title": "The Garden of Distrust",
+    "year": 2010,
+    "url": "https://en.wikipedia.org/wiki/Aime%C3%A9_Garc%C3%ADa_Marrero"
+   },
+   {
+    "title": "Suprematist Speech",
+    "year": 2016,
+    "url": "https://beverlypress.com/2016/02/couturier-gallery-welcomes-a-new-exhibition/"
+   },
+   {
+    "title": "Bailando con el Silencio / Dancing with the Silence",
+    "year": 2022,
+    "url": "https://www.pinta.art/Pinta/Past-Editions/Pinta-Miami/2022/Galleries-2022/Main-Section/MAP-Montenegro-Art-Projects/Bailando-con-el-Silencio-Dancing-with-the-Silence"
+   }
+  ],
+  "note3": "Full name Aimée García Marrero, born Matanzas. Residence conflicting between sources (Havana vs North Carolina); Garden of Distrust and Suprematist Speech are solo/gallery shows."
  },
  {
   "name": "Scherezade García",
@@ -2054,10 +2636,17 @@
   "note": "Born Santo Domingo 1966, in New York since 1986; Joan Mitchell grant 2015; arteinformado lists an Instagram link but handle not visible",
   "sources": [
    "https://www.scherezade.net/about/",
-   "https://arteinformado.com/guia/f/scherezade-garcia-33100"
+   "https://arteinformado.com/guia/f/scherezade-garcia-33100",
+   "https://en.wikipedia.org/wiki/Scherezade_Garc%C3%ADa",
+   "https://art.utexas.edu/people/scherezade-garcia",
+   "https://www.scherezade.net/press",
+   "https://lyleoreitzel.com/artists/garcia-scherezade/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Dominican Republic",
+  "residence": "Brooklyn, USA / Austin, USA",
+  "note3": "Born Santo Domingo; moved to New York 1986; teaches at UT Austin; monograph 'From This Side of the Atlantic' (2020, Art Museum of the Americas); Joan Mitchell grant 2015, Colene Brown Art Prize 2020. No specific artwork titles in results."
  },
  {
   "name": "José García Cordero",
@@ -2075,10 +2664,31 @@
   "note": "Born Santiago, Dominican Republic 1951; Premio Nacional de Artes Visuales 2023; no website or Instagram found",
   "sources": [
    "https://en.wikipedia.org/wiki/Jos%C3%A9_Garc%C3%ADa_Cordero",
-   "https://www.diariolibre.com/revista/cultura/2023/11/24/jose-garcia-cordero-premio-nacional-de-artes-visuales-2023/2532986"
+   "https://www.diariolibre.com/revista/cultura/2023/11/24/jose-garcia-cordero-premio-nacional-de-artes-visuales-2023/2532986",
+   "https://diariolibre.com/revista/cultura/2024/11/10/lyle-o-reitzel-presenta-exposicion-del-maestro-jose-garcia-cordero/2907433"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Dominican Republic",
+  "residence": "Paris, France (Montreuil) / Santo Domingo, Dominican Republic",
+  "works": [
+   {
+    "title": "La Infancia de Dionisos II",
+    "year": 2022,
+    "url": "https://miami.pinta.art/Ediciones-anteriores/2022-Edition/Galleries-2022/Main-Section/Lyle-O.-Reitzel-Gallery/La-Infancia-de-Dionisos-II"
+   },
+   {
+    "title": "Encuentro",
+    "year": 2022,
+    "url": "https://www.pinta.art/Pinta/Past-Editions/Pinta-Miami/2022/Galleries-2022/Main-Section/Lyle-O.-Reitzel-Gallery/Encuentro"
+   },
+   {
+    "title": "Maremágnum. Alborotos y otros barullos",
+    "year": 2024,
+    "url": "https://diariolibre.com/revista/cultura/2024/11/10/lyle-o-reitzel-presenta-exposicion-del-maestro-jose-garcia-cordero/2907433"
+   }
+  ],
+  "note3": "Born Santiago de los Caballeros; in Paris since 1977; one source also says he splits time with Santo Domingo and Cabarete. Maremágnum is a Nov 2024 exhibition at Lyle O. Reitzel."
  },
  {
   "name": "Joscelyn Gardner",
@@ -2097,10 +2707,27 @@
   "sources": [
    "https://www.art.state.gov/personnel/joscelyn_gardner/",
    "https://smallaxe.net/sxvisualities/portfolios/37",
-   "https://barbados.org/blog/barbados-artist-wins-grand-prize-at-international-contemporary-printmaking-biennial"
+   "https://barbados.org/blog/barbados-artist-wins-grand-prize-at-international-contemporary-printmaking-biennial",
+   "https://irgg.yale.edu/node/211",
+   "https://commons.princeton.edu/otherfutures2018/?p=14"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Barbados",
+  "residence": "London, Ontario, Canada",
+  "works": [
+   {
+    "title": "Creole Portraits II",
+    "year": 2007,
+    "url": "https://www.erudit.org/en/culture/esse045/esse03065/85604ac.pdf"
+   },
+   {
+    "title": "Creole Portraits III",
+    "year": 2011,
+    "url": "https://irgg.yale.edu/node/211"
+   }
+  ],
+  "note3": "Barbadian-born, based in Canada; teaches at Fanshawe College, London, Ontario. First search returned nothing; second search found her. Birth year not shown. Creole Portraits III dated 2009-11; Yale Art Gallery acquired it."
  },
  {
   "name": "Colin Garland",
@@ -2189,7 +2816,7 @@
   "name": "Lawrence Graham-Brown",
   "country": "Jamaica / USA",
   "based": "New York / New Jersey, USA",
-  "born": null,
+  "born": 1969,
   "died": null,
   "living": true,
   "medium": "performance, sculpture, painting, media",
@@ -2201,10 +2828,22 @@
   "note": "Franklin Furnace Fellow 2011-12; shown at National Gallery of Jamaica, Queens Museum, El Museo del Barrio, Shanghai Biennial; Rastafari imagery, work addresses homophobia.",
   "sources": [
    "https://en.wikipedia.org/wiki/Lawrence_Graham-Brown",
-   "https://petrinearcher.com/node/119"
+   "https://petrinearcher.com/node/119",
+   "https://kolajmagazine.com/artistdirectory/lawrence-brown",
+   "https://eportfolios.macaulay.cuny.edu/rastafari/?p=170"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "New York / New Jersey, USA",
+  "works": [
+   {
+    "title": "Ras-Pan-Afro-Homo Sapien",
+    "year": 2009,
+    "url": "https://eportfolios.macaulay.cuny.edu/rastafari/?p=170"
+   }
+  ],
+  "note3": "Jamaican-American; birth year from a CUNY page only (unverified); also listed as Lawrence Brown; site lawrencegrahambrown.com; Franklin Furnace Fellow 2011-12."
  },
  {
   "name": "Stanley Greaves",
@@ -2246,10 +2885,15 @@
    "https://www.gf.org/fellows/marlon-griffith",
    "https://thegoldfarbgallery.ca/project/marlon-griffith/",
    "https://yfile.news.yorku.ca/?p=219457",
-   "https://irgg.yale.edu/marlon-griffith"
+   "https://irgg.yale.edu/marlon-griffith",
+   "https://curatorsintl.org/collaborators/marlon-griffith",
+   "https://parnassusbooks.net/book/9781911164043"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Trinidad and Tobago",
+  "residence": "Nagoya, Japan",
+  "note3": "Born Port of Spain; one profile says based in Nagoya since 2009 (verify, may have changed); Guggenheim Fellow 2010; monograph 'Symbols of Endurance'. Designs bands for Trinidad and Notting Hill Carnival. No specific artwork titles in results."
  },
  {
   "name": "David Gumbs",
@@ -2269,10 +2913,29 @@
    "https://fungcollaboratives.org/?p=10814",
    "https://festival.bahamar.com/speaker/david-gumbs-interdisciplinary-artist-saint-martin",
    "https://nagb.org.bs/blank-canvas-david-gumbs/",
-   "https://burnaway.org/daily/david-gumbs-jepson-center"
+   "https://burnaway.org/daily/david-gumbs-jepson-center",
+   "https://limagier.qc.ca/?p=4869"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Saint-Martin",
+  "residence": "Fort-de-France, Martinique",
+  "works": [
+   {
+    "title": "Cosmic Flowers",
+    "year": 2020,
+    "url": "https://limagier.qc.ca/?p=4869"
+   },
+   {
+    "title": "From Dust to Gold",
+    "url": "https://burnaway.org/daily/david-gumbs-jepson-center"
+   },
+   {
+    "title": "Blossoms",
+    "url": "https://freshmilkbarbados.com/tag/saint-martin/"
+   }
+  ],
+  "note3": "Born in Saint-Martin, works from Martinique; teaches at the visual arts school in Fort-de-France. Birth year not found. From Dust to Gold is a solo museum show at the Telfair Jepson Center, Savannah."
  },
  {
   "name": "Guyodo",
@@ -2291,10 +2954,23 @@
   "sources": [
    "https://africanah.org/frantz-jacques-guyodo/",
    "https://haitianartsociety.org/guyodo-frantz-jacque-haitian-b-1973",
-   "https://www.artbrut.ch/en_GB/author/guyodo"
+   "https://www.artbrut.ch/en_GB/author/guyodo",
+   "https://abcd-artbrut.net/en/collection/guyodo-frantz-jacques-known-as/",
+   "https://artbrut.ch/en/artists/guyodo",
+   "https://cavinmorris.com/s/Guyodo-CV-wxs2.pdf"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "residence": "Port-au-Prince, Haiti",
+  "works": [
+   {
+    "title": "Freedom Sculpture",
+    "year": 2006,
+    "url": "https://abcd-artbrut.net/en/collection/guyodo-frantz-jacques-known-as/"
+   }
+  ],
+  "note3": "Real name Frantz Jacques, born 7 Dec 1973; co-founder of Atis Rezistans; a 2020 fire destroyed over 2,000 of his works; in Collection de l'Art Brut, Lausanne."
  },
  {
   "name": "Abigail Hadeed",
@@ -2313,10 +2989,31 @@
   "sources": [
    "https://www.lensculture.com/abigail-hadeed",
    "https://hoodmuseum.dartmouth.edu/objects/2022.58.1",
-   "https://as-coa.org/events/studio-abigail-hadeed"
+   "https://as-coa.org/events/studio-abigail-hadeed",
+   "https://www.lightwork.org/?p=4643",
+   "https://hoodmuseum.dartmouth.edu/objects/2022.58.4"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Trinidad and Tobago",
+  "residence": "Trinidad and Tobago",
+  "works": [
+   {
+    "title": "Chant Down Babylon",
+    "year": 2019,
+    "url": "https://hoodmuseum.dartmouth.edu/objects/2022.58.4"
+   },
+   {
+    "title": "Warriors of Huracán",
+    "year": 2021,
+    "url": "https://www.lensculture.com/abigail-hadeed"
+   },
+   {
+    "title": "Trees Without Roots",
+    "url": "https://www.caribbean-beat.com/issue-84/trees-without-roots"
+   }
+  ],
+  "note3": "Photographer; birth year not found. First search returned nothing; second search found her. Works in Lightwork and Hood Museum collections."
  },
  {
   "name": "Anna Ruth Henriques",
@@ -2336,7 +3033,16 @@
    "https://collections.thejewishmuseum.org/collection/29471-the-book-of-mechtilde"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "works": [
+   {
+    "title": "The Book of Mechtilde",
+    "year": 1995,
+    "url": "https://collections.thejewishmuseum.org/collection/29471-the-book-of-mechtilde"
+   }
+  ],
+  "note3": "Only Jewish Museum (New York) collection records found; residence not shown. Date of Book of Mechtilde is c. 1995 (book published by Knopf 1997)."
  },
  {
   "name": "Quisqueya Henríquez",
@@ -2475,10 +3181,32 @@
   "sources": [
    "https://www.worldpressphoto.org/nadia-huggins",
    "https://en.wikipedia.org/wiki/Nadia_Huggins",
-   "https://thefunambulist.net/network/nadia-huggins"
+   "https://thefunambulist.net/network/nadia-huggins",
+   "https://tba21.org/artist/Nadia_Huggins",
+   "https://shivagallery.org/nadia-huggins/",
+   "https://photoworks.org.uk/photography-plus-nadia-huggins/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Trinidad and Tobago",
+  "residence": "Saint Vincent and the Grenadines",
+  "works": [
+   {
+    "title": "The Beginning is the End and the End is the Beginning",
+    "year": 2021,
+    "url": "https://photoworks.org.uk/photography-plus-nadia-huggins/"
+   },
+   {
+    "title": "Coral & Ash",
+    "year": 2023,
+    "url": "https://en.wikipedia.org/wiki/Nadia_Huggins"
+   },
+   {
+    "title": "Fighting the Currents",
+    "url": "https://en.wikipedia.org/wiki/Nadia_Huggins"
+   }
+  ],
+  "note3": "Born Port of Spain per Wikipedia, grew up in St Vincent; results only say 'St. Vincent and the Grenadines' (city not shown). Coral & Ash is a 2023 solo show at NYU KJCC."
  },
  {
   "name": "Albert Huie",
@@ -2515,10 +3243,31 @@
   "sources": [
    "https://www.1-54.com/marrakech/artist-list/jean-marc-hunt",
    "https://www.fondation-clement.org/?p=2435",
-   "https://www.artsper.com/contemporary-artists/guadeloupe/55354/jean-marc-hunt"
+   "https://www.artsper.com/contemporary-artists/guadeloupe/55354/jean-marc-hunt",
+   "https://fondation-clement.org/wp-content/uploads/2015/01/CAT3_HUNT_web.pdf"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "France (Guadeloupean and Réunionese roots)",
+  "residence": "Baie-Mahault, Guadeloupe",
+  "works": [
+   {
+    "title": "Baronnerie series",
+    "year": 2015,
+    "url": "https://www.artsper.com/contemporary-artists/guadeloupe/55354/jean-marc-hunt"
+   },
+   {
+    "title": "Ti Punch Molotov",
+    "year": 2021,
+    "url": "https://www.artsper.com/us/contemporary-art-galleries-exhibitions/13872/ti-punch-molotov"
+   },
+   {
+    "title": "Negropolis",
+    "year": 2015,
+    "url": "https://fondation-clement.org/wp-content/uploads/2015/01/CAT3_HUNT_web.pdf"
+   }
+  ],
+  "note3": "Born Strasbourg; Guadeloupe pavilion-off at 58th Venice Biennale 2019. Ti Punch Molotov (193 Gallery, Paris) and Negropolis (Fondation Clément) are exhibitions."
  },
  {
   "name": "Bendel Hydes",
@@ -2584,7 +3333,7 @@
   "name": "Deborah Jack",
   "country": "Sint Maarten",
   "based": "Jersey City, USA",
-  "born": null,
+  "born": 1970,
   "died": null,
   "living": true,
   "medium": "video/sound installation, photography, painting, text",
@@ -2597,10 +3346,14 @@
   "sources": [
    "https://www.deborahjack.com/bio",
    "https://eskerfoundation.com/artist/deborah-jack/",
-   "https://en.wikipedia.org/wiki/Deborah_Jack"
+   "https://en.wikipedia.org/wiki/Deborah_Jack",
+   "https://www.lightwork.org/?p=7331"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Sint Maarten",
+  "residence": "Sint Maarten / Jersey City, USA",
+  "note3": "Wikipedia says born Rotterdam, raised on Saint Martin; other sources say born Sint Maarten. Professor at New Jersey City University; featured in Forecast Form (MCA Chicago/ICA Boston 2023). Poetry books The Rainy Season and skin. No specific artwork titles in results."
  },
  {
   "name": "Barbara Jardine",
@@ -2642,10 +3395,15 @@
    "https://www.kavigupta.com/artists/159/",
    "https://www.biennial.com/artists/leasho-johnson/",
    "https://marianeibrahim.com/artists/109/",
-   "https://sites.saic.edu/gradshow2020/artists/leasho-johnson/"
+   "https://sites.saic.edu/gradshow2020/artists/leasho-johnson/",
+   "https://marianeibrahim.com/artists/109-leasho-johnson/",
+   "https://www.caribbean-beat.com/issue-120/time-leasho-johnson"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Chicago, USA",
+  "note3": "Born Montego Bay; Mariane Ibrahim profile says lives/works in Chicago (older Residency Unlimited listing: Kingston). MFA SAIC 2020; work on view at MCA Chicago through Sept 2026. No specific artwork titles in results."
  },
  {
   "name": "Jasmin Joseph",
@@ -2685,10 +3443,26 @@
   "sources": [
    "https://goodman-gallery.com/artists/remy-jungerman",
    "https://fridmangallery.com/2025/07/03/artists-remy-jungerman/",
-   "https://ocula.com/artists/remy-jungerman/"
+   "https://ocula.com/artists/remy-jungerman/",
+   "https://fridmangallery.com/artists/40-remy-jungerman",
+   "https://katonahmuseum.org/exhibitions/exhibition/remy-jungerman"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Suriname",
+  "residence": "Amsterdam, Netherlands / New York, USA",
+  "works": [
+   {
+    "title": "Behind the Forest",
+    "year": 2021,
+    "url": "https://nl.japsambooks.nl/products/remy-jungerman-behind-the-forest"
+   },
+   {
+    "title": "Where the River Runs",
+    "url": "https://japsambooks.nl/products/remy-jungerman-where-the-river-runs"
+   }
+  ],
+  "note3": "Born Moengo; Dutch national; represented Netherlands at 58th Venice Biennale 2019; A.H. Heineken Prize for Art 2022. Behind the Forest = Stedelijk survey show 2021-22 and catalogue."
  },
  {
   "name": "Patricia Kaersenhout",
@@ -2706,10 +3480,31 @@
   "note": "NOT RESEARCHED (web search quota exhausted); country/medium from background knowledge. Dutch artist of Surinamese heritage; solo show at CBK Zuidoost 2024. No own website or Instagram found.",
   "sources": [
    "https://www.ammodo-art.org/en/art/artists/patricia-kaersenhout",
-   "https://dutchartinstitute.eu/page/10158/patricia-kaersenhout"
+   "https://dutchartinstitute.eu/page/10158/patricia-kaersenhout",
+   "https://sharjahart.org/sharjah-art-foundation/people/kaersenhout-patricia"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Netherlands (Surinamese descent)",
+  "residence": "Amsterdam, Netherlands",
+  "works": [
+   {
+    "title": "Relinking",
+    "year": 2022,
+    "url": "https://www.ammodo-art.org/en/art/artists/patricia-kaersenhout"
+   },
+   {
+    "title": "The Third Dimension",
+    "year": 2022,
+    "url": "https://www.ammodo-art.org/en/art/artists/patricia-kaersenhout"
+   },
+   {
+    "title": "Into the Deep Loving Darkness",
+    "year": 2024,
+    "url": "https://www.ammodo-art.org/en/art/artists/patricia-kaersenhout"
+   }
+  ],
+  "note3": "Dutch artist of Surinamese descent (arguably not Caribbean-born); pronouns vary across sources. Listed works are solo exhibitions."
  },
  {
   "name": "Kcho",
@@ -2727,10 +3522,32 @@
   "note": "Alexis Leiva (Leyva) Machado, born Isla de la Juventud (one source says 1969). Website taken from Wikipedia infobox, not verified live. No Instagram found.",
   "sources": [
    "https://en.wikipedia.org/wiki/Kcho",
-   "https://cubanartresources.org/kcho"
+   "https://cubanartresources.org/kcho",
+   "https://www.artnet.com/artists/kcho/12",
+   "https://en.atelier-calder.com/kcho"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Havana, Cuba",
+  "works": [
+   {
+    "title": "Coluna Infinita",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Kcho"
+   },
+   {
+    "title": "Las Playas Infinitas",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Kcho"
+   },
+   {
+    "title": "El Camino de la Nostalgia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Kcho"
+   }
+  ],
+  "note3": "Real name Alexis Leyva Machado (also spelled Leiva). Born Nueva Gerona, Isla de la Juventud; one source (Calder) gives 1969."
  },
  {
   "name": "Roshini Kempadoo",
@@ -2851,10 +3668,22 @@
    "https://smallaxe.net/sxvisualities/portfolios/45",
    "https://www.kunstinstituutmelly.nl/en/people/2462-charl-landvreugd",
    "https://africanah.org/dakart-charl-landvreugd",
-   "https://framerframed.nl/en/mensen/charl-landvreugd/"
+   "https://framerframed.nl/en/mensen/charl-landvreugd/",
+   "https://africanah.org/?p=1139",
+   "https://contemporaryand.com/en/c-and-magazine/texts/charl-landvreugd-new-head-of-research-curatorial-practice"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Suriname",
+  "residence": "Rotterdam, Netherlands",
+  "works": [
+   {
+    "title": "Osmosa",
+    "year": null,
+    "url": "https://smallaxe.net/sxvisualities/portfolios/45"
+   }
+  ],
+  "note3": "Born Paramaribo; Dutch-Surinamese. Sources indicate a role as Head of Research & Curatorial Practice at Stedelijk Museum Amsterdam (date unconfirmed), so Amsterdam may also be a base."
  },
  {
   "name": "Marc Latamie",
@@ -2872,10 +3701,14 @@
   "note": "Moved to NYC 1987; solo 'For Rent: Marc Latamie' Americas Society 2012; work in PAMM 'Caribbean Crossroads of the World'. Born Martinique 1952; settled in NYC after 1986 Villa Medici award; solo show For Rent at Americas Society 2012; in PAMM Caribbean Crossroads of the World.",
   "sources": [
    "https://en.wikipedia.org/wiki/Marc_Latamie",
-   "https://as-coa.org/exhibitions/rent-marc-latamie"
+   "https://as-coa.org/exhibitions/rent-marc-latamie",
+   "https://as-coa.org/events/rent-marc-latamie-guided-exhibition-tour"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Martinique",
+  "residence": "New York, USA",
+  "note3": "Moved to New York in 1987 after Villa Medici Hors-les-Murs award; current residence not explicitly confirmed in results. Included in Caribbean Crossroads of the World (PAMM). Americas Society show 2012."
  },
  {
   "name": "O'Neil Lawrence",
@@ -2892,10 +3725,21 @@
   "editions": "no evidence",
   "note": "Chief Curator at National Gallery of Jamaica; solo 'Son of a Champion' (Mutual Gallery, Kingston, 2012); also writer/researcher. Chief Curator at National Gallery of Jamaica (since 2008 in various roles); trained photographer; solo show Son of a Champion, Mutual Gallery Kingston 2012.",
   "sources": [
-   "https://www.internationalcuratorsforum.org/?p=993"
+   "https://www.internationalcuratorsforum.org/?p=993",
+   "https://bigredandshiny.org/12944/rockstone-and-bootheel-real-art-ways/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Kingston, Jamaica",
+  "works": [
+   {
+    "title": "Son of a Champion",
+    "year": 2012,
+    "url": "https://www.internationalcuratorsforum.org/?p=993"
+   }
+  ],
+  "note3": "Photographer, curator and writer; Chief Curator at the National Gallery of Jamaica (since 2008 at the gallery). Kingston inferred from NGJ post and Mutual Gallery show. Birth year not found."
  },
  {
   "name": "Jaime Lee Loy",
@@ -2913,10 +3757,22 @@
   "note": "UWI St Augustine graduate; work in World Bank collection; Fresh Milk Catapult honourary grantee; founder of SUMMER HEROES children's art programme. Name also spelled Jamie Lee Loy; UWI St Augustine graduate; work in World Bank collection; founded SUMMER HEROES children's art programme.",
   "sources": [
    "https://worldbank.emuseum.com/objects/6558/metamorphosis",
-   "https://freshmilkbarbados.com/projects/catapult-arts-grant/catapult-honourary-grantees/jaime-lee-loy-trinidad-tobago/"
+   "https://freshmilkbarbados.com/projects/catapult-arts-grant/catapult-honourary-grantees/jaime-lee-loy-trinidad-tobago/",
+   "https://sta.uwi.edu/crgs/september2008/jamieleeloy.asp",
+   "https://www.guardian.co.tt/article-6.2.428193.e3f6feff06"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Trinidad and Tobago",
+  "residence": "Trinidad and Tobago",
+  "works": [
+   {
+    "title": "Pro-test (documentary)",
+    "year": null,
+    "url": "https://sta.uwi.edu/crgs/september2008/jamieleeloy.asp"
+   }
+  ],
+  "note3": "Result page is ~2008 and spells name 'Jamie Lee Loy'; Trinidad-based artist and writer (video, photography, installation, performance). Birth year not found; residence city not given."
  },
  {
   "name": "Amy Leong Pang",
@@ -2955,10 +3811,14 @@
   "sources": [
    "https://www.galeriemonnin.com/artists/34/works/",
    "https://12.berlinbiennale.de/artists/dubreus-lherisson/",
-   "https://indigoarts.com/artists/lh-risson-debreus-debrise"
+   "https://indigoarts.com/artists/lh-risson-debreus-debrise",
+   "https://africanah.org/dubreus-lherisson-haiti/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "residence": "Léogâne, Haiti",
+  "note3": "Born Cap-Haïtien; raised in Bel Air, Port-au-Prince; sequined Vodou-inspired sculptor/flag-maker rather than painter; studio in Léogâne (date of move unclear). Shown at 12th Berlin Biennale. Spelled also Dubreus Lherisson / Debreus Lherisson."
  },
  {
   "name": "Georges Liautaud",
@@ -3018,10 +3878,26 @@
    "https://www.labiennale.org/en/art/2026/daniel-lind%E2%80%91ramos",
    "https://nga.gov/press/acquisitions/2022/daniel-lind-ramos.html",
    "https://www.nga.gov/collection/artist-info.52062.html",
-   "https://molaa.org/daniellindramos"
+   "https://molaa.org/daniellindramos",
+   "https://art21.org/artist/daniel-lind-ramos/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Puerto Rico",
+  "residence": "Loíza, Puerto Rico",
+  "works": [
+   {
+    "title": "Maria-Maria",
+    "year": 2019,
+    "url": "https://whitney.org/exhibitions/2019-biennial/art?section=44"
+   },
+   {
+    "title": "Figura de Poder",
+    "year": 2020,
+    "url": "https://www.nga.gov/collection/artist-info.52062.html"
+   }
+  ],
+  "note3": "MacArthur Fellow 2021; professor at University of Puerto Rico, Humacao. Figura de Poder dated 2016-2020."
  },
  {
   "name": "Donald Locke",
@@ -3059,10 +3935,33 @@
    "https://artuk.org/discover/artists/locke-hew-b-1959",
    "https://ocula.com/artists/hew-locke/",
    "https://hewlocke.net/CV2ndsite.html",
-   "https://en.wikipedia.org/wiki/Hew_Locke"
+   "https://en.wikipedia.org/wiki/Hew_Locke",
+   "https://cristearoberts.com/artists/245-hew-locke/",
+   "https://ocula.com/artists/Hew-Locke/",
+   "https://heritageoflondon.org/conference-speakers/hew-locke-obe-ra"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "United Kingdom (born Edinburgh; raised in Guyana)",
+  "residence": "London, United Kingdom",
+  "works": [
+   {
+    "title": "The Procession",
+    "year": 2022,
+    "url": "https://cristearoberts.com/artists/245-hew-locke/"
+   },
+   {
+    "title": "Gilt (Met Museum Facade Commission)",
+    "year": 2022,
+    "url": "https://cristearoberts.com/artists/245-hew-locke/"
+   },
+   {
+    "title": "The Jurors",
+    "year": null,
+    "url": "https://cristearoberts.com/artists/245-hew-locke/"
+   }
+  ],
+  "note3": "Royal Academician 2022; OBE 2023. Lived in Georgetown, Guyana from 1966."
  },
  {
   "name": "Leila Locke",
@@ -3120,10 +4019,26 @@
   "note": "Not web-verified: search budget exhausted before this artist was researched. Country from background knowledge. Fine Arts/Illustration grad, Altos de Chavón School of Design; show Memoria en Tránsito at Altos de Chavón. Website from AICA interview, not verified current.",
   "sources": [
    "https://aica-sc.net/2013/04/17/conversation-with-marcos-lora-read/",
-   "https://casadecampoliving.com/marcos-lora-brings-his-memories-in-transit-to-altos-de-chavon/"
+   "https://casadecampoliving.com/marcos-lora-brings-his-memories-in-transit-to-altos-de-chavon/",
+   "https://mapadelarte.museomoderno.org/en/wp-json/wp/v2/artistas/2808"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Dominican Republic",
+  "residence": "Dominican Republic",
+  "works": [
+   {
+    "title": "Memoria en Tránsito",
+    "year": null,
+    "url": "https://casadecampoliving.com/marcos-lora-brings-his-memories-in-transit-to-altos-de-chavon/"
+   },
+   {
+    "title": "Cinco carrozas para la historia",
+    "year": null,
+    "url": "https://aica-sc.net/2013/04/17/conversation-with-marcos-lora-read/"
+   }
+  ],
+  "note3": "City not stated in results. Official site loraread.com. Capsul shown at Venice Biennale via Kreyol Factory (2009)."
  },
  {
   "name": "Che Lovelace",
@@ -3143,10 +4058,15 @@
    "https://www.contemporaryartsociety.org/node/50145",
    "https://vigogallery.com/artists/68-che-lovelace",
    "https://nicolavassell.com/usr/library/documents/main/che-lovelace-bio.pdf",
-   "https://vibes.trinidadexpress.com/che-lovelace-is-the-ttff-22-festival-artist/"
+   "https://vibes.trinidadexpress.com/che-lovelace-is-the-ttff-22-festival-artist/",
+   "https://en.wikipedia.org/wiki/Che_Lovelace",
+   "https://www.corvi-mora.com/artist/che-lovelace/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Trinidad and Tobago",
+  "residence": "Port of Spain, Trinidad and Tobago",
+  "note3": "Recent solo shows: 'Where The I Settles' (Nicola Vassell, New York, 2025), 'Day Always Comes' (Corvi-Mora, London, 2023). Chevalier, Ordre des Arts et des Lettres 2025. Lectures at UWI. Birthplace given as San Fernando or Port of Spain."
  },
  {
   "name": "Miguel Luciano",
@@ -3164,10 +4084,33 @@
   "note": "Faculty at SVA and Yale; Latinx Artist Fellow; projects 'Pure Plantainum', 'Ride or Die', 'Mapping Resistance'. Website per Binghamton event page (not independently checked).",
   "sources": [
    "https://uslaf.org/member/miguel-luciano/",
-   "https://bengaged.binghamton.edu/museum/rsvp?id=1074946"
+   "https://bengaged.binghamton.edu/museum/rsvp?id=1074946",
+   "https://en.wikipedia.org/wiki/Miguel_Luciano",
+   "https://whitney.org/artists/T6058",
+   "https://americanart.si.edu/node/10406"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Puerto Rico",
+  "residence": "New York, USA",
+  "works": [
+   {
+    "title": "Shields / Escudos",
+    "year": 2020,
+    "url": "https://drupal-prerelease.nga.gov/artists/52904-miguel-luciano"
+   },
+   {
+    "title": "Pure Plantainum",
+    "year": 2006,
+    "url": "https://en.wikipedia.org/wiki/Miguel_Luciano"
+   },
+   {
+    "title": "Piragua",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Miguel_Luciano"
+   }
+  ],
+  "note3": "Born San Juan, Puerto Rico, 5 March 1972. A Coronado Print Studio page about a Dominican-born Miguel Luciano (b.1968) appears to be a different person."
  },
  {
   "name": "Shastri Maharaj",
@@ -3184,10 +4127,14 @@
   "editions": "no evidence",
   "note": "Not web-verified: search budget exhausted before this artist was researched. Country from background knowledge. Painter, teacher and writer; Canadian art education, returned to Trinidad early 1980s; exhibition Aagaman: The Coming at Divali Nagar Art Gallery.",
   "sources": [
-   "https://exceptionalcaribbean.com/2021/02/10/shastri-maharaj/"
+   "https://exceptionalcaribbean.com/2021/02/10/shastri-maharaj/",
+   "https://archivespace.sta.uwi.edu/repositories/2/archival_objects/7014"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Trinidad and Tobago",
+  "residence": "Central Trinidad, Trinidad and Tobago",
+  "note3": "Painter; UWI graduate (also Winnipeg/Manitoba); per 1999 UWI archive record lives, paints and teaches in central Trinidad. Birth year not found; record is dated, so current status unconfirmed."
  },
  {
   "name": "Brent Malone",
@@ -3262,7 +4209,27 @@
    "https://en.wikipedia.org/wiki/Pauline_Marcelle"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Dominica",
+  "residence": "Dominica / Vienna, Austria",
+  "works": [
+   {
+    "title": "Bend Down Boutique",
+    "year": 2016,
+    "url": "https://en.wikipedia.org/wiki/Pauline_Marcelle"
+   },
+   {
+    "title": "Floating Picnic",
+    "year": 2007,
+    "url": "https://en.wikipedia.org/wiki/Pauline_Marcelle"
+   },
+   {
+    "title": "The Eatings",
+    "year": 2004,
+    "url": "https://en.wikipedia.org/wiki/Pauline_Marcelle"
+   }
+  ],
+  "note3": "Born 21 July 1964 in Calibishie; MFA University of Applied Arts Vienna. Bend Down Boutique is a painting series 2008-2016."
  },
  {
   "name": "Tessa Mars",
@@ -3281,10 +4248,21 @@
   "sources": [
    "https://imanefares.com/en/expositions/la-mue/",
    "https://torontobiennial.org/artist/tessa-mars/",
-   "https://haitianartsociety.org/mars-tessa-haitian-b-1985"
+   "https://haitianartsociety.org/mars-tessa-haitian-b-1985",
+   "https://flatlandgallery.com/?p=7565"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "residence": "Port-au-Prince, Haiti",
+  "works": [
+   {
+    "title": "La Mue (Shedding)",
+    "year": null,
+    "url": "https://imanefares.com/en/expositions/la-mue/"
+   }
+  ],
+  "note3": "Born Port-au-Prince. Sources conflict: one says currently resides in Puerto Rico (Rijksakademie alumna 2020-2022); a more recent page says lives and works in Port-au-Prince. Solo show 'Nan dòmi: Las canciones que cantamos', Casa del Lago, Mexico City, May 2024."
  },
  {
   "name": "Tirzo Martha",
@@ -3381,10 +4359,21 @@
   "note": "Not web-verified: search budget exhausted before this artist was researched. Country from background knowledge. French-Jamaican, born Kingston 1981; Davidoff Art Edition 2016 artist. Website from Studio XX listing, not opened.",
   "sources": [
    "https://www.ada-x.org/en/activities/olivia-mc-gilchrist-native-girl-continued/",
-   "https://myartguides.com/people/mcgilchrist-olivia/"
+   "https://myartguides.com/people/mcgilchrist-olivia/",
+   "https://www.tatlerasia.com/culture/arts/olivia-mcgilchrist-interview"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica / France",
+  "residence": "Jamaica",
+  "works": [
+   {
+    "title": "Whitey (alter-ego video work)",
+    "year": null,
+    "url": "https://www.tatlerasia.com/culture/arts/olivia-mcgilchrist-interview"
+   }
+  ],
+  "note3": "Jamaican-French artist and videographer, born in Europe; moved back to Jamaica (per Tatler Asia interview, Davidoff Art Initiative, Art Basel Hong Kong). Birth year and city not found."
  },
  {
   "name": "Wendell McShine",
@@ -3462,10 +4451,15 @@
   "note": "Not web-verified: search budget exhausted before this artist was researched. Country from background knowledge. Born Pétion-Ville 29 Jun 1974; trained with Tiga; French government engraving scholarship; one source says now lives in France.",
   "sources": [
    "https://www.galeriemonnin.com/artists/53-pierre-pascal-merisier-pasko/",
-   "https://africanah.org/pasko-haiti/"
+   "https://africanah.org/pasko-haiti/",
+   "https://indigoarts.com/node/6754",
+   "https://visithaiti.com/?p=15708"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "residence": "Haiti / France (sources conflict)",
+  "note3": "Born Pétion-Ville. Africanah says he now lives in France; a 2025 Visit Haiti profile calls him printmaking instructor at the Centre d'Art, Haiti. Unresolved."
  },
  {
   "name": "Ronald Mevs",
@@ -3505,10 +4499,32 @@
   "note": "Decolonial work on tropical representation of Black and brown women; solo show Syracuse University Art Museum 2025. Birth year not web-verified. Instagram handle not found in results.",
   "sources": [
    "https://as-coa.org/events/studio-joiri-minaya",
-   "https://news.syr.edu/blog/2025/03/13/new-exhibition-joiri-minaya-unseeing-the-tropics-at-the-museum-on-view-at-syracuse-university-art-museum/"
+   "https://news.syr.edu/blog/2025/03/13/new-exhibition-joiri-minaya-unseeing-the-tropics-at-the-museum-on-view-at-syracuse-university-art-museum/",
+   "https://en.wikipedia.org/wiki/Joiri_Minaya",
+   "https://contemporaryand.com/en/people/joiri-minaya"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Dominican Republic (born New York, raised in DR)",
+  "residence": "New York, USA",
+  "works": [
+   {
+    "title": "Containers",
+    "year": 2015,
+    "url": "https://en.wikipedia.org/wiki/Joiri_Minaya"
+   },
+   {
+    "title": "#dominicanwomengooglesearch",
+    "year": 2016,
+    "url": "https://en.wikipedia.org/wiki/Joiri_Minaya"
+   },
+   {
+    "title": "Tropticon",
+    "year": 2018,
+    "url": "https://en.wikipedia.org/wiki/Joiri_Minaya"
+   }
+  ],
+  "note3": "Born NYC 1990; based in Manhattan with strong presence in the Dominican Republic. Joan Mitchell Emerging Artist Grant."
  },
  {
   "name": "Peter Minshall",
@@ -3547,10 +4563,21 @@
   "sources": [
    "https://www.cubanartresources.org/ibrahim-miranda",
    "https://zanebennettgallery.com/artists/57/works/",
-   "https://mccollcenter.org/artists-in-residence/artist/ibrahim-miranda"
+   "https://mccollcenter.org/artists-in-residence/artist/ibrahim-miranda",
+   "https://www.hammondshouse.org/ibrahim-miranda"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Havana, Cuba",
+  "works": [
+   {
+    "title": "Cautiverio (series)",
+    "year": null,
+    "url": "https://www.cubanartresources.org/ibrahim-miranda"
+   }
+  ],
+  "note3": "Born Pinar del Río. Known for maps of Cuba as a base; held by MoMA and NGA Washington."
  },
  {
   "name": "Madsen Mompremier",
@@ -3568,10 +4595,20 @@
   "note": "Born Gonaives; Vodou lwa paintings (Erzulie/La Sirene), pupil of Gerard Valcin; in Fowler Museum 2011 show and Five Decades of Haitian Painting. Wife Ersulie Mompremier, also a painter, died in 2010 earthquake. Born 1952 Gonaives; oil painter of Vodou lwa; wife Ersulie Mompremier died in 2010 earthquake; no website/Instagram found",
   "sources": [
    "https://haitianartsociety.org/mompremier-madsen-b-1952",
-   "https://en.wikipedia.org/wiki/Madsen_Mompremier"
+   "https://en.wikipedia.org/wiki/Madsen_Mompremier",
+   "https://spencerart.ku.edu/art/collections-online/artist/24675"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "works": [
+   {
+    "title": "Island (1973-1976)",
+    "year": null,
+    "url": "https://spencerart.ku.edu/art/collections-online/artist/24675"
+   }
+  ],
+  "note3": "Born Gonaïves, 12 Aug 1952 (Spencer Museum); moved to Port-au-Prince 1972; known for Vodou lwa paintings. Current residence not shown in results."
  },
  {
   "name": "Tony Monsanto",
@@ -3631,10 +4668,15 @@
   "note": "Born Ponce; NYC since 1996; interactive mechanical sculptures from recycled industrial materials; Joan Mitchell and NYFA fellowships.",
   "sources": [
    "https://en.wikipedia.org/wiki/Arnaldo_Morales",
-   "https://www.arnaldomorales.com/about"
+   "https://www.arnaldomorales.com/about",
+   "https://bx200.com/portfolio/arnaldo-morales/",
+   "https://jmkac.org/?p=29474"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Puerto Rico",
+  "residence": "New York, USA",
+  "note3": "Born Ponce; based in New York since 1996; mechanical/kinetic sculptor. Shown MoMA PS1, El Museo del Barrio; Joan Mitchell and NYFA fellowships."
  },
  {
   "name": "Petrona Morrison",
@@ -3655,7 +4697,10 @@
    "https://veerlepoupeye.com/2019/09/11/petrona-morrison-new-works/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Jamaica",
+  "note3": "Returned to Jamaica for good in 1995; retired as Director of School of Visual Arts, Edna Manley College in 2014; Gold Musgrave Medal 2014; solo show 'New Works' 2019. City not stated."
  },
  {
   "name": "Ras Mosera",
@@ -3675,7 +4720,10 @@
    "https://art.centralbank.cw/?p=6238"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Saint Lucia",
+  "residence": "Sint Maarten",
+  "note3": "Self-taught painter, expressionist tending to abstraction; website rasmosera.net (not opened)."
  },
  {
   "name": "Kishan Munroe",
@@ -3694,16 +4742,32 @@
   "sources": [
    "https://schmidtocean.org/person/kishan-munroe/",
    "https://www.daguilarartfoundation.com/explore/artist/55/munroe_kishan.html",
-   "https://nagb.org.bs/blank-canvas-february-24th-2021-featuring-kishan-munroe/"
+   "https://nagb.org.bs/blank-canvas-february-24th-2021-featuring-kishan-munroe/",
+   "https://www.bahamianproject.com/?p=473"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Bahamas",
+  "residence": "Washington, USA (one source; unconfirmed, may be Nassau, Bahamas)",
+  "works": [
+   {
+    "title": "Beacon of Hope (mural)",
+    "year": null,
+    "url": "https://nagb.org.bs/blank-canvas-february-24th-2021-featuring-kishan-munroe/"
+   },
+   {
+    "title": "Swan Song of the Flamingo (solo show)",
+    "year": 2013,
+    "url": "https://nagb.org.bs/blank-canvas-february-24th-2021-featuring-kishan-munroe/"
+   }
+  ],
+  "note3": "Born Nassau (Grants Town); moved to US 2004. Sources conflict on degrees and residence. Represented Bahamas at Liverpool Biennial 2010; long-running project The Universal Human Experience (from 2008)."
  },
  {
   "name": "Lavar Munroe",
   "country": "Bahamas",
   "based": "Baltimore, USA / Nassau, Bahamas",
-  "born": null,
+  "born": 1982,
   "died": null,
   "living": true,
   "medium": "painting, cardboard sculptural installation, mixed-media drawing",
@@ -3719,7 +4783,10 @@
    "https://www.moniquemeloche.com/artists/206/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Bahamas",
+  "residence": "Baltimore, USA / Nassau, Bahamas (sources differ; one says Washington, DC / Nassau)",
+  "note3": "Born Nassau; moved to US 2004. Venice Biennale 2015 (All the World's Futures); Guggenheim Fellow 2023; solo shows Monique Meloche (Chicago) and Jack Bell (London) 2023. No individual work titles seen."
  },
  {
   "name": "Osaira Muyale",
@@ -3834,16 +4901,38 @@
   "editions": "yes",
   "note": "No personal website or Instagram found in results",
   "sources": [
-   "https://art.state.gov/personnel/chris_ofili/"
+   "https://art.state.gov/personnel/chris_ofili/",
+   "https://en.wikipedia.org/wiki/Chris_Ofili",
+   "https://dovecotstudios.com/tapestry-studio/artists-weavers-tufters/chris-ofili"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "United Kingdom",
+  "residence": "Port of Spain, Trinidad and Tobago",
+  "works": [
+   {
+    "title": "No Woman No Cry",
+    "year": 1998,
+    "url": "https://en.wikipedia.org/wiki/Chris_Ofili"
+   },
+   {
+    "title": "The Upper Room",
+    "year": 2002,
+    "url": "https://en.wikipedia.org/wiki/Chris_Ofili"
+   },
+   {
+    "title": "The Holy Virgin Mary",
+    "year": 1996,
+    "url": "https://en.wikipedia.org/wiki/Chris_Ofili"
+   }
+  ],
+  "note3": "Born Manchester of Nigerian descent; in Trinidad since 2005; Turner Prize 1998. Not Caribbean-born."
  },
  {
   "name": "Karyn Olivier",
   "country": "Trinidad and Tobago",
   "based": "Philadelphia, USA",
-  "born": null,
+  "born": 1968,
   "died": null,
   "living": true,
   "medium": "sculpture, public art, installation",
@@ -3855,10 +4944,32 @@
   "note": "Born Trinidad and Tobago; Philadelphia-based; upcoming solo at MOCA Detroit per her bio; Instagram handle not shown",
   "sources": [
    "https://www.karynolivier.com/bio",
-   "https://www.tanyabonakdargallery.com/exhibitions/448-karyn-olivier-everything-thats-alive-moves-ica-philadelphia/"
+   "https://www.tanyabonakdargallery.com/exhibitions/448-karyn-olivier-everything-thats-alive-moves-ica-philadelphia/",
+   "https://en.wikipedia.org/wiki/Karyn_Olivier",
+   "https://www.tanyabonakdargallery.com/usr/library/documents/main/artists/70/karyn-olivier-s-cv_2026.pdf"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Trinidad and Tobago",
+  "residence": "Philadelphia, USA",
+  "works": [
+   {
+    "title": "How Many Ways Can You Disappear",
+    "year": 2021,
+    "url": "https://whitney.org/exhibitions/2024-biennial/art?section=43"
+   },
+   {
+    "title": "Stop Gap",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Karyn_Olivier"
+   },
+   {
+    "title": "Dinah Memorial (Stenton Park, Philadelphia)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Karyn_Olivier"
+   }
+  ],
+  "note3": "Born Port of Spain, raised Brooklyn; Tyler School of Art, Temple University; Whitney Biennial 2024; solo show planned MOCA Detroit 2026."
  },
  {
   "name": "Fausto Ortíz",
@@ -3896,10 +5007,20 @@
   "note": "Visual artist and writer; lecturer in visual arts at UWI St Augustine (Dept of Creative and Festival Arts) since 2003; Havana Biennial 2009; author of Creole in-site (Iniva 1998); no website/Instagram found",
   "sources": [
    "https://iniva.org/product/steve-ouditt-creole-in-site-annotations-4/",
-   "https://globalvoices.org/2008/03/02/trinidad-tobago-ouditt-exhibit/"
+   "https://globalvoices.org/2008/03/02/trinidad-tobago-ouditt-exhibit/",
+   "https://www.caribbean-beat.com/?p=20145"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Trinidad and Tobago",
+  "works": [
+   {
+    "title": "Creole in-site (book of writings and images)",
+    "year": 1998,
+    "url": "https://iniva.org/product/steve-ouditt-creole-in-site-annotations-4/"
+   }
+  ],
+  "note3": "No birth year or residence found. Trinidadian artist-writer; Carifesta panels reported under spelling 'Steve Oudit' (possibly same)."
  },
  {
   "name": "Zak Ové",
@@ -3917,10 +5038,16 @@
   "note": "Born London 1966; lives and works in Gran Canaria; website/Instagram not shown in results",
   "sources": [
    "https://maruanimercier.com/artworks/4489-zak-ove-dp71-2023/",
-   "https://www.vigogallery.com/artists/48-zak-ove/news"
+   "https://www.vigogallery.com/artists/48-zak-ove/news",
+   "https://en.wikipedia.org/wiki/Zak_Ov%C3%A9",
+   "https://africanah.org/?p=26091",
+   "https://www.gallery1957.com/artists/114/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "United Kingdom / Trinidad and Tobago",
+  "residence": "London, UK / Trinidad (most sources); two galleries list Las Palmas, Gran Canaria, Spain",
+  "note3": "Born London; father Horace Ové. First Caribbean artist commissioned by British Museum (2014, pair of 7 m Moko Jumbie sculptures); 40 statues at Somerset House for 1:54 London 2016. Exact work titles not shown in results."
  },
  {
   "name": "Raquel Paiewonsky",
@@ -3938,10 +5065,21 @@
   "note": "Born Puerto Plata 1969; Venice Biennale 2009 and 2013; no website/Instagram found",
   "sources": [
    "https://en.wikipedia.org/wiki/Raquel_Paiewonsky",
-   "https://chavon.edu.do/?p=4225"
+   "https://chavon.edu.do/?p=4225",
+   "https://kolajmagazine.com/content/content/collage-exhibitions/uonderland-at-yellow-peril-gallery"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Dominican Republic",
+  "residence": "Santo Domingo, Dominican Republic",
+  "works": [
+   {
+    "title": "Uonderland (series)",
+    "year": 2016,
+    "url": "https://kolajmagazine.com/content/content/collage-exhibitions/uonderland-at-yellow-peril-gallery"
+   }
+  ],
+  "note3": "Born Puerto Plata; Venice Biennale 2009 and 2013; CAAM retrospective 2018; residence from a single source."
  },
  {
   "name": "Karl Parboosingh",
@@ -3977,10 +5115,32 @@
   "note": "Havana-born; lives and works in Merida, Mexico; no personal website/Instagram found",
   "sources": [
    "https://www.sitesantafe.org/en/artists/jorge-pardo",
-   "https://live.victoria-miro.com/artists/jorge-pardo"
+   "https://live.victoria-miro.com/artists/jorge-pardo",
+   "https://en.wikipedia.org/wiki/Jorge_Pardo_(artist)",
+   "https://whitney.org/artists/13751"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Mérida, Mexico",
+  "works": [
+   {
+    "title": "Pier",
+    "year": 1997,
+    "url": "https://en.wikipedia.org/wiki/Jorge_Pardo_(artist)"
+   },
+   {
+    "title": "Lighthouse",
+    "year": 1997,
+    "url": "https://en.wikipedia.org/wiki/Jorge_Pardo_(artist)"
+   },
+   {
+    "title": "4166 Sea View Lane",
+    "year": 1998,
+    "url": "https://en.wikipedia.org/wiki/Jorge_Pardo_(artist)"
+   }
+  ],
+  "note3": "Born Havana, raised Chicago; MacArthur Fellow 2010. Cuban-American, not Caribbean-resident."
  },
  {
   "name": "Bruno Iwa Pédurand",
@@ -4034,10 +5194,15 @@
   "note": "Havana-born self-taught photographer (b. 1957), known for black-and-white self-portraits; no website/Instagram found",
   "sources": [
    "https://en.wikipedia.org/wiki/Ren%C3%A9_Pe%C3%B1a",
-   "https://www.panamericanart.com/artists/224/works/"
+   "https://www.panamericanart.com/artists/224/works/",
+   "https://www.fundacionlariviere.org/en/250-pena-rene",
+   "https://kooness.com/artists/photo-basel-artists-rene-pena"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Havana, Cuba",
+  "note3": "Photographer, black-and-white self-portraits on race and identity; solo shows Stories of the City (1991), Burden and Blessing (1998). No individual work titles with year/url seen."
  },
  {
   "name": "Douglas Pérez Castro",
@@ -4055,10 +5220,26 @@
   "note": "b. 1972 (Cienfuegos or Santo Domingo, Villa Clara per differing sources); ISA graduate 1996, teaches painting at ISA; no website/Instagram found",
   "sources": [
    "https://www.cubanartresources.org/douglas-perez",
-   "https://africanah.org/douglas-perez-castro/"
+   "https://africanah.org/douglas-perez-castro/",
+   "https://meer.com/en/14946-douglas-perez-castro-the-fifth-world",
+   "https://www.track16.com/2018/douglas-perez-castro"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "works": [
+   {
+    "title": "The Fifth World (solo show, London)",
+    "year": 2015,
+    "url": "https://meer.com/en/14946-douglas-perez-castro-the-fifth-world"
+   },
+   {
+    "title": "Vedado (series)",
+    "year": null,
+    "url": "https://www.track16.com/2018/douglas-perez-castro"
+   }
+  ],
+  "note3": "Born Cienfuegos (one source says Havana). Professor of Painting at ISA Havana per one source; residence not explicitly stated."
  },
  {
   "name": "Bernadette Persaud",
@@ -4136,10 +5317,14 @@
   "note": "Born 1971 Pelgrimkondre; founder of Kibii Wi Foundation and Tembe Art Studio (Moengo); ARTZUID profile lists Facebook only; no verified website/Instagram",
   "sources": [
    "https://artzuid.nl/en/artzuid-artists/marcel-pinas/",
-   "https://www.smith-davidson.com/artists/66-marcel-pinas/biography/"
+   "https://www.smith-davidson.com/artists/66-marcel-pinas/biography/",
+   "https://commons.wikimedia.org/wiki/Category:Marcel_Pinas",
+   "https://beddingtonfineart.com/laurence-simode-franzon"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Suriname",
+  "note3": "Born 22 March 1971 (Wikimedia Commons). Residence not shown in results; runs programs in Moengo. Afaka-script geometric canvases."
  },
  {
   "name": "Jorge Pineda",
@@ -4198,9 +5383,20 @@
   "sources": [
    "https://cubanartresources.org/eduardo-ponjuan",
    "https://artapartamento.com/en/artists/eduardo-ponjuan/",
-   "https://www.panamericanart.com/artists/202/works/"
+   "https://www.panamericanart.com/artists/202/works/",
+   "https://artlovers.travel/en/exhibitions/eduardo-ponjuan",
+   "https://oncubanews.com/en/styles-trends/technologies-of-communication-and-media/eduardo-ponjuan-receives-national-arts-award/"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "works": [
+   {
+    "title": "Ruy Lopez Opening (solo show, Madrid)",
+    "year": 2025,
+    "url": "https://artlovers.travel/en/exhibitions/eduardo-ponjuan"
+   }
+  ],
+  "note3": "Born Pinar del Río; National Prize for Visual Arts 2013; collaborated with René Francisco Rodríguez 1986-96. Residence not stated."
  },
  {
   "researched": false,
@@ -4241,9 +5437,14 @@
    "https://frieze.com/article/wilfredo-prieto",
    "https://www.headlands.org/artist/wilfredo-prieto",
    "https://dialoguesincubanart.org/?p=55869",
-   "https://ocula.com/artists/wilfredo-prieto/"
+   "https://ocula.com/artists/wilfredo-prieto/",
+   "https://www.annetgelink.com/usr/library/documents/main/artists/65/cv_wilfredo_prieto_oct_2020.pdf",
+   "https://www.diaart.org/collection/artist-a-to-z/prieto-wilfredo"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Havana, Cuba (2020 gallery CV, Ocula); earlier profiles place him in Barcelona",
+  "note3": "Born Sancti Spíritus area; Guggenheim Fellow 2006; monograph Works 1995-2012. No individual work titles seen."
  },
  {
   "researched": true,
@@ -4263,9 +5464,12 @@
   "sources": [
    "https://www.theolympiagallery.com/artist-omari-ra",
    "https://www.framecentregallery.com/omari-ra.html",
-   "https://past.jamaica-gleaner.com/article/art-leisure/20190825/be-akoben-aesthetic-omari-ra-and-k-khalifani-ra-exhibition-opens-august"
+   "https://past.jamaica-gleaner.com/article/art-leisure/20190825/be-akoben-aesthetic-omari-ra-and-k-khalifani-ra-exhibition-opens-august",
+   "https://theolympiagallery.com/artist-omari-ra"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "note3": "Born Kingston; head of Painting Department, Edna Manley College (implies Kingston, not stated). Aaron Matalon Award 2004."
  },
  {
   "researched": true,
@@ -4306,9 +5510,25 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Sandra_Ramos",
    "https://www.cubanartresources.org/sandra-ramos",
-   "https://zanebennettgallery.com/artists/167/works/"
+   "https://zanebennettgallery.com/artists/167/works/",
+   "https://www.pinta.art/Pinta/Past-Editions/Pinta-Miami/2020/Galleries-2020/Contemporary/Pan-American-Art/Apocalyptic-Cartographies.-9-Circles"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Miami, USA",
+  "works": [
+   {
+    "title": "Sighting III",
+    "year": 2005,
+    "url": "https://www.1stdibs.com/art/prints-works-on-paper/sandra-ramos-sighting-iii-2005-signed-original-silkscreen-on-canvas-cuban-art-print-lted-ed/id-a_12281932"
+   },
+   {
+    "title": "Apocalyptic Cartographies. 9 Circles",
+    "year": null,
+    "url": "https://www.pinta.art/Pinta/Past-Editions/Pinta-Miami/2020/Galleries-2020/Contemporary/Pan-American-Art/Apocalyptic-Cartographies.-9-Circles"
+   }
+  ],
+  "note3": "Born Havana; MFA San Francisco Art Institute; Venice Biennale 2013."
  },
  {
   "researched": true,
@@ -4329,7 +5549,22 @@
    "https://www.readytexartgallery.com/?p=10983",
    "https://artzuid.nl/en/?p=11158"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Suriname",
+  "residence": "Paramaribo, Suriname",
+  "works": [
+   {
+    "title": "Adjie Gilas",
+    "year": 2010,
+    "url": "https://www.readytexartgallery.com/?p=10983"
+   },
+   {
+    "title": "Togetherness (wall sculpture, French embassy)",
+    "year": 2018,
+    "url": "https://www.readytexartgallery.com/?p=10983"
+   }
+  ],
+  "note3": "Teaches in Paramaribo; birth year from Art Zuid only."
  },
  {
   "researched": true,
@@ -4372,9 +5607,19 @@
   "sources": [
    "https://www.internationalcuratorsforum.org/people/richard-mark-rawlins/",
    "https://2020.photofringe.org/exhibitions/conversations-over-tea-1",
-   "https://artzpub.com/category/draconianswitch/"
+   "https://artzpub.com/category/draconianswitch/",
+   "https://trinidadexpress.com/news/local/steupps-exhibition-continues-until-july-24/article_437e8291-fa51-57dc-89f1-c41705b43e20.html"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Trinidad and Tobago",
+  "works": [
+   {
+    "title": "Steupps#157 (fifth solo show, Medulla Art Gallery, Port of Spain)",
+    "year": 2025,
+    "url": "https://trinidadexpress.com/news/local/steupps-exhibition-continues-until-july-24/article_437e8291-fa51-57dc-89f1-c41705b43e20.html"
+   }
+  ],
+  "note3": "Graphic designer and artist; publishes Draconian Switch; collaborates with Alice Yard. Birth year and residence not found."
  },
  {
   "researched": false,
@@ -4434,7 +5679,8 @@
    "https://nationalgallery.org.ky/artist/pippa-ridley",
    "https://royaldrawingschool.org/artists/pippa-ridley"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "note3": "Painter/draughtswoman, born in the Caribbean (country not named), schooled in UK, Slade graduate, teaches at Royal Drawing School; shows at Thomas Williams Gallery London. Birth year and residence not stated; likely UK-based."
  },
  {
   "researched": false,
@@ -4494,9 +5740,25 @@
    "https://www.cubanartresources.org/rene-francisco-rodrguez",
    "https://ocula.com/artists/rene-francisco/",
    "https://www.e-flux.com/announcements/189273/ren-francisco-rodr-guez",
-   "https://harn.ufl.edu/resources/artist-conversation-rene-francisco-rodriguez/"
+   "https://harn.ufl.edu/resources/artist-conversation-rene-francisco-rodriguez/",
+   "https://emuseum.mfah.org/objects/148838/visit"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Havana, Cuba / Madrid, Spain",
+  "works": [
+   {
+    "title": "Nin's Patio",
+    "year": 2005,
+    "url": "https://www.cubanartresources.org/rene-francisco-rodrguez"
+   },
+   {
+    "title": "Tubosutra",
+    "year": 2001,
+    "url": "https://www.cubanartresources.org/rene-francisco-rodrguez"
+   }
+  ],
+  "note3": "Born Holguín; professor at ISA; National Visual Art Award 2010. Madrid base per MFAH/Hans Herzog records."
  },
  {
   "researched": true,
@@ -4516,9 +5778,22 @@
   "sources": [
    "https://www.galeriaestereo.com/carlos-cardenas",
    "https://www.cubanartresources.org/carlos-cardenas",
-   "https://www.kendallartcenter.org/carlosrodriguezcardenas"
+   "https://www.kendallartcenter.org/carlosrodriguezcardenas",
+   "https://en.wikipedia.org/wiki/Carlos_Rodr%C3%ADguez_C%C3%A1rdenas",
+   "https://canyonlinegallery.org/page/carlos-rodriguez-cardenas-cv",
+   "https://namepublications.org/carlos-rodriguez-cardenas-artista-de-calidad/"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Miami, USA",
+  "works": [
+   {
+    "title": "Artista de Calidad (censored 1988 show, re-presented 2025)",
+    "year": 1988,
+    "url": "https://namepublications.org/carlos-rodriguez-cardenas-artista-de-calidad/"
+   }
+  ],
+  "note3": "Born Sancti Spíritus per Wikipedia (Cuban Art Resources says Cabaiguán). Exile Mexico early 1990s, then New York; recent sources (Under the Bridge 2025, Canyon Line Gallery CV) say Miami."
  },
  {
   "researched": true,
@@ -4539,7 +5814,21 @@
    "https://www.mapr.org/en/node/1469",
    "https://www.primerahora.com/entretenimiento/cultura-teatro/notas/nora-rodriguez-valles-vuelve-a-exponer-en-solitario-con-recapitulacion/"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Puerto Rico",
+  "works": [
+   {
+    "title": "Río Piedras, Cayey, Bayamón y áreas limítrofes",
+    "year": 2003,
+    "url": "https://www.mapr.org/en/node/6573"
+   },
+   {
+    "title": "Me as a great Puerto Rican painter",
+    "year": 2003,
+    "url": "https://www.mapr.org/en/node/1471"
+   }
+  ],
+  "note3": "Residence not stated in results (solo show 'Recapitulación' at Delta de Picó, San Juan suggests Puerto Rico; inference only)."
  },
  {
   "researched": true,
@@ -4558,16 +5847,38 @@
   "note": "Puerto Rican conceptual/social-practice artist (El Cerro project, Naranjito); not searched (unverified background knowledge; web search budget exhausted before this artist could be searched) Born 1973 Alta Vega; Whitney Biennial 2002 and 2017; El Cerro community project since 2002; MoMA 'Beyond the Uniform' 2020; website/Instagram links exist on Joan Mitchell Foundation page but not visible in results",
   "sources": [
    "https://www.joanmitchellfoundation.org/chemi-rosado-seijo",
-   "https://creative-capital.org/artists/chemi-rosado-seijo/"
+   "https://creative-capital.org/artists/chemi-rosado-seijo/",
+   "https://www.casadaros.net/artist/chemi-rosado-seijo",
+   "https://www.mapr.org/en/node/3288"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Puerto Rico",
+  "residence": "San Juan, Puerto Rico",
+  "works": [
+   {
+    "title": "Historia sobre Ruedas (History on Wheels)",
+    "year": 2005,
+    "url": "https://www.mapr.org/en/node/3288"
+   },
+   {
+    "title": "Tapando para Ver",
+    "year": 2001,
+    "url": "https://www.mapr.org/en/node/3286"
+   },
+   {
+    "title": "El Cerro (ongoing community project, begun 2002)",
+    "year": 2002,
+    "url": "https://www.joanmitchellfoundation.org/chemi-rosado-seijo"
+   }
+  ],
+  "note3": "Born Vega Alta. MoMA commission 'Beyond the Uniform' 2020."
  },
  {
   "researched": true,
   "name": "Sheena Rose",
   "country": "Barbados",
   "based": "Barbados",
-  "born": null,
+  "born": 1985,
   "died": null,
   "living": true,
   "medium": "drawing, animation, performance, painting",
@@ -4580,16 +5891,27 @@
   "sources": [
    "https://sheenaroseart.com/about",
    "https://smallaxe.net/sxvisualities/portfolios/52",
-   "https://en.wikipedia.org/wiki/Sheena_Rose"
+   "https://en.wikipedia.org/wiki/Sheena_Rose",
+   "https://repeatingislands.com/2026/06/16/sheena-rose-2026-laureate-of-sabga-caribbean-award-of-excellence-arts-letters/"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Barbados",
+  "residence": "Barbados",
+  "works": [
+   {
+    "title": "Island and Monster (performance, Royal Academy London / MoCADA New York)",
+    "year": 2017,
+    "url": "https://en.wikipedia.org/wiki/Sheena_Rose"
+   }
+  ],
+  "note3": "Solo show 'Born of the Sea', De Buck Gallery NY 2022; one source (Repeating Islands) reports 2026 Sabga Caribbean Award laureate."
  },
  {
   "researched": true,
   "name": "Radcliffe Roye",
   "country": "Jamaica",
   "based": "Brooklyn, USA",
-  "born": null,
+  "born": 1969,
   "died": null,
   "living": true,
   "medium": "photography",
@@ -4602,9 +5924,13 @@
   "sources": [
    "https://en.wikipedia.org/wiki/Ruddy_Roye",
    "https://stevenkasher.com/artists/ruddy-roye",
-   "https://blogs.goucher.edu/magazine/alumni-news/alumni-spotlight/ruddy-roye/"
+   "https://blogs.goucher.edu/magazine/alumni-news/alumni-spotlight/ruddy-roye/",
+   "https://pulitzercenter.org/node/2387"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Brooklyn, New York, USA",
+  "note3": "CORRECTION: name is Ruddy Roye (Radcliffe Ruddy Roye), photographer, born Montego Bay; moved to New York 2001; member of Kamoinge. Not to be confused with Radcliffe Bailey (died Nov 2023)."
  },
  {
   "researched": true,
@@ -4624,9 +5950,13 @@
   "sources": [
    "https://residencyunlimited.org/residencies/oneika-russell/",
    "https://old.jamaica-gleaner.com/gleaner/20060122/arts/arts1.html",
-   "https://africanah.org/oneika-russell/"
+   "https://africanah.org/oneika-russell/",
+   "https://contemporaryand.com/en/c-and-magazine/texts/riding-the-waves-of-time"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Kingston, Jamaica",
+  "note3": "Birth year from single source (Residency Unlimited); info possibly dated (~2018). Edna Manley College lecturer per some sources; PhD Kyoto Seika Univ.; Dak'Art 2018."
  },
  {
   "researched": true,
@@ -4676,7 +6006,7 @@
   "name": "Beatriz Santiago Muñoz",
   "country": "Puerto Rico",
   "based": "San Juan, Puerto Rico",
-  "born": null,
+  "born": 1972,
   "died": null,
   "living": true,
   "medium": "film, video, installation",
@@ -4689,9 +6019,32 @@
   "sources": [
    "https://www.unitedstatesartists.org/artists/beatriz-santiago-munoz",
    "https://creative-capital.org/artists/beatriz-santiago-munoz",
-   "https://www.tate.org.uk/whats-on/tate-modern/beatriz-santiago-munoz-oneiromancer"
+   "https://www.tate.org.uk/whats-on/tate-modern/beatriz-santiago-munoz-oneiromancer",
+   "https://prospectneworleans.org/artist-profiles/beatriz-santiago-muoz",
+   "https://mediacityfilmfestival.com/25th-anniversary/beatriz-santiago-munoz/",
+   "https://whitney.org/exhibitions/2017-biennial/art?section=37"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Puerto Rico",
+  "residence": "San Juan, Puerto Rico",
+  "works": [
+   {
+    "title": "Marché Salomon",
+    "year": 2015,
+    "url": null
+   },
+   {
+    "title": "Black Beach / Horse / Camp / The Dead / Forces",
+    "year": 2016,
+    "url": null
+   },
+   {
+    "title": "The Unspeakable Thing",
+    "year": null,
+    "url": null
+   }
+  ],
+  "note3": "Artes Mundi Prize 2021; Whitney Biennial 2017; solo 'A Universe of Fragile Mirrors' PAMM 2016-17; co-founded Beta-Local."
  },
  {
   "researched": false,
@@ -4728,9 +6081,12 @@
   "note": "Bahamian artist; not searched (unverified background knowledge; web search budget exhausted before this artist could be searched) Born Nassau 1976; MA Utrecht 2006; associate professor University of The Bahamas; 'Me n Mines' at Tern Gallery Sep-Oct 2025 with brother Steven Schmid; personal website link on ICF page not exposed; no Instagram found",
   "sources": [
    "https://www.internationalcuratorsforum.org/people/heino-schmid/",
-   "https://www.daguilarartfoundation.com/explore/artist/73/schmid_heino.html"
+   "https://www.daguilarartfoundation.com/explore/artist/73/schmid_heino.html",
+   "https://festival.bahamar.com/speaker/heino-schmid-2/"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Bahamas",
+  "note3": "Born Nassau, German heritage; residence not stated in results (Bahamas-based per context; academic at University of The Bahamas per one bio). Founding member POPOPStudios; documenta 15 with Alice Yard."
  },
  {
   "researched": true,
@@ -4771,9 +6127,26 @@
   "sources": [
    "https://www.graphicstudio.usf.edu/gs/artists/segura_esterio/segura.html",
    "https://cubanartresources.org/esterio-segura",
-   "https://www.molaa.org/ester-segura"
+   "https://www.molaa.org/ester-segura",
+   "https://en.wikipedia.org/wiki/Esterio_Segura_Mora",
+   "https://www.kendallartcenter.org/esteriosegura"
   ],
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Cuba",
+  "works": [
+   {
+    "title": "Goodbye My Love (sculpture/installation, Tampa International Airport)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Esterio_Segura_Mora"
+   },
+   {
+    "title": "Hybrid of Chrysler (shown 57th Venice Biennale)",
+    "year": 2017,
+    "url": "https://en.wikipedia.org/wiki/Esterio_Segura_Mora"
+   }
+  ],
+  "note3": "Born Santiago de Cuba, 22 Aug 1970. Residence 'Cuba' is from most sources describing him as Cuba-based; not confirmed current. MOLAA solo 2014-15; has taught at USF Tampa."
  },
  {
   "researched": true,
@@ -4810,10 +6183,23 @@
   "sources": [
    "https://www.artransfer.com/artist/shuck-one-24119",
    "https://www.molitorparis.com/en/art/galerie-art/26-shuck-one/",
-   "https://www.artsper.com/ae/contemporary-artists/france/4059/shuck-one"
+   "https://www.artsper.com/ae/contemporary-artists/france/4059/shuck-one",
+   "https://www.artsper.com/en/contemporary-artists/france/4059/shuck-one",
+   "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/shuck-one-graffiti-artist-and-visual-creator-if-you-dont-know-your-own-history-how-can-you-speak-to-others",
+   "https://www.africanews.com/amp/2025/02/21/honoring-black-heritage-shuck-ones-upcoming-exhibit-at-pompidou-center/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Guadeloupe (France)",
+  "residence": "Paris, France",
+  "works": [
+   {
+    "title": "Regeneration (mural, 'Paris Noir', Centre Pompidou)",
+    "year": 2025,
+    "url": "https://www.clickondetroit.com/entertainment/2025/02/21/french-street-artist-shuck-one-pays-tribute-to-black-history-at-pompidou-center-in-paris/"
+   }
+  ],
+  "note3": "Birth year 1970 per Artsper (another listing says 1972). Moved to Paris at 14; co-founder of DCM and Basalt crews."
  },
  {
   "name": "Arthur Simms",
@@ -4832,10 +6218,27 @@
   "sources": [
    "https://martosgallery.com/artists/44-arthur-simms/biography",
    "https://creative-capital.org/artists/arthur-simms",
-   "https://www.thehighline.org/art/projects/arthur-simms/"
+   "https://www.thehighline.org/art/projects/arthur-simms/",
+   "https://karmakarma.org/press/2023-03-17_the-new-york-times_arthur-simms/",
+   "https://brooklynrail.org/2009/07/art/arthur-simms-with-phong-bui/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Staten Island, New York, USA",
+  "works": [
+   {
+    "title": "A Totem for the High Line",
+    "year": 2024,
+    "url": null
+   },
+   {
+    "title": "Floating sculpture, Staten Island waterfront",
+    "year": 2018,
+    "url": null
+   }
+  ],
+  "note3": "Born Kingston/St Andrew; emigrated to Brooklyn 1969; represented Jamaica at 2001 Venice Biennale; survey at Karma 2023 (NYT 17 Mar 2023); Professor at CUNY LaGuardia CC."
  },
  {
   "name": "Kelly Sinnapah Mary",
@@ -4854,10 +6257,16 @@
   "sources": [
    "https://jamescohan.com/news/james-cohan-now-represents-kelly-sinnapah-mary",
    "https://cerebralwomen.com/2025/05/21/episode-246-a-conversation-with-kelly-sinnapah-mary/",
-   "https://www.aicon.art/exhibitions/kelly-sinnapah-mary"
+   "https://www.aicon.art/exhibitions/kelly-sinnapah-mary",
+   "https://news.artnet.com/art-world/rising-artist-kelly-sinnapah-marys-spellbinding-works-take-center-stage-2616158?amp=1",
+   "https://news.artnet.com/art-world/aicon-gallery-kelly-sinnapah-mary-2411770",
+   "https://www.as-coa.org/exhibitions/kelly-sinnapah-mary-between-earth-and-sea"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Guadeloupe (France)",
+  "residence": "Saint-François, Guadeloupe",
+  "note3": "Indo-Caribbean heritage. Solo 'The Book of Violette' at James Cohan NY 2025; Aicon NY 2023-24; survey at The Aldrich Feb-Jun 2027 and Americas Society Apr-Jul 2027."
  },
  {
   "name": "Pascal Smarth",
@@ -4916,10 +6325,22 @@
   "note": "Born Kingston; moved to Trinidad 1999; Sleepwalkers (2009-17) acquired by Wereldmuseum Rotterdam, in 'Live the Surreal' (Sept 2026-Aug 2027)",
   "sources": [
    "https://www.caribbean-beat.com/issue-92/roberta-stoddart-painting-life",
-   "https://rotterdamstyle.com/arts-culture/wereldmuseum-acquires-roberta-stoddarts-sleepwalkers-ahead-of-surrealism-upcoming-exhibition"
+   "https://rotterdamstyle.com/arts-culture/wereldmuseum-acquires-roberta-stoddarts-sleepwalkers-ahead-of-surrealism-upcoming-exhibition",
+   "https://casadaros.net/artist/roberta-stoddart",
+   "https://rotterdam.wereldmuseum.nl/en/node/5637"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Port of Spain, Trinidad and Tobago",
+  "works": [
+   {
+    "title": "Sleepwalkers",
+    "year": 2017,
+    "url": "https://rotterdam.wereldmuseum.nl/sites/default/files/2026-06/PRESS%20RELEASE_Caribbean%20masterpiece%20acquired%20for%20autumn%20exhibition%20Live%20the%20Surreal%2C%20Roberta%20Stoddart%27s%20Sleepwalkers.pdf"
+   }
+  ],
+  "note3": "Sleepwalkers dated 2009-2017; acquired by Wereldmuseum Rotterdam for 'Live the Surreal' (17 Sep 2026 - 29 Aug 2027). Moved to Trinidad 1999; Kingston birthplace from single listing (Casa d'Aros)."
  },
  {
   "name": "Hugh Stollmeyer",
@@ -4977,10 +6398,28 @@
   "note": "Not searched (budget exhausted). From memory, unverified: leading Bahamian conceptual artist, Bahamas pavilion at Venice Biennale 2017 ('Polar Eclipse'); check gallery, website and Instagram LACMA solo exhibition 'The Day Tomorrow Began' Oct 2025 - Mar 2026; no website/Instagram shown in results",
   "sources": [
    "https://www.artnet.com/artists/tavares-strachan/",
-   "https://www.studiomuseum.org/artists/tavares-strachan"
+   "https://www.studiomuseum.org/artists/tavares-strachan",
+   "https://en.wikipedia.org/wiki/Tavares_Strachan",
+   "https://www.mariangoodman.com/artists/312/",
+   "https://ocula.com/artists/tavares-strachan/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Bahamas",
+  "residence": "Nassau, Bahamas / New York, USA",
+  "works": [
+   {
+    "title": "The First Supper",
+    "year": 2024,
+    "url": "https://en.wikipedia.org/wiki/Tavares_Strachan"
+   },
+   {
+    "title": "ENOCH",
+    "year": 2018,
+    "url": "https://en.wikipedia.org/wiki/Tavares_Strachan"
+   }
+  ],
+  "note3": "MacArthur Fellow 2022; survey 'The Day Tomorrow Began' (LACMA/Columbus Museum of Art) travels to Columbus 2026-27."
  },
  {
   "name": "Darío Suro",
@@ -5037,10 +6476,14 @@
   "note": "Not researched: web search budget exhausted Fondation Clement exhibition/catalogue 'Les territoires radiographiques'; residency in Brasov, Romania, Oct 2023",
   "sources": [
    "https://artsper.com/il/contemporary-artists/guadeloupe/69345/philippe-thomarel",
-   "https://fondation-clement.org/en/publications/philippe-thomarel-les-territoires-radiographiques-2"
+   "https://fondation-clement.org/en/publications/philippe-thomarel-les-territoires-radiographiques-2",
+   "https://artsper.com/et/contemporary-artists/guadeloupe/69345/philippe-thomarel",
+   "https://www.unitbv.ro/stiri-si-evenimente/176-stiri-si-evenimente/5771-philippe-thomarel-lxxviii-quand-le-ciel-bas-et-lourd.html"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Guadeloupe (France)",
+  "note3": "Residence not stated. Painter (bridges, dogs, portraits). Exhibitions: 'LXXVIII: Quand le ciel bas et lourd' (Transilvania Univ. Brasov, Oct 2023, after 1-month residency); 'Les territoires radiographiques' (Fondation Clément)."
  },
  {
   "name": "Phillip Thomas",
@@ -5059,10 +6502,15 @@
   "sources": [
    "https://rjdgallery.com/artist/phillip-thomas/",
    "https://beautifulbizarre.net/?p=199764",
-   "https://jamaicaobserver.com/2014/09/20/phillip-thomas-an-artist-in-residence"
+   "https://jamaicaobserver.com/2014/09/20/phillip-thomas-an-artist-in-residence",
+   "https://smallaxe.net/sxvisualities/portfolios/58",
+   "https://africanah.org/phillip-thomas/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Kingston, Jamaica",
+  "note3": "Painter, born Kingston; BFA Edna Manley College 2003, MFA New York Academy of Art; Bronze Musgrave Medal 2014. Older bio says lived in New York; Kingston is the more recent claim. Not Cutty Ranks (Philip Thomas)."
  },
  {
   "name": "Jasmine Thomas-Girvan",
@@ -5080,10 +6528,16 @@
   "note": "Not searched (budget exhausted); Jamaican sculptor, country/medium from memory, unverified Born Jamaica, now resides in Trinidad; Kunstinstituut Melly show 2021-22; TENDER grantee 2024",
   "sources": [
    "https://www.kunstinstituutmelly.nl/en/people/127-jasmine-thomas-girvan",
-   "https://freshmilkbarbados.com/projects/tender/tender-grantees-2024-interviews/jasmine-thomas-girvan/"
+   "https://freshmilkbarbados.com/projects/tender/tender-grantees-2024-interviews/jasmine-thomas-girvan/",
+   "https://kunstinstituutmelly.nl/en/people/127-jasmine-thomas-girvan",
+   "https://www.hkw.de/en/programme/contributors/jasmine-thomas-girvan",
+   "https://www.davidzwirner.com/exhibitions/2019/affinities/press-release"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Port of Spain, Trinidad and Tobago",
+  "note3": "Jamaican-born; in Trinidad since 2000 (Maraval/Port of Spain). Shows: 'Bathed in Sacred Fire' Kunstinstituut Melly 2021; 'Affinities' with Chris Ofili, David Zwirner London 2019; 'Window on Memory' Brown Univ. 2023."
  },
  {
   "name": "Thierry Tian-Sio-Po",
@@ -5101,10 +6555,14 @@
   "note": "Not researched: web search budget exhausted Born Guyana 1964; Fondation Clement exhibition 'Inextricable'",
   "sources": [
    "https://aica-sc.net/2013/04/09/conversation-with-thierry-tian-sio-po/",
-   "https://www.fondation-clement.org/en/past-exhibitions/page/8/"
+   "https://www.fondation-clement.org/en/past-exhibitions/page/8/",
+   "https://www.paperblog.fr/5961092/catalogue-global-caribbean-iv-regarder-en-avant-pas-en-arriere/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "French Guiana (Guyane)",
+  "residence": "French Guiana (Guyane)",
+  "note3": "Single source says born 1964 in Guyana(e) and still lives/works there; catalogue lists him as Guyane (French Guiana). Not confirmed by multiple sources. AICA-SC has a 2013 'Conversation with Thierry Tian Sio Po'."
  },
  {
   "name": "José Toirac",
@@ -5122,10 +6580,27 @@
   "note": "Not searched (budget exhausted); details from memory, unverified Born Guantanamo; works as José Ángel Toirac; National Prize for Plastic Arts 2018 per one source",
   "sources": [
    "https://www.panamericanart.com/artists/75-jose-toirac/works/15990-jose-toirac-parables-book",
-   "https://cubanartresources.org/jose-angel-toirac"
+   "https://cubanartresources.org/jose-angel-toirac",
+   "https://en.wikipedia.org/wiki/Jos%C3%A9_Toirac",
+   "https://www.cubanartresources.org/jose-angel-toirac",
+   "https://www.pinta.art/Pinta/Past-Editions/Pinta-Miami/2020/Galleries-2020/Contemporary/Pan-American-Art/Absolut"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "works": [
+   {
+    "title": "Absolut",
+    "year": 2019,
+    "url": "https://www.pinta.art/Pinta/Past-Editions/Pinta-Miami/2020/Galleries-2020/Contemporary/Pan-American-Art/Absolut"
+   },
+   {
+    "title": "Orbis: Tribute to Walker Evans",
+    "year": 2007,
+    "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Toirac"
+   }
+  ],
+  "note3": "Born Guantanamo; full name José Ángel Toirac; residence not stated in results (Havana-based per other knowledge, unverified)."
  },
  {
   "name": "Tonel",
@@ -5143,10 +6618,14 @@
   "note": "Not searched (budget exhausted); Antonio Eligio Fernandez, Cuban artist/writer; unverified Full name Antonio Eligio Fernandez; artist, critic, curator; teaches at UBC",
   "sources": [
    "https://belkin.ubc.ca/person/tonel-antonio-eligio-fernandez",
-   "https://www.monicareyesgallery.com/tonel-antonio-eligio-fernandez.html"
+   "https://www.monicareyesgallery.com/tonel-antonio-eligio-fernandez.html",
+   "https://oncubanews.com/en/?p=305645"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Vancouver, Canada / Cuba",
+  "note3": "Real name Antonio Eligio Fernández; born Havana; artist, critic, curator; teaches at UBC per one source, another says lives and works in Cuba and Canada."
  },
  {
   "name": "Ruben Torres Llorca",
@@ -5164,10 +6643,22 @@
   "note": "Not searched (budget exhausted); details from memory, unverified Website named in Conde Contemporary article; no Instagram shown",
   "sources": [
    "https://condecontemporary.com/blog/2023/6/13/rubn-rubn-rubn",
-   "https://en.wikipedia.org/wiki/Rub%C3%A9n_Torres_Llorca"
+   "https://en.wikipedia.org/wiki/Rub%C3%A9n_Torres_Llorca",
+   "https://condecontemporary.com/ruben-torres-llorca-1",
+   "https://www.cubanartresources.org/ruben-torres-llorca"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Cuba",
+  "residence": "Miami, USA",
+  "works": [
+   {
+    "title": "History Will Teach Us Nothing",
+    "year": null,
+    "url": "https://cci.pamm.org/en/on-ruben-torres-llorcas-history-will-teach-us-nothing/"
+   }
+  ],
+  "note3": "Born Havana; in Miami since early 1990s (1993 per one source); Volumen Uno group; represented by Conde Contemporary."
  },
  {
   "name": "Rafael Tufiño",
@@ -5209,7 +6700,7 @@
   "name": "Stacey Tyrell",
   "country": "Canada / Nevis (heritage)",
   "based": "Brooklyn, New York",
-  "born": null,
+  "born": 1978,
   "died": null,
   "living": true,
   "medium": "photography",
@@ -5221,10 +6712,32 @@
   "note": "Not researched: web search budget exhausted Toronto-raised, Brooklyn-based, Nevisian heritage; series Backra Bluid shown Orillia Museum 2024; website per Wikipedia infobox",
   "sources": [
    "https://en.wikipedia.org/wiki/Stacey_Tyrell",
-   "https://www.generalhardware.ca/stacey-tyrell"
+   "https://www.generalhardware.ca/stacey-tyrell",
+   "https://spencerart.ku.edu/art/collections-online/artist/50260",
+   "https://loeildelaphotographie.com/en/toronto-contact-2014-stacey-tyrell/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Canada",
+  "residence": "Brooklyn, USA",
+  "works": [
+   {
+    "title": "Backra Bluid",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Stacey_Tyrell"
+   },
+   {
+    "title": "Position As Desired",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Stacey_Tyrell"
+   },
+   {
+    "title": "Chattel",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Stacey_Tyrell"
+   }
+  ],
+  "note3": "Canadian photographer born Toronto; family roots in Nevis; Caribbean-diaspora not Caribbean-born. Flash Forward Award 2012."
  },
  {
   "name": "Fernando Varela",
@@ -5283,10 +6796,28 @@
   "note": "Not searched (budget exhausted); Trinidadian photographer/digital artist from memory, unverified Exhibited at Whitney, Berlin Biennale, National Gallery of Jamaica; Big Medium Tito's Prize winner (Austin)",
   "sources": [
    "https://festival.bahamar.com/speaker/rodell-warner/",
-   "https://covepark.org/?p=17456"
+   "https://covepark.org/?p=17456",
+   "https://2021.grayareafestival.io/bio/rodell-warner/",
+   "https://www.austinchronicle.com/arts/photographer-and-digital-artist-rodell-warner-wins-titos-prize-for-the-arts-12834510/",
+   "https://www.cigarjournal.com/?p=14975"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Trinidad and Tobago",
+  "residence": "Port of Spain, Trinidad and Tobago / Kingston, Jamaica / Austin, USA",
+  "works": [
+   {
+    "title": "Augmented Archive (series)",
+    "year": null,
+    "url": "https://2021.grayareafestival.io/bio/rodell-warner/"
+   },
+   {
+    "title": "Veil (series)",
+    "year": null,
+    "url": "https://2021.grayareafestival.io/bio/rodell-warner/"
+   }
+  ],
+  "note3": "Won Tito's Prize (Austin), solo show Big Medium spring 2024; 2017 Davidoff limited-edition commission (cigar boxes)."
  },
  {
   "name": "Nari Ward",
@@ -5304,10 +6835,27 @@
   "note": "Not searched (budget exhausted); details from memory, unverified; check gallery (believed Lehmann Maupin) Website per Wikipedia infobox; Distinguished Professor Emeritus, Hunter College; Lehmann Maupin shown as seller",
   "sources": [
    "https://en.wikipedia.org/wiki/Nari_Ward",
-   "https://www.artnet.com/artists/nari-ward/"
+   "https://www.artnet.com/artists/nari-ward/",
+   "https://ocula.com/art-galleries/lehmann-maupin/artists/nari-ward/",
+   "https://www.thehighline.org/art/projects/nariward/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "New York, USA",
+  "works": [
+   {
+    "title": "Amazing Grace",
+    "year": 1993,
+    "url": "https://www.artnet.com/artists/nari-ward/"
+   },
+   {
+    "title": "We the People",
+    "year": 2019,
+    "url": "https://ocula.com/art-galleries/lehmann-maupin/artists/nari-ward/"
+   }
+  ],
+  "note3": "Jamaican-born (St Andrew) American artist; Vilcek Prize 2017; Rome Prize 2012."
  },
  {
   "name": "Barrington Watson",
@@ -5349,7 +6897,7 @@
   "name": "Tessa Whitehead",
   "country": "Bahamas",
   "based": "Nassau",
-  "born": null,
+  "born": 1985,
   "died": null,
   "living": true,
   "medium": "painting",
@@ -5362,16 +6910,29 @@
   "sources": [
    "https://daguilarartfoundation.com/explore/artist/91/whitehead_tessa.html",
    "https://www.caciqueinternational.com/blog/2019/5/tessawhitehead",
-   "https://nagb.org.bs/the-nagb-presents-two-breathtaking-exhibitions-chan-pratt-and-tessa-whitehead-shine-a-light-on-the-landscape-and-personal-stories/"
+   "https://nagb.org.bs/the-nagb-presents-two-breathtaking-exhibitions-chan-pratt-and-tessa-whitehead-shine-a-light-on-the-landscape-and-personal-stories/",
+   "https://www.daguilarartfoundation.com/explore/artist/91/whitehead_tessa.html",
+   "https://www.caciqueinternational.com/blog/2018/10/tessa-whitehead",
+   "https://nagb.org.bs/blank-canvas-june-9th-2021-featuring-tessa-whitehead-and-leasho-johnson"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "The Bahamas",
+  "residence": "Nassau, The Bahamas",
+  "works": [
+   {
+    "title": "there are always two deaths … (solo show)",
+    "year": 2019,
+    "url": "https://www.daguilarartfoundation.com/explore/artist/91/whitehead_tessa.html"
+   }
+  ],
+  "note3": "Born Nassau; runs studio NINE in Nassau (2018/2021 sources); BA Central Saint Martins, MFA Slade; solo show at TERN Nassau 2024."
  },
  {
   "name": "Alberta Whittle",
   "country": "Barbados / UK",
   "based": "Glasgow, UK / Barbados",
-  "born": null,
+  "born": 1980,
   "died": null,
   "living": true,
   "medium": "film, installation, performance, sculpture, print",
@@ -5383,10 +6944,16 @@
   "note": "Not searched (budget exhausted); from memory, unverified: represented Scotland at Venice Biennale 2022 Barbadian-Scottish; website listed by Film London and Contemporary And",
   "sources": [
    "https://filmlondon.org.uk/profile/alberta-whittle",
-   "https://amlatina.contemporaryand.com/?p=13493"
+   "https://amlatina.contemporaryand.com/?p=13493",
+   "https://www.nationalgalleries.org/art-and-artists/artists/alberta-whittle",
+   "https://forma.org.uk/artists/alberta-whittle",
+   "https://liverpoolbiennial2021.com/artists/alberta-whittle/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Barbados",
+  "residence": "Glasgow, Scotland, UK",
+  "note3": "Born Bridgetown; Barbadian-Scottish; some sources say lives between Scotland, South Africa and Barbados; represented Scotland at 59th Venice Biennale 2022; solo Nicola Vassell Gallery NY 2025."
  },
  {
   "name": "Nick Whittle",
@@ -5404,10 +6971,26 @@
   "note": "Not researched: web search budget exhausted Born Birmingham, England; lives in Barbados since 1979; 'Other Lives' exhibition 2019",
   "sources": [
    "https://en.wikipedia.org/wiki/Nick_Whittle",
-   "https://freshmilkbarbados.com/2014/04/17/fresh-milk-xiv-nick-whittles-presentation/"
+   "https://freshmilkbarbados.com/2014/04/17/fresh-milk-xiv-nick-whittles-presentation/",
+   "https://www.art.state.gov/personnel/nick_whittle"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Barbados",
+  "residence": "Barbados",
+  "works": [
+   {
+    "title": "Innerscape (series)",
+    "year": 2006,
+    "url": "https://en.wikipedia.org/wiki/Nick_Whittle"
+   },
+   {
+    "title": "Whittle in Context (solo show)",
+    "year": 2008,
+    "url": "https://www.art.state.gov/personnel/nick_whittle"
+   }
+  ],
+  "note3": "Born Birmingham, England (birth year not shown); moved to Barbados 1979; taught at Queen's College 1981-2002. Not to be confused with Alberta Whittle."
  },
  {
   "name": "Cosmo Whyte",
@@ -5426,10 +7009,15 @@
   "sources": [
    "https://www.cosmowhyte.com/bio",
    "https://ocula.com/artists/cosmo-whyte/",
-   "https://ocula.com/artists/cosmo-whyte/anat-ebgi/"
+   "https://ocula.com/artists/cosmo-whyte/anat-ebgi/",
+   "https://en.wikipedia.org/wiki/Cosmo_Whyte",
+   "https://anatebgi.com/artists/cosmo-whyte/"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Jamaica",
+  "residence": "Los Angeles, USA / Montego Bay, Jamaica",
+  "note3": "Born St Andrew, Jamaica; assistant professor at UCLA since 2022; earlier profiles say Atlanta; Tiffany Foundation Award 2019; 2020 Anat Ebgi show with hand-painted beaded curtain."
  },
  {
   "name": "Aubrey Williams",
@@ -5487,9 +7075,26 @@
   "note": "Not searched (budget exhausted); from memory, unverified Born Cap-Haitien; gold medal 1996 Caribbean/Central American painting biennial; New Yorker cover 2010; Galerie Monnin; no own website found",
   "sources": [
    "https://materialculture.com/zephirin-bio/",
-   "https://www.art.state.gov/personnel/frantz_zephirin/"
+   "https://www.art.state.gov/personnel/frantz_zephirin/",
+   "https://www.naderhaitianart.com/collections/zephirin-frantz",
+   "https://www.indigoarts.com/node/118"
   ],
   "researched": true,
-  "source_list": "A to Z of Caribbean Art (2019)"
+  "source_list": "A to Z of Caribbean Art (2019)",
+  "origin_country": "Haiti",
+  "residence": "Mariani, near Port-au-Prince, Haiti",
+  "works": [
+   {
+    "title": "The Resurrection of the Dead (New Yorker cover after 2010 earthquake)",
+    "year": null,
+    "url": "https://materialculture.com/zephirin-bio/"
+   },
+   {
+    "title": "The Messenger (monographic museum exhibition)",
+    "year": null,
+    "url": "https://www.meer.com/en/109845-the-messenger"
+   }
+  ],
+  "note3": "Born Cap-Haïtien (one page says Port-au-Prince); lived in Key West for several years after 2010 earthquake, later returned to Haiti."
  }
 ]
