@@ -1,0 +1,344 @@
+[
+ {
+  "name": "Peter Carr",
+  "found": false,
+  "identity_note": "Skipped: same-name confusion. Searches only surfaced Peter Carr (1925-1981, Laguna Beach, California) and Peter Carr (b. 1959, abstract painter now in Co. Galway, Ireland). One search summary mentioned an Australian painter of Bequia but no source page confirmed it, so identity is unverified.",
+  "images": []
+ },
+ {
+  "name": "Nadia Huggins",
+  "found": true,
+  "identity_note": "Images taken from the artist's own site nadiahuggins.com (Cargo portfolio; project titles from the site). Instagram handle nadiahuggins matches the list.",
+  "images": [
+   {
+    "img": "https://freight.cargo.site/t/original/i/6d94f46f667e0f9ebe4b7e3bf789fa831a3f271371f74edc3447b48feaf5209f/Is-that-a-buoy.jpg",
+    "title": "Is that a buoy?",
+    "year": null,
+    "page": "https://nadiahuggins.com/Is-that-a-buoy"
+   },
+   {
+    "img": "https://freight.cargo.site/t/original/i/72df2b4a5c9303fb50e4d6c55557667b92ea029bcdeeca24879af629b5042cbf/the-net.jpg",
+    "title": "Pulling the net",
+    "year": null,
+    "page": "https://nadiahuggins.com/work"
+   },
+   {
+    "img": "https://freight.cargo.site/t/original/i/b88c753d9f8acfeae6719083082be566d2b6d2a6f96bee79fc6b4640b84da10a/Disappearing-people_nh.jpg",
+    "title": "Disappearing people",
+    "year": null,
+    "page": "https://nadiahuggins.com/work"
+   }
+  ]
+ },
+ {
+  "name": "Maurel Reynolds",
+  "found": false,
+  "identity_note": "Skipped: one search for \"Maurel Reynolds\" watercolour Saint Vincent returned nothing for this name (only unrelated 19th-century Reynolds painters). Probably a misspelling; no variant could be verified.",
+  "images": []
+ },
+ {
+  "name": "Brian Ashing",
+  "found": true,
+  "identity_note": "Trinidad Guardian article on his first solo show Prelude (101 Art Gallery, Sept 2021, Sangre Grande resident, oil painter) captions these works. His Wix site (thebrianashing.wixsite.com/home) now returns 404. Studio photo on Period Portraits page skipped (artist in frame).",
+  "images": [
+   {
+    "img": "https://guardian.co.tt/image-3.3287638.163474.20210908023539.87d5847db5",
+    "title": "Transparency",
+    "year": 2021,
+    "page": "https://guardian.co.tt/article/imaginative-realism-at-101-6.2.1382162.18b6558f95"
+   },
+   {
+    "img": "https://guardian.co.tt/image-3.3287641.163474.20210908023539.cebd7efb5b",
+    "title": "Patient Predator",
+    "year": 2021,
+    "page": "https://guardian.co.tt/article/imaginative-realism-at-101-6.2.1382162.18b6558f95"
+   },
+   {
+    "img": "https://guardian.co.tt/image-3.3287639.163474.20210908023539.2c6205aa35",
+    "title": "Balance",
+    "year": 2021,
+    "page": "https://guardian.co.tt/article/imaginative-realism-at-101-6.2.1382162.18b6558f95"
+   }
+  ]
+ },
+ {
+  "name": "Sabrina Romulus",
+  "found": true,
+  "identity_note": "The Voice (St Lucia) feature 'Sabrina Romulus' Art Is Her Heart' (Jan 2016): Castries-born acrylic/portrait artist; both images are captioned as her paintings. Only 2 images found (600px wide).",
+  "images": [
+   {
+    "img": "https://thevoiceslu.com/wp-content/uploads/2016/01/Romulus-portrait-of-a-bunch-of-coconuts.jpg",
+    "title": "Portrait of a bunch of coconuts",
+    "year": null,
+    "page": "https://thevoiceslu.com/2016/01/sabrina-romulus-art-is-her-heart/"
+   },
+   {
+    "img": "https://www.thevoiceslu.com/wp-content/uploads/2016/01/Romulus-painted-portrait.jpg",
+    "title": "Painted family portrait (commission)",
+    "year": null,
+    "page": "https://thevoiceslu.com/2016/01/sabrina-romulus-art-is-her-heart/"
+   }
+  ]
+ },
+ {
+  "name": "Ano",
+  "found": false,
+  "identity_note": "Skipped: single-word name with no country, residence, medium or site; cannot be identified. Not searched.",
+  "images": []
+ },
+ {
+  "name": "Christian Bertin",
+  "found": true,
+  "identity_note": "Fondation Clement (Martinique) exhibition page 'Cette foule qui ne sait pas faire foule - Christian Bertin' (Nov 2025-Jan 2026); matches Martinique installation/assemblage artist born Fort-de-France 1952. Titles from filenames; third image untitled.",
+  "images": [
+   {
+    "img": "https://www.fondation-clement.org/wp-content/uploads/2025/10/C.Bertin_J13_bon-die-coolie_bd10.jpg",
+    "title": "Bon Die Coolie",
+    "year": 2025,
+    "page": "https://www.fondation-clement.org/expositions/cette-foule-qui-ne-sait-pas-faire-foule-christian-bertin/"
+   },
+   {
+    "img": "https://www.fondation-clement.org/wp-content/uploads/2025/10/BERTIN_2025_dlo-monte-mon_bd.jpg",
+    "title": "Dlo monte mon",
+    "year": 2025,
+    "page": "https://www.fondation-clement.org/expositions/cette-foule-qui-ne-sait-pas-faire-foule-christian-bertin/"
+   },
+   {
+    "img": "https://www.fondation-clement.org/wp-content/uploads/2025/10/Bertin-2025_bd6.jpg",
+    "title": null,
+    "year": 2025,
+    "page": "https://www.fondation-clement.org/expositions/cette-foule-qui-ne-sait-pas-faire-foule-christian-bertin/"
+   }
+  ]
+ },
+ {
+  "name": "Francisco Cabral",
+  "found": false,
+  "identity_note": "Skipped: no country, residence, medium or site in the list; very common name; previous pass could not identify. Not searched.",
+  "images": []
+ },
+ {
+  "name": "Susan Dayal",
+  "found": false,
+  "identity_note": "Skipped: one search found only a UWI archive entry 'Dayal, Susan (b. 1968)' tied to exhibitions 'She Show' (1998) and '13 Lunar Months' (2002-03); no nationality, medium or images, so identity unconfirmed.",
+  "images": []
+ },
+ {
+  "name": "Joscelyn Gardner",
+  "found": true,
+  "identity_note": "Barbadian-born, Canada-based printmaker. Her own site joscelyngardner.com is a parked domain. Images from Small Axe portfolio of her artist book 'A Collection of Creole Portrait Heads of the Female Sex' (low-res, 300x360) and a U.S. Dept of State Art in Embassies page for her Creole Portraits lithographs (wall installation view, 1692px).",
+  "images": [
+   {
+    "img": "https://uss58003.s3.amazonaws.com/wp-content/uploads/2020/10/17851.jpg",
+    "title": "Creole Portraits (lithographs, installation view)",
+    "year": null,
+    "page": "https://www.art.state.gov/personnel/joscelyn_gardner/"
+   },
+   {
+    "img": "https://smallaxe.net/sites/default/files/2019-05/37%20gardner%207.jpg",
+    "title": "A Collection of Creole Portrait Heads of the Female Sex (page)",
+    "year": null,
+    "page": "https://smallaxe.net/sxvisualities/portfolios/37"
+   },
+   {
+    "img": "https://smallaxe.net/sites/default/files/2019-05/37%20gardner%2015.jpg",
+    "title": "A Collection of Creole Portrait Heads of the Female Sex (page)",
+    "year": null,
+    "page": "https://smallaxe.net/sxvisualities/portfolios/37"
+   }
+  ]
+ },
+ {
+  "name": "Anna Ruth Henriques",
+  "found": true,
+  "identity_note": "Jewish Museum (New York) online collection records for 'The Book of Mechtilde' (gouache, watercolor, acrylic, ink on paper/vellum, c.1995) credited to Anna Ruth Henriques, Jamaican, b.1967; these are original painted pages, not the book cover.",
+  "images": [
+   {
+    "img": "https://res.cloudinary.com/the-jewish-museum/image/fetch/q_auto,f_auto,w_1000/v1/https%3A%2F%2Fthejm.netx.net%2Ffile%2Fasset%2F31250%2Fview%2F56916%2Fview_56916%3Ftoken%3D921831d3-ee56-4e60-a489-5c285b802e1e",
+    "title": "The Book of Mechtilde (page)",
+    "year": 1995,
+    "page": "https://collections.thejewishmuseum.org/collection/29440-the-book-of-mechtilde"
+   },
+   {
+    "img": "https://res.cloudinary.com/the-jewish-museum/image/fetch/q_auto,f_auto,w_1000/v1/https%3A%2F%2Fthejm.netx.net%2Ffile%2Fasset%2F31246%2Fview%2F56924%2Fview_56924%3Ftoken%3D921831d3-ee56-4e60-a489-5c285b802e1e",
+    "title": "The Book of Mechtilde (page)",
+    "year": 1995,
+    "page": "https://collections.thejewishmuseum.org/collection/29465-the-book-of-mechtilde"
+   },
+   {
+    "img": "https://res.cloudinary.com/the-jewish-museum/image/fetch/q_auto,f_auto,w_1000/v1/https%3A%2F%2Fthejm.netx.net%2Ffile%2Fasset%2F31248%2Fview%2F56928%2Fview_56928%3Ftoken%3D921831d3-ee56-4e60-a489-5c285b802e1e",
+    "title": "The Book of Mechtilde (page)",
+    "year": 1995,
+    "page": "https://collections.thejewishmuseum.org/collection/29471-the-book-of-mechtilde"
+   }
+  ]
+ },
+ {
+  "name": "O'Neil Lawrence",
+  "found": false,
+  "identity_note": "Skipped: identity fine (Jamaican photographer/NGJ Chief Curator, solo show Son of a Champion, Mutual Gallery 2012) but no direct image of his work was reachable; the review page (petrinearcher.com) and curator bio pages gave none, and his work is largely self-portraiture.",
+  "images": []
+ },
+ {
+  "name": "Jaime Lee Loy",
+  "found": true,
+  "identity_note": "Artist's own site jaimeleeloy.com ('The Unfamiliar'): UWI Literature & Visual Arts graduate, Trinidad residencies/exhibitions (Alice Yard, Medulla), photo/video/installation; signed works. Spelling on list matches site.",
+  "images": [
+   {
+    "img": "https://jaimeleeloy.com/wp-content/uploads/2016/07/IMG_0837.jpg",
+    "title": "The Roach (Roaches and Flowers: War in the Home)",
+    "year": 2007,
+    "page": "https://jaimeleeloy.com/?page_id=380"
+   },
+   {
+    "img": "https://jaimeleeloy.com/wp-content/uploads/2016/07/BETTY-AND-HOUSE.jpg",
+    "title": "Betty and House (Betty series)",
+    "year": null,
+    "page": "https://jaimeleeloy.com/?page_id=331"
+   },
+   {
+    "img": "https://jaimeleeloy.com/wp-content/uploads/2016/07/IMG_5286.jpg",
+    "title": "Still",
+    "year": null,
+    "page": "https://jaimeleeloy.com/?page_id=321"
+   }
+  ]
+ },
+ {
+  "name": "Pierre Pascal \"Pasko\" Merisier",
+  "found": true,
+  "identity_note": "Africanah.org profile 'Pasko, Haiti' (born Petion-Ville 1974, Pierre Pascal Merisier) and Indigo Arts page 'Pasko (Pierre Pascal Merisier)'; distinct from Emmanuel Merisier. Titles not given for most.",
+  "images": [
+   {
+    "img": "https://africanah.org/wp-content/uploads/2016/09/Pasko-Untitled.jpg",
+    "title": "Untitled",
+    "year": null,
+    "page": "https://africanah.org/pasko-haiti/"
+   },
+   {
+    "img": "https://africanah.org/wp-content/uploads/2016/09/Pasko4.jpg",
+    "title": null,
+    "year": null,
+    "page": "https://africanah.org/pasko-haiti/"
+   },
+   {
+    "img": "https://indigoarts.com/sites/default/files/styles/medium_sidespace/public/pasko_red-fish_crp.jpg?itok=8HAs1DgS",
+    "title": "Red Fish",
+    "year": null,
+    "page": "https://indigoarts.com/node/6754"
+   }
+  ]
+ },
+ {
+  "name": "Kishan Munroe",
+  "found": true,
+  "identity_note": "Nassau-born Bahamian artist; D'Aguilar Art Foundation artist page and Nassau Tribune coverage of his Swan Song of the Flamingo (NAGB 2013) and Beacon of Hope mural (2012). Studio portrait on bahamianproject.com skipped.",
+  "images": [
+   {
+    "img": "https://www.daguilarartfoundation.com/media/artist/1443555683_560ae963658d2_400.jpg",
+    "title": "Falling From Heaven I, II and III",
+    "year": 2010,
+    "page": "https://www.daguilarartfoundation.com/explore/artist/55/munroe_kishan.html"
+   },
+   {
+    "img": "https://thetribune.media.clients.ellingtoncms.com/img/photos/2013/03/13/Beacon_of_Hope_edited_Guardian.3_t670.jpg",
+    "title": "Beacon of Hope (mural)",
+    "year": 2012,
+    "page": "https://www.tribune242.com/news/2013/mar/13/art-reveals-spirit-people/"
+   },
+   {
+    "img": "https://thetribune.media.clients.ellingtoncms.com/img/photos/2015/07/15/painting_t670.jpg",
+    "title": "Swan Song of the Flamingo (painting)",
+    "year": 2013,
+    "page": "https://www.tribune242.com/news/2015/jul/15/art-depicting-flamingo-sinking-wins-uk-award"
+   }
+  ]
+ },
+ {
+  "name": "Ryan Oduber",
+  "found": false,
+  "identity_note": "Skipped: only a Wikidata mention; one search for an Aruban painter named Ryan Oduber found nothing, only unrelated Odubers. Identity unconfirmed.",
+  "images": []
+ },
+ {
+  "name": "Marcel Pinas",
+  "found": true,
+  "identity_note": "Smith-Davidson Gallery (Amsterdam/Miami) artist page for Marcel Pinas, Surinamese b.1971, Afaka-script paintings; matches Moengo artist.",
+  "images": [
+   {
+    "img": "https://static-assets.artlogic.net/w_1000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/lesliesmith/images/view/fbba9a4dded54415841fbc27598e12d2j/smithdavidsongallery-marcel-pinas-afaka-tembe-2014.jpg",
+    "title": "Afaka/Tembe",
+    "year": 2014,
+    "page": "https://www.smith-davidson.com/artists/66-marcel-pinas/"
+   },
+   {
+    "img": "https://static-assets.artlogic.net/w_1000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/lesliesmith/images/view/4a96f8eb183836f0f8d4eaa035711712j/smithdavidsongallery-marcel-pinas-afaka-buku-6-2014.jpg",
+    "title": "Afaka Buku 6",
+    "year": 2014,
+    "page": "https://www.smith-davidson.com/artists/66-marcel-pinas/"
+   },
+   {
+    "img": "https://static-assets.artlogic.net/w_1000,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/lesliesmith/images/view/80bb2765c6384198561a8aad5ea1d926j/smithdavidsongallery-marcel-pinas-afaka-writing-2022.jpg",
+    "title": "Afaka Writing",
+    "year": 2022,
+    "page": "https://www.smith-davidson.com/artists/66-marcel-pinas/"
+   }
+  ]
+ },
+ {
+  "name": "Oneika Russell",
+  "found": true,
+  "identity_note": "Africanah.org profile 'Oneika Russell' (Jamaican, Edna Manley College, 'Preservations' installation 2015). Third image is an unlabelled work on the same page.",
+  "images": [
+   {
+    "img": "https://africanah.org/wp-content/uploads/2016/08/OneikaRussellPreservation20151.jpg",
+    "title": "Preservations",
+    "year": 2015,
+    "page": "https://africanah.org/oneika-russell/"
+   },
+   {
+    "img": "https://africanah.org/wp-content/uploads/2016/08/OneikaRussellPreservation2015.jpg",
+    "title": "Preservations",
+    "year": 2015,
+    "page": "https://africanah.org/oneika-russell/"
+   },
+   {
+    "img": "https://africanah.org/wp-content/uploads/2016/08/OneikaRussell2.jpg",
+    "title": null,
+    "year": null,
+    "page": "https://africanah.org/oneika-russell/"
+   }
+  ]
+ },
+ {
+  "name": "Philippe Thomarel",
+  "found": true,
+  "identity_note": "Fondation Clement (Martinique) exhibition page 'Philippe Thomarel | X-Ray Territories' (Aug-Sep 2014); Guadeloupean painter (bridges, portraits) matches list notes. Titles not given.",
+  "images": [
+   {
+    "img": "https://www.fondation-clement.org/wp-content/uploads/2024/06/THOMAREL-PHILIPPE-5_D.jpg",
+    "title": null,
+    "year": null,
+    "page": "https://www.fondation-clement.org/en/expositions/philippe-thomarel-x-ray-territories/"
+   },
+   {
+    "img": "https://www.fondation-clement.org/wp-content/uploads/2024/06/THOMAREL-PHILIPPE-6_D.jpg",
+    "title": null,
+    "year": null,
+    "page": "https://www.fondation-clement.org/en/expositions/philippe-thomarel-x-ray-territories/"
+   },
+   {
+    "img": "https://www.fondation-clement.org/wp-content/uploads/2024/06/THOMAREL-PHILIPPE-4_D.jpg",
+    "title": null,
+    "year": null,
+    "page": "https://www.fondation-clement.org/en/expositions/philippe-thomarel-x-ray-territories/"
+   }
+  ]
+ },
+ {
+  "name": "Noel Vaucrosson",
+  "found": false,
+  "identity_note": "Skipped: one search for 'Noel Vaucrosson' Trinidad artist returned nothing for this name (only Michel-Jean Cazabon); spelling variant could not be verified.",
+  "images": []
+ }
+]
