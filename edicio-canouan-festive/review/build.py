@@ -122,6 +122,16 @@ for a in artists:
     a["works"] = [w for w in (a.get("works") or []) if isinstance(w, dict) and w.get("title")][:3]
     if not a.get("origin"): a["origin"] = a.get("country", "")
 
+BIG = re.compile(r"victoria miro|zwirner|hauser|michael werner|thomas dane|lisson|gladstone|james cohan|luhring|marlborough|stephen friedman|tanya bonakdar|nicola vassell|mariane ibrahim|petzel|goodman|continua|lelong|shainman|sean kelly|pace|gagosian|white cube|perrotin|kurimanzutto|chantal crousel|tilton", re.I)
+EDITION = re.compile(r"photo|print|digital|paper|drawing|collage|lithograph|etching|screen|engraving|woodcut|ink|watercolou?r", re.I)
+LESILES = {"Suchitra Mattai", "Yermine Richardson", "Elladj Lincy Deloumeaux", "Morel Doucet", "Errol Brewster"}
+for a in artists:
+    a["newPics"] = any(re.search(r"-p\d\.jpg$", x["src"]) for x in a.get("imgs", []))
+    a["photographer"] = bool(re.search(r"photo", a.get("medium") or "", re.I))
+    a["editionReady"] = bool(EDITION.search(a.get("medium") or "")) or a.get("editions") in ("yes", "some")
+    a["bigGallery"] = bool(BIG.search(a.get("gallery") or ""))
+    a["anjeni"] = "lesiles" if (a["name"] in LESILES or "lesiles" in a["pools"]) else "mustique" if "mustique" in a["pools"] else "maybe" if a["name"] == "Mark King" else ""
+
 for a in artists:
     a["countryKey"] = country_key(a["origin"] or a["country"])
     a["hay"] = " ".join(str(a.get(k, "")) for k in ("name", "country", "origin", "residence", "medium", "gallery", "note")).lower()

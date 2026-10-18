@@ -122,6 +122,8 @@ details.master .row { background: transparent; }
 .seg button[aria-pressed="true"][data-v="maybe"] { background: var(--maybe-bg); color: var(--maybe); }
 .seg button[aria-pressed="true"][data-v="no"] { background: var(--no-bg); color: var(--no); }
 .seg button:disabled { cursor: default; opacity: .6; }
+.rank { font: 12.5px var(--font-body); color: var(--muted); display: inline-flex; gap: 6px; align-items: center; }
+.rank input { width: 56px; font: 500 13px var(--font-mono); color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 4px 6px; }
 .notebtn { border: 0; background: none; color: var(--accent); font: 12.5px var(--font-body); cursor: pointer; padding: 2px 0; }
 .mynote { grid-column: 1 / -1; display: flex; gap: 8px; align-items: flex-start; }
 .mynote textarea { flex: 1; min-width: 0; font: 13.5px/1.4 var(--font-body); color: var(--ink); background: var(--bg); border: 1px solid var(--line); border-radius: 8px; padding: 8px; resize: vertical; min-height: 56px; }
@@ -169,7 +171,11 @@ details.master .row { background: transparent; }
         <option value="abroad">Lives abroad (US, Europe…)</option>
         <option value="unknown">Residence not known</option>
       </select>
-      <label class="chk af"><input type="checkbox" id="edonly"> Makes editions</label>
+      <label class="chk af"><input type="checkbox" id="newpics"> New photos only</label>
+      <label class="chk af"><input type="checkbox" id="edonly"> Edition-ready</label>
+      <label class="chk af"><input type="checkbox" id="photo"> Photographers</label>
+      <label class="chk af"><input type="checkbox" id="noanjeni" checked> Hide Anjeni's artists</label>
+      <label class="chk af"><input type="checkbox" id="nobig"> Hide big-gallery artists</label>
       <label class="chk af"><input type="checkbox" id="unpicked"> Not yet rated</label>
       <span class="count" id="count"></span>
     </div>
@@ -212,7 +218,11 @@ details.master .row { background: transparent; }
     const pool = $("pool").value; if (pool && !a.pools.includes(pool)) return false;
     const c = $("country").value; if (c && a.countryKey !== c) return false;
     const lv = $("lives").value; if (lv && (a.livesRegion || "unknown") !== lv && !(lv !== "unknown" && a.livesRegion === "both")) return false;
-    if ($("edonly").checked && !(a.editions === "yes" || a.editions === "some")) return false;
+    if ($("newpics").checked && !a.newPics) return false;
+    if ($("edonly").checked && !a.editionReady) return false;
+    if ($("photo").checked && !a.photographer) return false;
+    if ($("noanjeni").checked && a.anjeni) return false;
+    if ($("nobig").checked && a.bigGallery) return false;
     if ($("unpicked").checked && picks[a.id]?.status) return false;
     return true;
   }
@@ -244,10 +254,12 @@ details.master .row { background: transparent; }
 
   function pickHtml(id) {
     const st = picks[id]?.status || "";
+    const rank = tab === "shortlist" && (st === "yes" || st === "absolutely") && canWrite
+      ? `<label class="rank">Priority <input type="number" min="1" max="99" id="rank-${id}" value="${picks[id]?.rank || ""}" aria-label="Priority, 1 is first"></label>` : "";
     const dis = canWrite ? "" : " disabled";
     const btns = RATINGS.map(([v, label]) => `<button type="button" data-v="${v}" aria-pressed="${st === v}"${dis}>${label}</button>`).join("");
     return `<div class="pick"><div class="seg" role="group" aria-label="Rating">${btns}</div>` +
-      (canWrite ? `<button type="button" class="notebtn" data-act="note">${picks[id]?.note ? "Edit note" : "Add note"}</button>` : "") + `</div>`;
+      (canWrite ? `<button type="button" class="notebtn" data-act="note">${picks[id]?.note ? "Edit note" : "Add note"}</button>` : "") + rank + `</div>`;
   }
 
   function placeHtml(a) {
@@ -264,7 +276,10 @@ details.master .row { background: transparent; }
     for (const t of a.tags || []) chips.push(`<span class="chip ${t.cls || ""}">${esc(t.label)}</span>`);
     if (a.living === "deceased") chips.push(`<span class="chip">died${a.died ? " " + esc(a.died) : ""}</span>`);
     if (a.living === "unknown") chips.push(`<span class="chip warn">living status to check</span>`);
-    if (a.editions === "yes" || a.editions === "some") chips.push(`<span class="chip ed">makes editions</span>`);
+    if (a.anjeni) chips.push(`<span class="chip warn">${a.anjeni === "lesiles" ? "Anjeni's gallery (LES ÎLES)" : a.anjeni === "mustique" ? "Mustique show: Anjeni's artist" : "possible LES ÎLES link"}</span>`);
+    if (a.bigGallery) chips.push(`<span class="chip warn">major gallery</span>`);
+    if (a.editionReady) chips.push(`<span class="chip ed">${a.photographer ? "photographer" : "edition-ready"}</span>`);
+    if (a.newPics) chips.push(`<span class="chip">new photos</span>`);
     for (const pl of a.pools) chips.push(`<span class="chip pool">${POOL_LABEL[pl]}</span>`);
     const ageTxt = a.living === "deceased" ? (a.life ? a.life : "") : (a.age ? `${a.age}` : "age ?");
     const meta = [esc(a.medium), a.gallery ? esc(a.gallery) : ""].filter(Boolean).join(" · ");
@@ -307,8 +322,10 @@ details.master .row { background: transparent; }
       $("list").innerHTML = rows.map(advisorRow).join("") || `<p class="empty">No advisors match.</p>`;
       master.hidden = true; $("count").textContent = `${rows.length} shown`;
     } else if (tab === "shortlist") {
-      const rows = ARTISTS.filter(filtersPass).sort((x, y) => RANK[picks[x.id].status] - RANK[picks[y.id].status]);
-      $("main-head").innerHTML = `<h2>My ratings</h2><p>Absolutely, then Yes, then Maybe.</p>`;
+      const rk = a => Number(picks[a.id].rank) || 999;
+      const rows = ARTISTS.filter(filtersPass).sort((x, y) => rk(x) - rk(y) || RANK[picks[x.id].status] - RANK[picks[y.id].status]);
+      const top = ARTISTS.filter(a => ["yes", "absolutely"].includes(picks[a.id]?.status)).length;
+      $("main-head").innerHTML = `<h2>My ratings</h2><p>${top} rated Yes or Absolutely (aim: 30). Give each a priority number, 1 first; ranked artists sort to the top.</p>`;
       $("list").innerHTML = rows.map(artistRow).join("") || `<p class="empty">Nothing rated yet. Rate artists Maybe, Yes or Absolutely in the Artists view.</p>`;
       master.hidden = true; $("count").textContent = `${rows.length} shown`;
     } else {
@@ -343,7 +360,7 @@ details.master .row { background: transparent; }
     try {
       const rec = ARTISTS.find(a => a.id === id) || ADVISORS.find(a => a.id === id);
       await db.collection("picks").doc(id).set({
-        status: next.status || "", note: next.note || "", name: rec ? rec.name : id,
+        status: next.status || "", note: next.note || "", rank: Number(next.rank) || null, name: rec ? rec.name : id,
         kind: ADVISORS.some(a => a.id === id) ? "advisor" : "artist", updatedAt: new Date().toISOString()
       });
       $("sync").textContent = "Saved.";
@@ -369,6 +386,11 @@ details.master .row { background: transparent; }
       ta.addEventListener("blur", () => { if (ta.value.trim() !== (picks[id]?.note || "")) save(id, { note: ta.value.trim() }); else render(); });
     }
   }
+  $("list").addEventListener("change", ev => {
+    const inp = ev.target.closest('input[id^="rank-"]'); if (!inp) return;
+    const id = inp.id.slice(5), v = Number(inp.value) || null;
+    if (v !== (Number(picks[id]?.rank) || null)) save(id, { rank: v });
+  });
   $("list").addEventListener("click", onListClick);
   $("list-master").addEventListener("click", onListClick);
   $("master").addEventListener("toggle", render);
@@ -378,7 +400,7 @@ details.master .row { background: transparent; }
     document.querySelectorAll(".tab").forEach(x => x.setAttribute("aria-pressed", String(x === t)));
     render();
   }));
-  ["q", "pool", "country", "lives", "edonly", "unpicked"].forEach(id => $(id).addEventListener("input", render));
+  ["q", "pool", "country", "lives", "newpics", "edonly", "photo", "noanjeni", "nobig", "unpicked"].forEach(id => $(id).addEventListener("input", render));
 
   render();
 
@@ -389,9 +411,9 @@ details.master .row { background: transparent; }
       for (const k of Object.keys(picks)) delete picks[k];
       for (const d of snap.docs) {
         const v = d.data() || {};
-        picks[d.id] = { status: LEGACY[v.status] || v.status || "", note: v.note || "" };
+        picks[d.id] = { status: LEGACY[v.status] || v.status || "", note: v.note || "", rank: v.rank || null };
       }
-      const focused = document.activeElement && document.activeElement.tagName === "TEXTAREA";
+      const focused = document.activeElement && ["TEXTAREA", "INPUT"].includes(document.activeElement.tagName) && document.activeElement.id !== "q";
       if (!focused) render(); else tally();
       $("sync").textContent = `${snap.size} saved rating${snap.size === 1 ? "" : "s"}.`;
     }, () => { $("sync").textContent = "Couldn't load saved ratings. Reload the page to try again."; });

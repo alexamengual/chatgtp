@@ -13,6 +13,7 @@ to Z of Caribbean Art* and the Mustique art show. Last updated 17 Oct 2026.
 | `advisors.md` | The book's editors, 18 regional advisors and 29 writers as potential advisors, with current roles |
 | `mustique.md` | The Mustique Caribbean Contemporary Art Show: editions, juries, every artist, Anjeni's gallery LES ÎLES |
 | `data/az-artists.json` | The A to Z data (country, dates, medium, website, Instagram, gallery, editions, sources) |
+| Concept doc | EDICIÓ × Canouan: the Festive Edition (concept, Canouan pitch, artist offer, timeline, residency): https://claude.ai/code/artifact/610b2eb6-cde9-40d4-965d-e7911f666559 |
 | `review/` | The review page: https://claude.ai/artifact/UT6nBSXukBkr9e1BPGczWp (picks save to its database). Rebuild with `python3 -I review/build.py` |
 
 Scott's original research is in Alex OS:
