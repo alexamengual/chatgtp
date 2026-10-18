@@ -175,7 +175,7 @@ details.master .row { background: transparent; }
       <label class="chk af"><input type="checkbox" id="edonly"> Edition-ready</label>
       <label class="chk af"><input type="checkbox" id="photo"> Photographers</label>
       <label class="chk af"><input type="checkbox" id="noanjeni" checked> Hide Anjeni's gallery artists</label>
-      <label class="chk af"><input type="checkbox" id="nomustique"> Hide Mustique show artists</label>
+      <label class="chk af"><input type="checkbox" id="nomustique" checked> Hide Mustique show artists</label>
       <label class="chk af"><input type="checkbox" id="nobig"> Hide big-gallery artists</label>
       <label class="chk af"><input type="checkbox" id="unpicked"> Not yet rated</label>
       <span class="count" id="count"></span>
@@ -279,7 +279,7 @@ details.master .row { background: transparent; }
     if (a.living === "deceased") chips.push(`<span class="chip">died${a.died ? " " + esc(a.died) : ""}</span>`);
     if (a.living === "unknown") chips.push(`<span class="chip warn">living status to check</span>`);
     if (a.anjeni) chips.push(`<span class="chip warn">${a.anjeni === "lesiles" ? "Anjeni's gallery (LES ÎLES): avoid" : "possible LES ÎLES link"}</span>`);
-    if (a.mustique) chips.push(`<span class="chip">Mustique show: tread lightly</span>`);
+    if (a.mustique) chips.push(`<span class="chip">Mustique show: not this round</span>`);
     if (a.bigGallery) chips.push(`<span class="chip warn">major gallery</span>`);
     if (a.editionReady) chips.push(`<span class="chip ed">${a.photographer ? "photographer" : "edition-ready"}</span>`);
     if (a.newPics) chips.push(`<span class="chip">new photos</span>`);
