@@ -1,0 +1,376 @@
+[
+ {
+  "name": "Sargeant Brothers",
+  "found": false,
+  "identity_note": "Model-boat workshop in Port Elizabeth, Bequia (Yachting magazine, AFAR); craft rather than fine art and individuals not identified. Only usable image is a man holding a schooner model (https://www.yachtingmagazine.com/wp-content/uploads/2021/09/model_citizens.jpg?w=683, page https://www.yachtingmagazine.com/model-citizens-island-icon-bequia/), which is a portrait of an unnamed craftsman, so not included.",
+  "images": []
+ },
+ {
+  "name": "Nkuru Dyer",
+  "found": false,
+  "identity_note": "Skipped: web search returned nothing for this name (only unrelated Dyers); likely misspelling, cannot verify identity.",
+  "images": []
+ },
+ {
+  "name": "Romario Martindale",
+  "found": false,
+  "identity_note": "Skipped: search returned nothing for this name or a Bequia painter; likely misspelling, cannot verify identity.",
+  "images": []
+ },
+ {
+  "name": "Peace Memorial Hall mural team",
+  "found": false,
+  "identity_note": "Skipped: group/unnamed youth team, not an individual artist; no work images located (mural announced Feb 2026).",
+  "images": []
+ },
+ {
+  "name": "Anna Gibson",
+  "found": true,
+  "identity_note": "Artist's own site annagibson246.com (matches Barbadian painter, Instagram anner_er); images are paintings from her portfolio page.",
+  "images": [
+   {
+    "img": "https://static.wixstatic.com/media/8bc7e3_62eb0a91d238405eb2c2ad1c78079f3f~mv2.jpg/v1/fit/w_1600,h_1600,q_90/x.jpg",
+    "title": "Festering Fantasy (series; alt text on portfolio)",
+    "year": null,
+    "page": "https://www.annagibson246.com/reconstruction"
+   },
+   {
+    "img": "https://static.wixstatic.com/media/8bc7e3_6aa9adc674944efc9c0a1b71e20608d5~mv2.jpg/v1/fit/w_1600,h_1600,q_90/x.jpg",
+    "title": "Festering Fantasy (series; alt text on portfolio)",
+    "year": null,
+    "page": "https://www.annagibson246.com/reconstruction"
+   },
+   {
+    "img": "https://static.wixstatic.com/media/8bc7e3_44103d70d54943e49b0c087b2f131967~mv2.jpg/v1/fit/w_1600,h_1600,q_90/x.jpg",
+    "title": null,
+    "year": null,
+    "page": "https://www.annagibson246.com/"
+   }
+  ]
+ },
+ {
+  "name": "Akuzuru",
+  "found": false,
+  "identity_note": "Identity confirmed as Trinidadian performance artist Akuzuru (PAMM Miami 2014 procession; Alice Yard Shop artist list), but no direct loadable image of her sculpture/drawing/installation found; the only photos found are procession performance shots (Caribbean Journal) that were hotlink-blocked.",
+  "images": []
+ },
+ {
+  "name": "Ewan Atkinson",
+  "found": true,
+  "identity_note": "Fresh Milk Barbados TENDER 2024 grantee page for Ewan Atkinson (b. Barbados 1975, BFA coordinator Barbados Community College; also Small Axe SX 46 portfolio). Original search note said nothing found; he is findable. Works are illustrative/board-game/poster style pieces from The Neighbourhood Project.",
+  "images": [
+   {
+    "img": "https://freshmilkbarbados.com/wp-content/uploads/2025/05/atkinson-ewan_9.jpeg",
+    "title": "Peregrination",
+    "year": null,
+    "page": "https://freshmilkbarbados.com/projects/tender/tender-grantees-2024-interviews/ewan-atkinson/"
+   },
+   {
+    "img": "https://freshmilkbarbados.com/wp-content/uploads/2025/05/atkinson-ewan_yes-we-have-no-bananas.jpeg",
+    "title": "Yes we have no bananas",
+    "year": null,
+    "page": "https://freshmilkbarbados.com/projects/tender/tender-grantees-2024-interviews/ewan-atkinson/"
+   },
+   {
+    "img": "https://freshmilkbarbados.com/wp-content/uploads/2025/05/atkinson-ewan_the-magnificent-wigwam-to-wind-up-the-moon.jpeg",
+    "title": "The Magnificent Wigwam to Wind up The Moon",
+    "year": null,
+    "page": "https://freshmilkbarbados.com/projects/tender/tender-grantees-2024-interviews/ewan-atkinson/"
+   }
+  ]
+ },
+ {
+  "name": "Ras Ishi Butcher",
+  "found": true,
+  "identity_note": "Caribbean Beat 'Artbeat' article on Ras Ishi Butcher (Barbados), captions name the works. Images are small (about 250-480 px wide).",
+  "images": [
+   {
+    "img": "https://www.caribbean-beat.com/wp-content/uploads/Artbeat-10-4.jpg",
+    "title": "Predators",
+    "year": null,
+    "page": "https://www.caribbean-beat.com/?p=253"
+   },
+   {
+    "img": "https://www.caribbean-beat.com/wp-content/uploads/Artbeat-10-5.jpg",
+    "title": "Ital Princess",
+    "year": 1987,
+    "page": "https://www.caribbean-beat.com/?p=253"
+   },
+   {
+    "img": "https://www.caribbean-beat.com/wp-content/uploads/Artbeat-10-2.jpg",
+    "title": "Lily of the Valley Four",
+    "year": null,
+    "page": "https://www.caribbean-beat.com/?p=253"
+   }
+  ]
+ },
+ {
+  "name": "James Cooper",
+  "found": true,
+  "identity_note": "Bermuda's James Cooper: Africanah.org 'Jamaica Biennial: James Cooper' page (artist statement about islanders/horizon, sculptural photographs); Royal Gazette confirms the Bermudian James Cooper exhibited in the Jamaica Biennial and works in photography/sculpture. Medium in the list was blank; it is photography/sculpture. Moderate-high confidence (page itself does not say Bermuda).",
+  "images": [
+   {
+    "img": "https://africanah.org/wp-content/uploads/2014/11/JamesCooper12014.jpg",
+    "title": "Untitled (horizon series)",
+    "year": 2014,
+    "page": "https://africanah.org/jamaica-biennial-james-cooper"
+   },
+   {
+    "img": "https://africanah.org/wp-content/uploads/2014/11/JamesCooper22014.jpg",
+    "title": "Untitled (horizon series)",
+    "year": 2014,
+    "page": "https://africanah.org/jamaica-biennial-james-cooper"
+   },
+   {
+    "img": "https://africanah.org/wp-content/uploads/2014/11/JamesCooper62012.jpg",
+    "title": "Untitled (underwater sculpture photograph)",
+    "year": 2012,
+    "page": "https://africanah.org/jamaica-biennial-james-cooper"
+   }
+  ]
+ },
+ {
+  "name": "Davin K. Ebanks",
+  "found": true,
+  "identity_note": "National Gallery of the Cayman Islands pages for his Blue Meridian solo show / collection; Caymanian glass sculptor, works documented by the museum.",
+  "images": [
+   {
+    "img": "https://www.nationalgallery.org.ky/wp-content/uploads/2010/11/Davin-Ebanks-Blue-Meridian-80o-West-Old-Isaacs-2009-LEAD-IMAGE.jpg",
+    "title": "Blue Meridian: 80 W, Old Isaac's",
+    "year": 2009,
+    "page": "https://nationalgallery.org.ky/whats-on/exhibitions/blue-meridian"
+   },
+   {
+    "img": "https://www.nationalgallery.org.ky/wp-content/uploads/2020/04/Ebanks-Davin_Parted-the-Antilles-Current-Meridian-81-degrees-West-Cast-and-blown-Glass-2006.jpg",
+    "title": "Parted, the Antilles Current... Meridian: 81 degrees West (cast and blown glass)",
+    "year": 2006,
+    "page": "https://www.nationalgallery.org.ky/collection-piece/parted-the-antilles-currentmeridian-81-degrees-west-davin-ebanks/"
+   },
+   {
+    "img": "https://www.nationalgallery.org.ky/wp-content/uploads/2010/11/Davin-Ebanks-Old-Pease-Bay-Wind-ESE-Low-Tide-2009.jpg",
+    "title": "Old Pease Bay, Wind ESE, Low Tide",
+    "year": 2009,
+    "page": "https://www.nationalgallery.org.ky/collection-piece/old-pease-bay-wind-ese-low-tide-davin-ebanks/"
+   }
+  ]
+ },
+ {
+  "name": "Marlon Griffith",
+  "found": true,
+  "identity_note": "Caribbean Beat feature 'Marlon Griffith: mas by other means' (Trinidadian, Port of Spain-born); captions name the works. Images are small (504 px wide). His practice is mostly performance, so only these two photo/installation views were usable.",
+  "images": [
+   {
+    "img": "https://www.caribbean-beat.com/wp-content/uploads/2013/10/028_closeup119.jpg",
+    "title": "Powder Box, Schoolgirls series",
+    "year": 2009,
+    "page": "https://www.caribbean-beat.com/issue-119/marlon-griffith-mas-other-means"
+   },
+   {
+    "img": "https://www.caribbean-beat.com/wp-content/uploads/2013/10/029_closeup119.jpg",
+    "title": "Bess Ting, Soldier, Queen, and Baby Girl, from The Ballad of Francisco Bobadilla (installed at Granderson Lab, Belmont)",
+    "year": 2012,
+    "page": "https://www.caribbean-beat.com/issue-119/marlon-griffith-mas-other-means"
+   }
+  ]
+ },
+ {
+  "name": "Kcho",
+  "found": true,
+  "identity_note": "Official studio site kchostudio.com (Alexis Leyva Machado, Cuba); images are from the artworks pages.",
+  "images": [
+   {
+    "img": "https://images.ctfassets.net/ojze3rw5czio/kxzRjQXUr6wVASmQqtzaW/4f6f6817cd576926e245e432aa315d8d/camino_de_la_nostalgia.jpg?w=1600&fm=jpg",
+    "title": "El camino de la nostalgia",
+    "year": null,
+    "page": "https://www.kchostudio.com/artworks/el-camino-de-la-nostalgia"
+   },
+   {
+    "img": "https://images.ctfassets.net/ojze3rw5czio/1SRJUChs4KI6DQ7nTkuWkC/bbd7a917ef251e3a0da4422c88b09326/Archipie%C3%8C_lago_de_mi_pensamiento__1997.__Reina_Sofi%C3%8C_a__2000..jpg?w=1600&fm=jpg",
+    "title": "Archipielago en mi pensamiento (Archipelago in my Thoughts), installed Palacio de Cristal, Madrid",
+    "year": 1997,
+    "page": "https://www.kchostudio.com/artworks/archipielago-en-mi-pensamiento-1997-kcho"
+   },
+   {
+    "img": "https://images.ctfassets.net/ojze3rw5czio/6Rq3UG5FdA8Utt0mFVjwDx/e8b0e3437d2eab326082205975894b59/Sin_titulo__oleo_sobr_lienzo__2026._200_x_300_cm.jpg?w=1600&fm=jpg",
+    "title": "Untitled (oil on canvas, 200 x 300 cm)",
+    "year": 2026,
+    "page": "https://www.kchostudio.com/artworks/untitled-2026-oil-on-canvas-200x300-cm"
+   }
+  ]
+ },
+ {
+  "name": "Daniel Lind-Ramos",
+  "found": true,
+  "identity_note": "Africanah.org artist page 'Daniel Lind-Ramos, Loiza, Puerto Rico' (bio matches: assemblage sculptor, Whitney Biennial 2019, Univ. of Puerto Rico at Humacao); captions/filenames give titles. Figura de Poder also at NGA (nga.gov/artworks/224013).",
+  "images": [
+   {
+    "img": "https://africanah.org/wp-content/uploads/2020/01/RamosFigura-de-Poder2017.jpg",
+    "title": "Figura de Poder",
+    "year": 2017,
+    "page": "https://africanah.org/daniel-lind-ramos/"
+   },
+   {
+    "img": "https://africanah.org/wp-content/uploads/2020/01/RamosMariaMaria2019.jpg",
+    "title": "Maria, Maria",
+    "year": 2019,
+    "page": "https://africanah.org/daniel-lind-ramos/"
+   },
+   {
+    "img": "https://africanah.org/wp-content/uploads/2020/01/Ramosvencedor-2017-2018.jpg",
+    "title": "Vencedor",
+    "year": 2018,
+    "page": "https://africanah.org/daniel-lind-ramos/"
+   }
+  ]
+ },
+ {
+  "name": "Tirzo Martha",
+  "found": true,
+  "identity_note": "Wikimedia Commons files titled 'Tirzo Martha - <work> (year)' with descriptions 'Sculptuur ... door Tirzo Martha' (Curacao artist, co-founder Instituto Buena Bista), CC BY-SA 4.0. Wikimedia thumb URLs returned HTTP 429 from this sandbox (shared-proxy throttling), so loadability is unverified here though they are standard Commons thumb URLs; Venus of Kawa was viewed earlier at 500px.",
+  "images": [
+   {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Tirzo_Martha_-_The_Venus_of_Kawa_Curacao_%282017%29.jpg/1280px-Tirzo_Martha_-_The_Venus_of_Kawa_Curacao_%282017%29.jpg",
+    "title": "The Venus of Kawa Curacao",
+    "year": 2017,
+    "page": "https://commons.wikimedia.org/wiki/File:Tirzo_Martha_-_The_Venus_of_Kawa_Curacao_(2017).jpg"
+   },
+   {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tirzo_Martha_-_Bonafide_%282017%29.jpg/1280px-Tirzo_Martha_-_Bonafide_%282017%29.jpg",
+    "title": "Bonafide",
+    "year": 2017,
+    "page": "https://commons.wikimedia.org/wiki/File:Tirzo_Martha_-_Bonafide_(2017).jpg"
+   },
+   {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tirzo_Martha_-_Caribbean_Ivory_Tower_%282020%29.jpg/1280px-Tirzo_Martha_-_Caribbean_Ivory_Tower_%282020%29.jpg",
+    "title": "Caribbean Ivory Tower",
+    "year": 2020,
+    "page": "https://commons.wikimedia.org/wiki/File:Tirzo_Martha_-_Caribbean_Ivory_Tower_(2020).jpg"
+   }
+  ]
+ },
+ {
+  "name": "Petrona Morrison",
+  "found": true,
+  "identity_note": "Veerle Poupeye's review of Petrona Morrison's 'New Works' solo show (Jamaica, 2019); captions name each work.",
+  "images": [
+   {
+    "img": "https://veerlepoupeye.com/wp-content/uploads/2019/09/petrona-morrison-id-series-i-2019.jpg",
+    "title": "ID Series I",
+    "year": 2019,
+    "page": "https://veerlepoupeye.com/2019/09/11/petrona-morrison-new-works/"
+   },
+   {
+    "img": "https://veerlepoupeye.com/wp-content/uploads/2019/09/petrona-morrison-id-series-iv-2019.jpg",
+    "title": "ID Series IV",
+    "year": 2019,
+    "page": "https://veerlepoupeye.com/2019/09/11/petrona-morrison-new-works/"
+   },
+   {
+    "img": "https://veerlepoupeye.com/wp-content/uploads/2019/09/petrona-morrison-cross-section-iii-from-the-mapping-series-2017.jpg",
+    "title": "Cross Section III (from the Mapping series)",
+    "year": 2017,
+    "page": "https://veerlepoupeye.com/2019/09/11/petrona-morrison-new-works/"
+   }
+  ]
+ },
+ {
+  "name": "Wendy Nanan",
+  "found": true,
+  "identity_note": "Wasafiri essay 'Syncretic Spaces: on Wendy Nanan' (Olga U. Herrera); captions credit the works to Wendy Nanan, Trinidad. Papier-mache and oil sculptures.",
+  "images": [
+   {
+    "img": "https://wasafiri.org/wp-content/uploads/2022/08/olga-marriage.jpg",
+    "title": "Idyllic Marriage",
+    "year": 1990,
+    "page": "https://wasafiri.org/content/syncretic-spaces-on-wendy-nanan-by-olga-u-herrera/"
+   },
+   {
+    "img": "https://wasafiri.org/wp-content/uploads/2022/08/olga-bounc.jpg",
+    "title": "The Bounce",
+    "year": 2012,
+    "page": "https://wasafiri.org/content/syncretic-spaces-on-wendy-nanan-by-olga-u-herrera/"
+   },
+   {
+    "img": "https://wasafiri.org/wp-content/uploads/2022/08/olga-baby.png",
+    "title": "New Baby Krishna",
+    "year": 2020,
+    "page": "https://wasafiri.org/content/syncretic-spaces-on-wendy-nanan-by-olga-u-herrera/"
+   }
+  ]
+ },
+ {
+  "name": "Fausto Ortíz",
+  "found": false,
+  "identity_note": "Skipped: the only matching artist is Fausto Ortiz, Dominican photographer b. 1970 Santiago de los Caballeros (series Ciudad de las Sombras), but the list says painting, so identity/medium uncertain; no direct image URLs collected.",
+  "images": []
+ },
+ {
+  "name": "Nicolás Dumit Estévez Raful",
+  "found": true,
+  "identity_note": "Identity solid (8th Floor NYC page, Dominican-born Bronx performance artist). He is a performance/social-practice artist, so the only image found is a performance still of him in For Art's Sake with the apparatus (documentation, shows the artist). Use only if acceptable; no object/studio work found.",
+  "images": [
+   {
+    "img": "https://images.squarespace-cdn.com/content/v1/5bb3c259e666696f13768624/1544565387744-RAS5G5IBS9G933T4V3Y8/estevez_44-1024x683.jpg?format=1500w",
+    "title": "For Art's Sake (performance documentation, artist shown)",
+    "year": 2007,
+    "page": "https://the8thfloor.org/past-events-ii/nicolas-dumit-estevez-and-alicia-grullon-in-performance-sounds-of-slowness"
+   }
+  ]
+ },
+ {
+  "name": "Pascal Smarth",
+  "found": false,
+  "identity_note": "Skipped: search returned nothing for this name; no country/medium known; cannot identify.",
+  "images": []
+ },
+ {
+  "name": "Tonel",
+  "found": true,
+  "identity_note": "Massimo Ligreggi gallery artist page for Tonel (Havana-born Antonio Eligio Fernandez, based Vancouver); ink drawings from the On Gravity series (captioned). Images are large (about 1900x2560).",
+  "images": [
+   {
+    "img": "https://www.massimoligreggi.it/wp-content/uploads/2024/07/tonel08.jpg",
+    "title": "Old Player (from the series On Gravity), ink",
+    "year": null,
+    "page": "https://www.massimoligreggi.it/artists/tonel"
+   },
+   {
+    "img": "https://www.massimoligreggi.it/wp-content/uploads/2024/07/tonel09.jpg",
+    "title": "Nice Shoes (from the series On Gravity), ink",
+    "year": null,
+    "page": "https://www.massimoligreggi.it/artists/tonel"
+   },
+   {
+    "img": "https://www.massimoligreggi.it/wp-content/uploads/2024/07/tonel010.jpg",
+    "title": "Mocasines (from the series On Gravity), ink",
+    "year": null,
+    "page": "https://www.massimoligreggi.it/artists/tonel"
+   }
+  ]
+ },
+ {
+  "name": "Nick Whittle",
+  "found": true,
+  "identity_note": "Africanah.org essay on Nick Whittle (Barbados, 2019 'Other Lives' show; NCF caption confirms 'Four Women at Three Houses Spring (for Edna)' is his piece). Medium here is mixed-media/wood wall work and objects.",
+  "images": [
+   {
+    "img": "https://africanah.org/wp-content/uploads/2019/01/NickFourWomenatThreeHousesSpringfor-Edna2018.jpg",
+    "title": "Four Women at Three Houses Spring (for Edna)",
+    "year": 2018,
+    "page": "https://africanah.org/?p=36221"
+   },
+   {
+    "img": "https://africanah.org/wp-content/uploads/2019/01/NickMiddlePassage-HerStories2018.jpg",
+    "title": "Middle Passage - Her Stories",
+    "year": 2018,
+    "page": "https://africanah.org/?p=36221"
+   },
+   {
+    "img": "https://africanah.org/wp-content/uploads/2019/01/NickAgainstHerWill2018.jpg",
+    "title": "Against Her Will",
+    "year": 2018,
+    "page": "https://africanah.org/?p=36221"
+   }
+  ]
+ }
+]
