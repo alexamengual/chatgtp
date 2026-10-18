@@ -1,0 +1,321 @@
+[
+ {
+  "name": "Roland \"Scrapie\" Dopwell",
+  "found": false,
+  "identity_note": "Skipped: Vincentian carnival craftsman/metal sculptor; only press coverage (Searchlight 2022 photo of plaque presentation with other people), no artist site or gallery images of his work found.",
+  "images": []
+ },
+ {
+  "name": "Julie Savage Lea",
+  "found": false,
+  "identity_note": "Skipped: islands.com profile confirms a Virginia-born watercolour artist living in Bequia since 2005 (studio 'Mango Tree Cottage'), but no website or direct image of her paintings found within budget.",
+  "images": []
+ },
+ {
+  "name": "Camille Saunders-Musser",
+  "found": false,
+  "identity_note": "Skipped: search for the name and variants returned nothing relevant (only unrelated Musser/Saunders artists); identity unverifiable.",
+  "images": []
+ },
+ {
+  "name": "Brandon Best",
+  "found": false,
+  "identity_note": "Skipped: a Living Barbados profile ('The Bold Arrival of Brandon Best', young Barbadian oil-pastel/acrylic abstract artist, IG brandonkbest) probably matches, but the article now 404s and the only image found (Brandon-best-artist-593x730.jpg on the site's homepage) looks like a portrait; no artwork image obtainable.",
+  "images": []
+ },
+ {
+  "name": "Mark King",
+  "found": true,
+  "identity_note": "Confirmed own site markkingismarkings.com: bio states 'Mark King is a Barbadian, New York-based interdisciplinary artist'; CV lists Alice Yard (Trinidad) 2012 and Ateliers '89 (Aruba) residencies. Captions from the artist's project pages.",
+  "images": [
+   {
+    "img": "https://freight.cargo.site/t/original/i/dc7376b9567bb72db40efd7cba250d8072b8cf1e86ddbc08c93a666f03cea702/Evidence-of-Possibility-9_web.jpg",
+    "title": "The Antagonist (ceramic sculpture)",
+    "year": 2022,
+    "page": "https://markkingismarkings.com/Evidence-of-Possibility"
+   },
+   {
+    "img": "https://freight.cargo.site/t/original/i/12182109c8445f050eb6ca691ffa138af1bf1703627351ef381cb26ca38be13f/Evidence-of-Possibility-5_web.jpg",
+    "title": "LIFER (Barbados Sea Island Cotton garment with vintage Soviet-era pin)",
+    "year": 2023,
+    "page": "https://markkingismarkings.com/Evidence-of-Possibility"
+   },
+   {
+    "img": "https://freight.cargo.site/t/original/i/a28a4295aeed4e2b3d61431f9a37feed4919ffb4aee87b4720329bcc0beb4021/Science-Gallery-London---Thierry-Bal-1.jpg",
+    "title": "Look on me and be renewed (Science Gallery London; installation view, no people)",
+    "year": null,
+    "page": "https://markkingismarkings.com/Look-on-me-and-be-renewed"
+   }
+  ]
+ },
+ {
+  "name": "Deborah Anzinger",
+  "found": true,
+  "identity_note": "Confirmed own site deborahanzinger.com (Deborah Carroll Anzinger): Paintings, Sculpture and Installation sections; matches list works (Untitled Transmutation series).",
+  "images": [
+   {
+    "img": "https://images.squarespace-cdn.com/content/v1/6734b3efd8aea5007258d211/f02212d4-cb9e-457f-8953-aeded2303a7b/1.jpg?format=1500w",
+    "title": "Untitled Transmutations (paintings 2022-present)",
+    "year": 2022,
+    "page": "https://www.deborahanzinger.com/paintings"
+   },
+   {
+    "img": "https://images.squarespace-cdn.com/content/v1/6734b3efd8aea5007258d211/35967df9-1c52-4c2c-9222-b0f9a109c6a4/2019_05_06_ICA_Deborah_Anzinger_W-39.jpg?format=1500w",
+    "title": "Paintings (2016-2019); framed work, ICA 2019 exhibition view",
+    "year": 2019,
+    "page": "https://www.deborahanzinger.com/paintings"
+   },
+   {
+    "img": "https://images.squarespace-cdn.com/content/v1/6734b3efd8aea5007258d211/7e33f171-58c9-4a72-b7c2-881347a1766c/2.Anzinger-0984.jpg?format=1500w",
+    "title": "Sculpture and installation (2016-present)",
+    "year": null,
+    "page": "https://www.deborahanzinger.com/sculpture-and-installation"
+   }
+  ]
+ },
+ {
+  "name": "Edward Bowen",
+  "found": true,
+  "identity_note": "Confirmed own site edwardbowen.com (Trinidad painter/draughtsman; links to Y Art Gallery TT, 'the jumbie killer' series); image captions are the titles on the site's gallery.",
+  "images": [
+   {
+    "img": "https://edwardbowen.com/wp-content/uploads/2024/04/eB1-scaled.jpg",
+    "title": "Gaia Compass",
+    "year": null,
+    "page": "https://edwardbowen.com/index.php/project-2/"
+   },
+   {
+    "img": "https://edwardbowen.com/wp-content/uploads/2024/04/eB5-scaled.jpg",
+    "title": "The Birthing Chamber I",
+    "year": null,
+    "page": "https://edwardbowen.com/index.php/project-2/"
+   },
+   {
+    "img": "https://edwardbowen.com/wp-content/uploads/2024/04/eB10-scaled.jpg",
+    "title": "Return to Phoenix Park",
+    "year": null,
+    "page": "https://edwardbowen.com/index.php/project-2/"
+   }
+  ]
+ },
+ {
+  "name": "Dudley Charles",
+  "found": true,
+  "identity_note": "Guyanese painter (b. 1945, self-taught, lives in Maryland), per Stabroek News/Vanderbilt; NOTE the list file says Trinidad and Tobago but all sources say Guyana (consistent with the instruction hint). Images are captioned 'Study, Anancy Story, 1980. Dudley Charles' in a Kaieteur News reprint of a Catholic Standard review of his 1980 'Images' show. I could not download the files (site returned HTTP 429 to my client) but the URLs are taken from the page's own img/og:image tags.",
+  "images": [
+   {
+    "img": "https://kaieteurnewsonline.com/images/2013/07/Study-Anancy-Story-1980-h.jpg",
+    "title": "Study, Anancy Story",
+    "year": 1980,
+    "page": "https://kaieteurnewsonline.com/2013/07/07/of-political-substance-assassins-of-conversation-2/"
+   },
+   {
+    "img": "https://kaieteurnewsonline.com/images/2013/07/Study-Anancy-Story-1980-k.jpg",
+    "title": "Study, Anancy Story (second study)",
+    "year": 1980,
+    "page": "https://kaieteurnewsonline.com/2013/07/07/of-political-substance-assassins-of-conversation-2/"
+   }
+  ]
+ },
+ {
+  "name": "Polibio Díaz",
+  "found": true,
+  "identity_note": "Dominican photographer/performance artist b. 1952 Barahona (Diario Libre, ArteInformado). Own site polibiodiaz.com is offline (only a 2012 archive.org snapshot, not reachable). One image from a Diario Libre article whose meta caption reads 'Obra del fotografo dominicano Polibio Diaz' for the 2026 Photoimagen show 'El Prado en el centro'. Only 1 usable image found.",
+  "images": [
+   {
+    "img": "https://resources.diariolibre.com/images/2026/08/06/exposicion-en-museo-bellapart-iniciara-el-festival-photoimagen-6d69a6ef-focus-min0.01-0.44-1200-675.png",
+    "title": "Work for 'El Prado en el centro: fotografia y memoria' (Museo Bellapart, Photoimagen 2026)",
+    "year": null,
+    "page": "https://www.diariolibre.com/revista/cultura/2026/08/05/exposicion-en-museo-bellapart-iniciara-el-festival-photoimagen/3620970"
+   }
+  ]
+ },
+ {
+  "name": "Lawrence Graham-Brown",
+  "found": true,
+  "identity_note": "Jamaica-born, NY/NJ-based (Kolaj Magazine directory entry 'Lawrence Brown': born and raised in Jamaica, lives NY/NJ, site lawrencegrahambrown.com; Wikipedia 'Lawrence Graham-Brown' Jamaican-American). NOTE: lawrencegrahambrown.com now serves a spam/gambling page, so not used. Captions from Kolaj.",
+  "images": [
+   {
+    "img": "https://kolajmagazine.com/artistdirectory/wp-content/uploads/2012/08/lawrence-brown-Abeng.jpg",
+    "title": "Abeng, 'Batty Man Time Now' (collage, 24x36 in)",
+    "year": 2009,
+    "page": "https://kolajmagazine.com/artistdirectory/lawrence-brown"
+   },
+   {
+    "img": "https://kolajmagazine.com/artistdirectory/wp-content/uploads/2012/08/lawrence-brown-2.jpg",
+    "title": "Ras Pan Afro Homo Sapien (mixed-media collage, assemblage)",
+    "year": 2011,
+    "page": "https://kolajmagazine.com/artistdirectory/lawrence-brown"
+   }
+  ]
+ },
+ {
+  "name": "Barbara Jardine",
+  "found": true,
+  "identity_note": "V&A collection record O153027 'The Warrior Bracelet', made by 'Jardine, Barbara' 1974 (ebony, silver, beetle shell, tourmalines, garnet); matches Trinidadian jeweller (RCA/Central, 1974; Caribbean Beat). Images (c) V&A/Barbara Jardine via V&A IIIF. Note: it is ebony not turtle shell, and the bracelet title is 'Warrior'.",
+  "images": [
+   {
+    "img": "https://framemark.vam.ac.uk/collections/2006BG6726/full/1000,/0/default.jpg",
+    "title": "The Warrior Bracelet",
+    "year": 1974,
+    "page": "https://collections.vam.ac.uk/item/O153027/"
+   },
+   {
+    "img": "https://framemark.vam.ac.uk/collections/2006BG6724/full/1000,/0/default.jpg",
+    "title": "The Warrior Bracelet (open view)",
+    "year": 1974,
+    "page": "https://collections.vam.ac.uk/item/O153027/"
+   }
+  ]
+ },
+ {
+  "name": "Dubréus Lhérisson",
+  "found": true,
+  "identity_note": "Haitian sequin/Vodou-flag artist (b. Cap-Haitien 1971, Bel Air), represented by Galerie Monnin; also Berlin Biennale 12, Tampa Museum, Indigo Arts. Titles from gallery filenames.",
+  "images": [
+   {
+    "img": "https://static-assets.artlogic.net/w_750,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/galeriemonnin/images/view/da3a72fe114b74fd0f0862998c675477j/galeriemonnin-dubreus-lherisson-floating-2022.jpg",
+    "title": "Floating",
+    "year": 2022,
+    "page": "https://www.galeriemonnin.com/artists/34/works/"
+   },
+   {
+    "img": "https://static-assets.artlogic.net/w_750,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/galeriemonnin/images/view/bb5b1693f53fb7e174ca256daff09109j/galeriemonnin-dubreus-lherisson-skull-2023.jpg",
+    "title": "Skull",
+    "year": 2023,
+    "page": "https://www.galeriemonnin.com/artists/34/works/"
+   },
+   {
+    "img": "https://static-assets.artlogic.net/w_750,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/galeriemonnin/images/view/315318a9ced8e1905dc1cdbc1907e548j/galeriemonnin-dubreus-lherisson-queen-2020.jpg",
+    "title": "Queen",
+    "year": 2020,
+    "page": "https://www.galeriemonnin.com/artists/34/works/"
+   }
+  ]
+ },
+ {
+  "name": "Elvis López",
+  "found": false,
+  "identity_note": "Skipped: Aruban artist/curator, founder of Ateliers '89 (knighted 2019) is well documented (Bahamar festival bio), but no image of his own artwork found; search results for the name mostly return other Lopezes.",
+  "images": []
+ },
+ {
+  "name": "Madsen Mompremier",
+  "found": true,
+  "identity_note": "Haitian painter b. Gonaives 1952, Vodou lwa subjects (Wikipedia, Spencer Museum, Haitian Art Society bio page). Captions from Haitian Art Society page.",
+  "images": [
+   {
+    "img": "https://haitianartsociety.org/media/Collections/Private/mompremier-m-1991-Mystic-Marriage-75-5x60cm.jpg",
+    "title": "Mystic Marriage of Toussaint Louverture and Lasirene",
+    "year": 1991,
+    "page": "https://haitianartsociety.org/mompremier-madsen-b-1952"
+   },
+   {
+    "img": "https://haitianartsociety.org/media/Collections/Private/Z10001/mompremier-madsen-agwe-and-les-sirens-2007-DSC09440.jpg",
+    "title": "Agwe and Les Sirenes",
+    "year": 2007,
+    "page": "https://haitianartsociety.org/mompremier-madsen-b-1952"
+   },
+   {
+    "img": "https://haitianartsociety.org/media/Collections/TrinityCollegeLibrary/Mompremier-queen-of-heaven-40x30-oc-1983.jpg",
+    "title": "Erzuli, Queen of Heaven",
+    "year": 1983,
+    "page": "https://haitianartsociety.org/mompremier-madsen-b-1952"
+   }
+  ]
+ },
+ {
+  "name": "Osaira Muyale",
+  "found": true,
+  "identity_note": "Spelling variant 'Osayra Muyale': MANA Aruba (Museo Nacional de Arubiano) page credits 'Entre Aruba y Hulanda, mi a encontra paraiso' to contemporary artist Osayra Muyale; Curators International separately names Osaira Muyale as an Aruban artist. Identity as the book's artist moderately confident; works are a blue horse sculpture installation at the museum (no people in the shots).",
+  "images": [
+   {
+    "img": "https://cms.manaruba.org/wp-content/uploads/2024/03/Osaira-Horse.jpg",
+    "title": "Entre Aruba y Hulanda, mi a encontra paraiso (sculpture)",
+    "year": null,
+    "page": "https://manaruba.org/exhibition-event-detail/entre-aruba-y-hulanda-mi-a-encontra-paraiso"
+   },
+   {
+    "img": "https://cms.manaruba.org/wp-content/uploads/2024/03/New-Project-5-1536x864.webp",
+    "title": "Entre Aruba y Hulanda, mi a encontra paraiso (installation view)",
+    "year": null,
+    "page": "https://manaruba.org/exhibition-event-detail/entre-aruba-y-hulanda-mi-a-encontra-paraiso"
+   }
+  ]
+ },
+ {
+  "name": "Shuck One",
+  "found": true,
+  "identity_note": "Guadeloupe-born, Paris-based graffiti artist (Artsper profile 'Shuck One', Centre Pompidou 'Paris Noir' mural Re-Generation 2025). Artsper image is the profile's cover artwork (painting; title not shown). Pompidou mural image is small (542 px).",
+  "images": [
+   {
+    "img": "https://media.artsper.com/artwork/28108_1_m.jpg",
+    "title": "Untitled painting (Artsper artist cover artwork)",
+    "year": null,
+    "page": "https://www.artsper.com/en/contemporary-artists/france/4059/shuck-one"
+   },
+   {
+    "img": "https://www.centrepompidou.fr/fileadmin/_processed_/1/f/csm_fresque-shuck-one_pierre-malherbet_2025_03_50b2740b8b.jpg",
+    "title": "Re-Generation (mural, Paris Noir, Centre Pompidou)",
+    "year": 2025,
+    "page": "https://www.centrepompidou.fr/en/pompidou-plus/magazine/article/shuck-one-graffiti-artist-and-visual-creator-if-you-dont-know-your-own-history-how-can-you-speak-to-others"
+   }
+  ]
+ },
+ {
+  "name": "Bruno Iwa Pédurand",
+  "found": false,
+  "identity_note": "Skipped: only evidence is Manioc video notice (Guadeloupean plasticien b. 1967, 'Entre chiens et loups' 2011) and the Dapper 'Memoires' catalogue (2012-13); no page with images of his work found. 'Iwa' not found in any source.",
+  "images": []
+ },
+ {
+  "name": "Anna Serrao",
+  "found": false,
+  "identity_note": "Skipped: no results for this name (searched 'Anna Serrao artist Jamaica'); possibly misspelled; unverifiable.",
+  "images": []
+ },
+ {
+  "name": "Thierry Tian-Sio-Po",
+  "found": true,
+  "identity_note": "Guyane painter b. 1964 (AICA Caraibe du Sud interview 'Conversation with Thierry Tian Sio Po', 2013; Global Caribbean IV, Art Basel Miami 2012). Interview is in English and says 'Born in Guyana 1964', context is Guyane (French Guiana). The two images are the artworks illustrating that interview; titles not given.",
+  "images": [
+   {
+    "img": "https://aica-sc.net/wp-content/uploads/2013/04/tiansiopob.jpg",
+    "title": null,
+    "year": null,
+    "page": "https://aica-sc.net/2013/04/09/conversation-with-thierry-tian-sio-po/"
+   },
+   {
+    "img": "https://aica-sc.net/wp-content/uploads/2013/04/tiansiopoc.jpg",
+    "title": null,
+    "year": null,
+    "page": "https://aica-sc.net/2013/04/09/conversation-with-thierry-tian-sio-po/"
+   }
+  ]
+ },
+ {
+  "name": "Rodell Warner",
+  "found": true,
+  "identity_note": "Trinidadian new-media artist; own site rodellwarner.com. 2017 Davidoff Art Edition 'Nature Reimagined' project pages (limited-edition commission); images are large PNGs (~3.7 MB each).",
+  "images": [
+   {
+    "img": "https://payload.cargocollective.com/1/23/746019/13219219/Nature-Reimagined---Aerial-View-web.png",
+    "title": "Nature Reimagined: Aerial View",
+    "year": 2017,
+    "page": "https://rodellwarner.com/Davidoff-Art-Edition-2017"
+   },
+   {
+    "img": "https://payload.cargocollective.com/1/23/746019/13219219/Nature-Reimagined---Marble-Sky-web.png",
+    "title": "Nature Reimagined: Marble Sky",
+    "year": 2017,
+    "page": "https://rodellwarner.com/Davidoff-Art-Edition-2017"
+   },
+   {
+    "img": "https://payload.cargocollective.com/1/23/746019/13219219/Nature-Reimagined---Water-Sculpture-web.png",
+    "title": "Nature Reimagined: Water Sculpture",
+    "year": 2017,
+    "page": "https://rodellwarner.com/Davidoff-Art-Edition-2017"
+   }
+  ]
+ }
+]
