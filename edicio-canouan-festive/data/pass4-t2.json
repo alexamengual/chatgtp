@@ -1,0 +1,242 @@
+[
+ {
+  "id": "x-peter-carr",
+  "name": "Peter Carr",
+  "country": "",
+  "residence": "Bequia",
+  "medium": "painting",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "No Caribbean-born Peter Carr confirmed. Peter Carr (1925-1981) is a Laguna Beach US artist (different person)."
+ },
+ {
+  "id": "a-nadia-huggins",
+  "name": "Nadia Huggins",
+  "country": "Trinidad and Tobago",
+  "residence": "Saint Vincent and the Grenadines",
+  "medium": "photography, visual art",
+  "site": "",
+  "ig": "nadiahuggins",
+  "works": [
+   "The Beginning is the End and the End is the Beginning",
+   "Coral & Ash",
+   "Fighting the Currents"
+  ],
+  "note": "Born Port of Spain per Wikipedia, grew up in St Vincent; results only say 'St. Vincent and the Grenadines' (city not shown). Coral & Ash is a 2023 solo show at "
+ },
+ {
+  "id": "x-maurel-reynolds",
+  "name": "Maurel Reynolds",
+  "country": "St Vincent and the Grenadines",
+  "residence": "",
+  "medium": "watercolour",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "No results found for this name; check spelling"
+ },
+ {
+  "id": "x-brian-ashing",
+  "name": "Brian Ashing",
+  "country": "Trinidad and Tobago",
+  "residence": "Sangre Grande, Trinidad and Tobago",
+  "medium": "oil painting",
+  "site": "https://thebrianashing.wixsite.com/home",
+  "ig": "",
+  "works": [
+   "The Quiet",
+   "Survivor",
+   "Prelude (first solo show, 101 Art Gallery)"
+  ],
+  "note": "Oil painter; UWI St Augustine graduate; paints full-time from home in Trinidad"
+ },
+ {
+  "id": "x-sabrina-romulus",
+  "name": "Sabrina Romulus",
+  "country": "Saint Lucia",
+  "residence": "",
+  "medium": "portraiture",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "No results found for this name; unverified"
+ },
+ {
+  "id": "a-ano",
+  "name": "Ano",
+  "country": "",
+  "residence": "",
+  "medium": "",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "Could not identify; search budget exhausted before this name was searched Search found no identifiable artist named Ano; name ambiguous"
+ },
+ {
+  "id": "a-christian-bertin",
+  "name": "Christian Bertin",
+  "country": "Martinique (France)",
+  "residence": "Martinique",
+  "medium": "assemblage, installation, performance",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "Born Fort-de-France; returned to Martinique 1986; installations and performance (memory, wounds, healing). Solo shows Espace Oberkampf 2019, SERMAC 2017, Fondat"
+ },
+ {
+  "id": "a-francisco-cabral",
+  "name": "Francisco Cabral",
+  "country": "",
+  "residence": "",
+  "medium": "",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "Could not be identified via search"
+ },
+ {
+  "id": "a-susan-dayal",
+  "name": "Susan Dayal",
+  "country": "",
+  "residence": "",
+  "medium": "",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "Could not identify; search returned no artist by this name (possible misspelling) No artist of this name found in search; no website or Instagram"
+ },
+ {
+  "id": "a-joscelyn-gardner",
+  "name": "Joscelyn Gardner",
+  "country": "Barbados",
+  "residence": "London, Ontario, Canada",
+  "medium": "printmaking, multimedia installation",
+  "site": "https://joscelyngardner.com",
+  "ig": "",
+  "works": [
+   "Creole Portraits II",
+   "Creole Portraits III"
+  ],
+  "note": "Barbadian-born, based in Canada; teaches at Fanshawe College, London, Ontario. First search returned nothing; second search found her. Birth year not shown. Cre"
+ },
+ {
+  "id": "a-anna-ruth-henriques",
+  "name": "Anna Ruth Henriques",
+  "country": "Jamaica",
+  "residence": "",
+  "medium": "gouache, watercolor, ink on paper",
+  "site": "",
+  "ig": "",
+  "works": [
+   "The Book of Mechtilde"
+  ],
+  "note": "Only Jewish Museum (New York) collection records found; residence not shown. Date of Book of Mechtilde is c. 1995 (book published by Knopf 1997)"
+ },
+ {
+  "id": "a-o-neil-lawrence",
+  "name": "O'Neil Lawrence",
+  "country": "Jamaica",
+  "residence": "Kingston, Jamaica",
+  "medium": "photography, video, curating",
+  "site": "",
+  "ig": "",
+  "works": [
+   "Son of a Champion"
+  ],
+  "note": "Photographer, curator and writer; Chief Curator at the National Gallery of Jamaica (since 2008 at the gallery). Kingston inferred from NGJ post and Mutual Galle"
+ },
+ {
+  "id": "a-jaime-lee-loy",
+  "name": "Jaime Lee Loy",
+  "country": "Trinidad and Tobago",
+  "residence": "Trinidad and Tobago",
+  "medium": "photography, video, installation, performance",
+  "site": "",
+  "ig": "",
+  "works": [
+   "Pro-test (documentary)"
+  ],
+  "note": "Result page is ~2008 and spells name 'Jamie Lee Loy'; Trinidad-based artist and writer (video, photography, installation, performance). Birth year not found; re"
+ },
+ {
+  "id": "a-pierre-pascal-pasko-merisier",
+  "name": "Pierre Pascal \"Pasko\" Merisier",
+  "country": "Haiti",
+  "residence": "Haiti / France (sources conflict)",
+  "medium": "painting, printmaking",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "Born Pétion-Ville. Africanah says he now lives in France; a 2025 Visit Haiti profile calls him printmaking instructor at the Centre d'Art, Haiti. Unresolved"
+ },
+ {
+  "id": "a-kishan-munroe",
+  "name": "Kishan Munroe",
+  "country": "Bahamas",
+  "residence": "Washington, USA (one source; unconfirmed, may be Nassau, Bahamas)",
+  "medium": "painting, film, installation, photography",
+  "site": "",
+  "ig": "",
+  "works": [
+   "Beacon of Hope (mural)",
+   "Swan Song of the Flamingo (solo show)"
+  ],
+  "note": "Born Nassau (Grants Town); moved to US 2004. Sources conflict on degrees and residence. Represented Bahamas at Liverpool Biennial 2010; long-running project The"
+ },
+ {
+  "id": "a-ryan-oduber",
+  "name": "Ryan Oduber",
+  "country": "Aruba",
+  "residence": "",
+  "medium": "",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "Wikidata lists a Ryan Oduber as beeldend kunstenaar (visual artist), Aruba; no website/Instagram found. Wikipedia Oduber page also lists an unrelated baseball p"
+ },
+ {
+  "id": "a-marcel-pinas",
+  "name": "Marcel Pinas",
+  "country": "Suriname",
+  "residence": "",
+  "medium": "painting, installation, sculpture",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "Born 22 March 1971 (Wikimedia Commons). Residence not shown in results; runs programs in Moengo. Afaka-script geometric canvases"
+ },
+ {
+  "id": "a-oneika-russell",
+  "name": "Oneika Russell",
+  "country": "Jamaica",
+  "residence": "Kingston, Jamaica",
+  "medium": "drawing, objects, digital animation, video",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "Birth year from single source (Residency Unlimited); info possibly dated (~2018). Edna Manley College lecturer per some sources; PhD Kyoto Seika Univ.; Dak'Art "
+ },
+ {
+  "id": "a-philippe-thomarel",
+  "name": "Philippe Thomarel",
+  "country": "Guadeloupe (France)",
+  "residence": "Guadeloupe",
+  "medium": "",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "Residence not stated. Painter (bridges, dogs, portraits). Exhibitions: 'LXXVIII: Quand le ciel bas et lourd' (Transilvania Univ. Brasov, Oct 2023, after 1-month"
+ },
+ {
+  "id": "a-noel-vaucrosson",
+  "name": "Noel Vaucrosson",
+  "country": "",
+  "residence": "",
+  "medium": "",
+  "site": "",
+  "ig": "",
+  "works": [],
+  "note": "Not researched: web search budget exhausted No results for this name; possible spelling variant, unidentified"
+ }
+]
