@@ -31,13 +31,17 @@ art and the festive gallery/` on Alex's desktop.
   show founder) and **Anjeni Ramtahal** (its curator, LES ÎLES gallery,
   Amsterdam). Anjeni's own experience with Mustique was not a good one, and
   she is the natural curator or partner.
+- **Alex is always "artist" (or "visual artist"), never "photographer"** (Alex,
+  18 Oct). His bio (amengual.com/about): photography is "not an end but an
+  instrument" in a practice built on screen printing and the physical matter of
+  place; "photographer" makes people think of weddings and campaigns.
 - **Alex exhibits as one of the 12, as host artist** (Alex, 18 Oct): a peer
   show where a local artist invites colleagues, on the same terms as everyone
   else. This overrides Scott's September advice to keep Alex's own work out of
   the room; the reasoning is that a commercial creative role reads as genuine
   only if he is established as a working artist from the start.
-- **Round one** (Alex, 18 Oct): six photographers (Alex included) and six
-  others; no LES ÎLES artists; no one who has shown or will show at Mustique;
+- **Round one** (Alex, 18 Oct): five photographers, six in other media, and
+  Alex; no LES ÎLES artists; no one who has shown or will show at Mustique;
   no artist travel unless self-funded; estate cost limited to the room and the
   display prints; 10% of sales to Canouan. See `shortlist.md`.
 - **Art is outside the Canouan contract** (clause 2.3), so it's pitched as its

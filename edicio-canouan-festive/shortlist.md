@@ -1,7 +1,7 @@
 # Shortlist: wave 1 (18 Oct)
 
-Twelve artists: six photographers (Alex is the sixth) and six working in other
-media. Rules (Alex, 18 Oct): no artist represented by Anjeni's gallery LES ÎLES;
+Twelve artists: five photographers, six working in other media, and Alex, a
+visual artist (screen printing, paint and photography as an instrument). Rules (Alex, 18 Oct): no artist represented by Anjeni's gallery LES ÎLES;
 nobody who has shown, or will show, at Mustique this round; artists don't travel
 unless they pay their own way; costs to the estate kept close to zero.
 
@@ -14,7 +14,7 @@ unless they pay their own way; costs to the estate kept close to zero.
 | 3 | Juan Carlos Alom | Photographer | Havana | Check the payment route to Cuba |
 | 4 | René Peña | Photographer | Havana | Check the payment route to Cuba |
 | 5 | Terry Boddie | Photographer, mixed media | to confirm (likely Nevis-born, New York) | |
-| 6 | Alex Amengual | Photographer | Mallorca / Canouan | Founder's contribution |
+| 6 | Alex Amengual | Visual artist: screen print, paint, photography | Canouan / Mallorca | Host artist, same terms as everyone |
 | 7 | Ibrahim Miranda | Printmaker | Havana | Check the payment route to Cuba |
 | 8 | Nikolai M. Noel | Painting, drawing; sells prints | Trinidad | |
 | 9 | Anna Ruth Henriques | Works on paper | Jamaica (to confirm) | |
