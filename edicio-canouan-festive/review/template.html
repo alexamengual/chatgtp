@@ -174,7 +174,8 @@ details.master .row { background: transparent; }
       <label class="chk af"><input type="checkbox" id="newpics"> New photos only</label>
       <label class="chk af"><input type="checkbox" id="edonly"> Edition-ready</label>
       <label class="chk af"><input type="checkbox" id="photo"> Photographers</label>
-      <label class="chk af"><input type="checkbox" id="noanjeni" checked> Hide Anjeni's artists</label>
+      <label class="chk af"><input type="checkbox" id="noanjeni" checked> Hide Anjeni's gallery artists</label>
+      <label class="chk af"><input type="checkbox" id="nomustique"> Hide Mustique show artists</label>
       <label class="chk af"><input type="checkbox" id="nobig"> Hide big-gallery artists</label>
       <label class="chk af"><input type="checkbox" id="unpicked"> Not yet rated</label>
       <span class="count" id="count"></span>
@@ -221,7 +222,8 @@ details.master .row { background: transparent; }
     if ($("newpics").checked && !a.newPics) return false;
     if ($("edonly").checked && !a.editionReady) return false;
     if ($("photo").checked && !a.photographer) return false;
-    if ($("noanjeni").checked && a.anjeni) return false;
+    if ($("noanjeni").checked && a.anjeni === "lesiles") return false;
+    if ($("nomustique").checked && a.mustique) return false;
     if ($("nobig").checked && a.bigGallery) return false;
     if ($("unpicked").checked && picks[a.id]?.status) return false;
     return true;
@@ -276,7 +278,8 @@ details.master .row { background: transparent; }
     for (const t of a.tags || []) chips.push(`<span class="chip ${t.cls || ""}">${esc(t.label)}</span>`);
     if (a.living === "deceased") chips.push(`<span class="chip">died${a.died ? " " + esc(a.died) : ""}</span>`);
     if (a.living === "unknown") chips.push(`<span class="chip warn">living status to check</span>`);
-    if (a.anjeni) chips.push(`<span class="chip warn">${a.anjeni === "lesiles" ? "Anjeni's gallery (LES ÎLES)" : a.anjeni === "mustique" ? "Mustique show: Anjeni's artist" : "possible LES ÎLES link"}</span>`);
+    if (a.anjeni) chips.push(`<span class="chip warn">${a.anjeni === "lesiles" ? "Anjeni's gallery (LES ÎLES): avoid" : "possible LES ÎLES link"}</span>`);
+    if (a.mustique) chips.push(`<span class="chip">Mustique show: tread lightly</span>`);
     if (a.bigGallery) chips.push(`<span class="chip warn">major gallery</span>`);
     if (a.editionReady) chips.push(`<span class="chip ed">${a.photographer ? "photographer" : "edition-ready"}</span>`);
     if (a.newPics) chips.push(`<span class="chip">new photos</span>`);
@@ -400,7 +403,7 @@ details.master .row { background: transparent; }
     document.querySelectorAll(".tab").forEach(x => x.setAttribute("aria-pressed", String(x === t)));
     render();
   }));
-  ["q", "pool", "country", "lives", "newpics", "edonly", "photo", "noanjeni", "nobig", "unpicked"].forEach(id => $(id).addEventListener("input", render));
+  ["q", "pool", "country", "lives", "newpics", "edonly", "photo", "noanjeni", "nomustique", "nobig", "unpicked"].forEach(id => $(id).addEventListener("input", render));
 
   render();
 

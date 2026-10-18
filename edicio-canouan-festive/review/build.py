@@ -130,7 +130,8 @@ for a in artists:
     a["photographer"] = bool(re.search(r"photo", a.get("medium") or "", re.I))
     a["editionReady"] = bool(EDITION.search(a.get("medium") or "")) or a.get("editions") in ("yes", "some")
     a["bigGallery"] = bool(BIG.search(a.get("gallery") or ""))
-    a["anjeni"] = "lesiles" if (a["name"] in LESILES or "lesiles" in a["pools"]) else "mustique" if "mustique" in a["pools"] else "maybe" if a["name"] == "Mark King" else ""
+    a["anjeni"] = "lesiles" if (a["name"] in LESILES or "lesiles" in a["pools"]) else "maybe" if a["name"] == "Mark King" else ""
+    a["mustique"] = "mustique" in a["pools"]
 
 for a in artists:
     a["countryKey"] = country_key(a["origin"] or a["country"])
