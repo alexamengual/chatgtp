@@ -4,7 +4,36 @@ Research of 17 Oct 2026. mustiqueart.com and Instagram are blocked from the
 research environment, so everything here comes from search snippets of the
 official site and the press. Each claim carries its source.
 
-## What changes from Scott's September research
+## Update, 18 Oct: the 2026 longlist is published
+
+With full network access, the official shop (mustiqueart.com/collections) lists
+**16 artist collections for the 2nd edition**, each with birth year, country and
+2026 works. Scott's September capture was right; the 17 Oct "no 2026 longlist"
+below is superseded. **No Vincentian is on it.**
+
+| Artist | Born | Country |
+|---|---|---|
+| Ada del Pilar Ortiz | 1995 | Puerto Rico |
+| Ailsa Anastatia | 1978 | Curaçao |
+| Aurora (Kristen) Honeywell | 1997 | Trinidad & Tobago |
+| Dominique Hunter | 1987 | Guyana |
+| Elechi Todd | 1994 | Trinidad & Tobago |
+| Enrique Rivera Príncipe | 1993 | Puerto Rico |
+| Hannah Seucharan | 2003 | Trinidad & Tobago |
+| Kesia Estwick | 1990 | Barbados |
+| L'Shaun Cato | 2003 | Trinidad & Tobago |
+| Ronald Williams | 1990 | Barbados |
+| Shane Hanson Mohammed | 1995 | Trinidad & Tobago |
+| Shania Warris | 2001 | Trinidad & Tobago |
+| Shediene Fletcher | 1981 | Jamaica |
+| Torrijo Galeano Mateo | 1989 | Dominican Republic |
+| Wendie Zahibo | 1991 | Guadeloupe |
+| Yéssica Montero | 1998 | Dominican Republic |
+
+Raw data: `data/mustique-2026.json`. Whether Honeywell, Hunter and Estwick were
+also in 2024 is unclear (their pages carry the 2026 header).
+
+## What changed from Scott's September research (17 Oct, partly superseded)
 
 1. **The three Vincentians are real and verified.** Maurel Reynolds,
    Romario Martindale (Bequia) and Zen Punnett were on the **2024** longlist,

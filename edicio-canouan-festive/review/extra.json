@@ -189,12 +189,27 @@
    ],
    "tags": [
     {
-     "label": "Mustique 2024 longlist"
+     "label": "Mustique 2026 longlist"
     }
    ],
    "verified": true,
    "note": "Works as King Kesia. Instagram unconfirmed.",
-   "note3": "No results found for this name; check spelling."
+   "note3": "No results found for this name; check spelling.",
+   "born": 1990,
+   "mustique_works": [
+    {
+     "title": "Frontline",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/frontline",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/KesiaEstwick_Frontline_2026.jpg?v=1782395032"
+    },
+    {
+     "title": "Center Stage",
+     "year": 2025,
+     "url": "https://mustiqueart.com/products/center-stage",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/KesiaEstwick_CenterStage_2025.jpg?v=1782397724"
+    }
+   ]
   },
   {
    "name": "Dominique Hunter",
@@ -209,7 +224,7 @@
    ],
    "tags": [
     {
-     "label": "Mustique 2024 longlist"
+     "label": "Mustique 2026 longlist"
     }
    ],
    "verified": true,
@@ -217,7 +232,21 @@
    "born": 1987,
    "origin_country": "Guyana",
    "residence": "Georgetown, Guyana",
-   "note3": "Correction: results show a Guyanese (not Bahamian) artist, born Georgetown 1987; BFA Barbados Community College 2015; Director of Studies at E.R. Burrowes School of Art; motif: morning glory vine. Assumes the listed name is this artist."
+   "note3": "Correction: results show a Guyanese (not Bahamian) artist, born Georgetown 1987; BFA Barbados Community College 2015; Director of Studies at E.R. Burrowes School of Art; motif: morning glory vine. Assumes the listed name is this artist.",
+   "mustique_works": [
+    {
+     "title": "A Message From the Other Side",
+     "year": 2023,
+     "url": "https://mustiqueart.com/products/longing-for-the-warmth-of-yesterday-s-sun-copy",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/DominiqueHunter_Amessagefromtheotherside_2023.jpg?v=1782353461"
+    },
+    {
+     "title": "Longing for the Warmth of Yesterday’s Sun",
+     "year": 2022,
+     "url": "https://mustiqueart.com/products/longing-for-the-warmth-of-yesterday-s-sun",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/DominiqueHunter_Longingforthewarmthofyesterday_ssun_2022.jpg?v=1782353461"
+    }
+   ]
   },
   {
    "name": "Ozy Merrique",
@@ -236,7 +265,7 @@
    "note3": "No results found for this name; check spelling."
   },
   {
-   "name": "Aurora / Kristen Honeywell",
+   "name": "Aurora Honeywell",
    "country": "Trinidad and Tobago",
    "medium": "oil with resin and found materials",
    "living": "living",
@@ -245,12 +274,22 @@
    ],
    "tags": [
     {
-     "label": "Mustique 2024 longlist"
+     "label": "Mustique 2026 longlist"
     }
    ],
-   "verified": false,
-   "note": "Listed as Aurora on the longlist and Kristen on the artist page; probably one person.",
-   "note3": "No results found for this name."
+   "verified": true,
+   "note": "Kristen Aurora Honeywell, Trinidadian-Jamaican.",
+   "note3": "No results found for this name.",
+   "born": 1997,
+   "life": "b. 1997",
+   "mustique_works": [
+    {
+     "title": "Calypso at the Shore",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/calypso-at-the-shore",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/Screenshot_2026-06-25_at_2.09.51_AM.png?v=1782346210"
+    }
+   ]
   },
   {
    "name": "Naja Simeon (Sakey)",
@@ -566,6 +605,464 @@
     }
    ],
    "note3": "Co-director of Alice Yard, Port of Spain; Prince Claus Award 2013. 'turbulence' dated 2019-2021."
+  },
+  {
+   "name": "Ada Del Pilar",
+   "country": "Puerto Rico",
+   "life": "b. 1995",
+   "born": 1995,
+   "medium": "latex casts and acrylic on canvas",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Ada del Pilar Ortiz is a multidisciplinary artist. She obtained a BFA with a concentration in Painting from the School of Fine Arts and Design of Puerto Rico in 2018. Her work has been presented individually and collecti",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/ada-del-pilar"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "Fragmento I (balcón)",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/heart-copy-1",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/AdaDelPilarOrtiz_Fragmento_balcon__2026_2.jpg?v=1782342072"
+    }
+   ]
+  },
+  {
+   "name": "Ailsa Anastatia",
+   "country": "Curaçao",
+   "life": "b. 1978",
+   "born": 1978,
+   "medium": "mixed media, natural dyes, acrylic, pastels and embroidery o",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Ailsa Anastatia is a multidisciplinary artist whose work is rooted in the landscapes of Curaçao and the wider Caribbean. Working across painting, textiles, embroidery, and installation, she explores themes of resilience,",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/ailsa-anastatia"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "Habri kaminda| Making a way",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/habri-kaminda-making-a-way",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/Ailsa_Anastatia__Habri_kaminda_2026.jpg?v=1782342807"
+    },
+    {
+     "title": "Mondi |Wilderness",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/mondi-wilderness",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/AilsaAnastatia_Mondi_2026.jpg?v=1782343270"
+    }
+   ]
+  },
+  {
+   "name": "Elechi Todd",
+   "country": "Trinidad and Tobago",
+   "life": "b. 1994",
+   "born": 1994,
+   "medium": "acrylic paint, glitter on watercolour paper",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Elechi Todd is an artist from Trinidad and Tobago whose practice includes painting, drawing and collage. His work explores processes of self-understanding and discovery in relation to his Caribbean background, unpacking ",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/elechi-todd"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "Cognitive Distortions",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/cognitive-distortions",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/ElechiTodd_CognitiveDistortions_2026_fixed.jpg?v=1782382922"
+    }
+   ]
+  },
+  {
+   "name": "Enrique Rivera Príncipe",
+   "country": "Puerto Rico",
+   "life": "b. 1993",
+   "born": 1993,
+   "medium": "acrylic on linen",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Enrique Rivera Príncipe, a native of Ponce, Puerto Rico, was born on February 25, 1993. His artistic career began with voluntary work at the Museo de Arte de Ponce and his participation in educational programs at the 54t",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/enrique-rivera-principe"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "Ití Cuyá",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/iti-cuya",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/Screenshot_2026-06-25_at_1.19.52_PM.png?v=1782386416"
+    }
+   ]
+  },
+  {
+   "name": "Hannah Seucharan",
+   "country": "Trinidad and Tobago",
+   "life": "b. 2003",
+   "born": 2003,
+   "medium": "acrylic on canvas",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Hannah Seucharan (b. 2003) is a contemporary artist from Trinidad and Tobago. While she works primarily in acrylics, her practice spans multiple mediums including digital art and drawing. Seucharan explores the complex n",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/hannah-seucharan"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "Peat",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/third-copy",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/HannahSeucharan_Peat_2026.jpg?v=1782390786"
+    },
+    {
+     "title": "Third",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/third",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/HannahSeucharan_Third_2026.jpg?v=1782390420"
+    }
+   ]
+  },
+  {
+   "name": "L'Shaun Cato",
+   "country": "Trinidad and Tobago",
+   "life": "b. 2003",
+   "born": 2003,
+   "medium": "oil on canvas",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "L'Shaun Cato is a Trinidadian visual artist working primarily in oils and acrylics. As a recent graduate of the University of the West Indies Visual Arts programme, her current practice is an ongoing investigation into t",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/lshauncato"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "Eat It or Lie Down By It",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/eat-it-or-lie-down-by-it",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/LshaunCato_EatItorLieDownByit_2026.jpg?v=1782399268"
+    }
+   ]
+  },
+  {
+   "name": "Ronald Williams",
+   "country": "Barbados",
+   "life": "b. 1990",
+   "born": 1990,
+   "medium": "digital collage print",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Ronald Williams is a visual artist who primarily works in digital media. While earning his BFA in Fine Arts from The Barbados Community College (BCC), he began experimenting with digital collage which he has since gone o",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/ronald-williams"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "Paradise King 2",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/paradise-king-2",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/Ronald_Williams_Paradise_King_2_2026.jpg?v=1782424061"
+    },
+    {
+     "title": "Paradise King 1",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/paradise-king-1",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/RonaldWilliams_ParadiseKing1_2026.jpg?v=1782423659"
+    }
+   ]
+  },
+  {
+   "name": "Shane Hanson Mohammed",
+   "country": "Trinidad and Tobago",
+   "life": "b. 1995",
+   "born": 1995,
+   "medium": "canvas, mixed media: (acrylic paint, thread, cedar wood, col",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Shane Hanson Mohammed was born in Trinidad in 1995. He is a conceptual artist with a B.A in Fine Art from The University of the West Indies, Trinidad. Since graduating, he has been continuously working and engaging in a ",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/shane-hanson-mohammed"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "Soil to Soul",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/soil-to-soul",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/SoiltoSoul.jpg?v=1782922581"
+    }
+   ]
+  },
+  {
+   "name": "Shania Warris",
+   "country": "Trinidad and Tobago",
+   "life": "b. 2001",
+   "born": 2001,
+   "medium": "oil & acrylic on canvas",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Artist Bio Shania Warris is a Trinidadian visual artist whose multidisciplinary practice explores memory, nostalgia, familiarity, and the ways personal and cultural experiences shape our sense of belonging. Working acros",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/shania-warris"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "Bush Medicine",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/bush-medicine",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/ShaniaWarris_BushMedicine_2026.jpg?v=1782923658"
+    }
+   ]
+  },
+  {
+   "name": "Shediene Fletcher",
+   "country": "Jamaica",
+   "life": "b. 1981",
+   "born": 1981,
+   "medium": "mixed media on goat skin",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Shediene Fletcher, born in Manchester, Jamaica, is a mixed media artist who studied at the Edna Manley college of the Visual and Performing Arts. She is recognized for her creative use of materials, including animal skin",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/shediene-fletcher"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "Resonant Body",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/resonant-body",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/Screenshot_2026-07-09_at_11.14.23_AM.png?v=1783588497"
+    },
+    {
+     "title": "Inheritance",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/inheritance",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/Screenshot_2026-07-09_at_11.11.28_AM.png?v=1783588322"
+    }
+   ]
+  },
+  {
+   "name": "Torrijo Galeano Mateo",
+   "country": "Dominican Republic",
+   "life": "b. 1989",
+   "born": 1989,
+   "medium": "oil on cotton",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Torrijo Galeano Reyes Mateo (1989) es un pintor e ilustrador nacido en San Juan de la Maguana, República Dominicana, y residente en Santo Domingo. Graduado de la Facultad de Artes de la Universidad Autónoma de Santo Domi",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/torrijo-galeano-mateo"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "El sueño de lia",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/al-otro-lado-del-rio-copy",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/torrijo_galeano_1_1.jpg?v=1783406684"
+    },
+    {
+     "title": "Al Otro Lado del Rio",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/al-otro-lado-del-rio",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/torrijogaleanopieza2.jpg?v=1783361484"
+    }
+   ]
+  },
+  {
+   "name": "Wendie Zahibo",
+   "country": "Guadeloupe",
+   "life": "b. 1991",
+   "born": 1991,
+   "medium": "photography / photocollage",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Wendie Zahibo is a multidisciplinary artist-researcher (poet, photographer, performer and collage artist) living and working between Guadeloupe and mainland France. Born into a multicultural family with roots in Ivory Co",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/wendie-zahibo"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "An kè Lapwen",
+     "year": 2022,
+     "url": "https://mustiqueart.com/products/an-ke-lapwen",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/Screenshot_2026-07-07_at_9.14.20_AM.png?v=1783408483"
+    },
+    {
+     "title": "La fée de Bouillante",
+     "year": 2022,
+     "url": "https://mustiqueart.com/products/la-fee-de-bouillante",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/Screenshot2026-07-07at9.12.18AM.png?v=1783408363"
+    }
+   ]
+  },
+  {
+   "name": "Yéssica Montero",
+   "country": "Dominican Republic",
+   "life": "b. 1998",
+   "born": 1998,
+   "medium": "acrylic and oil on canvas",
+   "living": "living",
+   "pools": [
+    "mustique"
+   ],
+   "tags": [
+    {
+     "label": "Mustique 2026 longlist"
+    }
+   ],
+   "verified": true,
+   "note": "Yéssica Montero (b. 1998, Bonao, Dominican Republic) is a visual artist working across drawing, painting, and sculpture. She regularly participates in group exhibitions and projects addressing gender, politics, and decol",
+   "extra": [
+    {
+     "label": "Mustique page",
+     "url": "https://mustiqueart.com/collections/yessica-montero"
+    }
+   ],
+   "mustique_works": [
+    {
+     "title": "Médula 2",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/medula-2",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/Yessicamontero_medula2_2026.jpg?v=1783409311"
+    },
+    {
+     "title": "Médula",
+     "year": 2026,
+     "url": "https://mustiqueart.com/products/medula",
+     "img": "https://cdn.shopify.com/s/files/1/0609/4215/5907/files/Yessicamontero_medula_2026.jpg?v=1783409030"
+    }
+   ]
   }
  ],
  "poolAdd": {

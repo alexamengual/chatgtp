@@ -1,0 +1,2818 @@
+{
+ "Holly Bynoe": {
+  "slug": "holly-bynoe",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 0,
+  "works": []
+ },
+ "Nadia Huggins": {
+  "slug": "nadia-huggins",
+  "birthday": "1984",
+  "deathday": "",
+  "nationality": "Trinidadian",
+  "location": "St. Vincent",
+  "count": 0,
+  "works": []
+ },
+ "Dominique Hunter": {
+  "slug": "dominique-hunter",
+  "birthday": "1987",
+  "deathday": "",
+  "nationality": "Guyanese",
+  "location": "Georgetown, Guyana",
+  "count": 10,
+  "works": [
+   {
+    "title": "Everything Will Be Okay",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/dominique-hunter-everything-will-be-okay",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/oS87GJdjUPCNjxEeov1yzg/medium.jpg"
+   },
+   {
+    "title": "Even with relentless turmoil",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/dominique-hunter-even-with-relentless-turmoil",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/OpYTEpctlwBDcIlxaQRmyw/medium.jpg"
+   },
+   {
+    "title": "A Message From the Other Side",
+    "year": "2019-2023",
+    "url": "https://www.artsy.net/artwork/dominique-hunter-a-message-from-the-other-side",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/o-AHXTlSZlgFBYWVJG51rg/medium.jpg"
+   }
+  ]
+ },
+ "Akilah Watts": {
+  "slug": "akilah-watts",
+  "birthday": "1996",
+  "deathday": null,
+  "nationality": "Barbadian",
+  "location": "Barbados",
+  "count": 23,
+  "works": [
+   {
+    "title": "Provenience",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/akilah-watts-provenience",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/EpraFkeuSHy8DL0uo9n4bw/medium.jpg"
+   },
+   {
+    "title": "From: Consumed  To: Consuming",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/akilah-watts-from-consumed-to-consuming",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/sGCh_y7Ch0iAS0ydNiE7tQ/medium.jpg"
+   },
+   {
+    "title": "Nexus",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/akilah-watts-nexus",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/8s0fLCXvuT5cqfTd1LYOhw/medium.jpg"
+   }
+  ]
+ },
+ "Errol Brewster": {
+  "slug": "errol-brewster",
+  "birthday": "1953",
+  "deathday": "",
+  "nationality": "Guyanese",
+  "location": "Florida",
+  "count": 2,
+  "works": [
+   {
+    "title": "Jack - Leader in the 1823 Demerara Uprising ",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/errol-brewster-jack-leader-in-the-1823-demerara-uprising",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/J01HiT-iMGDVywLLS1QGhg/medium.jpg"
+   },
+   {
+    "title": "Amba - Leader in the 1823 Demerara Uprising",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/errol-brewster-amba-leader-in-the-1823-demerara-uprising",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/WX2Pq9y77qwsANKln7S7tg/medium.jpg"
+   }
+  ]
+ },
+ "Christopher Cozier": {
+  "slug": "christopher-cozier",
+  "birthday": "1959",
+  "deathday": "",
+  "nationality": "",
+  "location": "Port of Spain, Trinidad and Tobago",
+  "count": 35,
+  "works": [
+   {
+    "title": "All That's Left 3",
+    "year": "2011",
+    "url": "https://www.artsy.net/artwork/christopher-cozier-all-thats-left-3-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/b3uMJ9qAQsk8zlZFMXAUlg/medium.jpg"
+   },
+   {
+    "title": "All That's Left 4",
+    "year": "2011",
+    "url": "https://www.artsy.net/artwork/christopher-cozier-all-thats-left-4-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/aKh1ciO2qHdE-rXMeipHow/medium.jpg"
+   },
+   {
+    "title": "Intersection",
+    "year": "1999",
+    "url": "https://www.artsy.net/artwork/christopher-cozier-intersection-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/w9dtxwSOdHsNh4dQgrToEA/medium.jpg"
+   }
+  ]
+ },
+ "Elladj Lincy Deloumeaux": {
+  "slug": "elladj-lincy-deloumeaux",
+  "birthday": "1995",
+  "deathday": "",
+  "nationality": "French ",
+  "location": "Paris, France",
+  "count": 33,
+  "works": [
+   {
+    "title": "Portrait de Patou",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/elladj-lincy-deloumeaux-portrait-de-patou",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/5EkZLWYASLJxA8t6B5f1jA/medium.jpg"
+   },
+   {
+    "title": "Velma et les oiseaux",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/elladj-lincy-deloumeaux-velma-et-les-oiseaux",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/LP1pRRxsQHMy_RUA0WpE7A/medium.jpg"
+   },
+   {
+    "title": "La bibliothèque du Jnane Tamsa",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/elladj-lincy-deloumeaux-la-bibliotheque-du-jnane-tamsa",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/OG8nwfcHjgdOLwjsKK2xKQ/medium.jpg"
+   }
+  ]
+ },
+ "Morel Doucet": {
+  "slug": "morel-doucet",
+  "birthday": "1990",
+  "deathday": "",
+  "nationality": "Haitian-American",
+  "location": "Florida, USA",
+  "count": 2,
+  "works": [
+   {
+    "title": "After All That, We Still Stand (When Black Lives Look Blue) #11",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/morel-doucet-after-all-that-we-still-stand-when-black-lives-look-blue-number-11",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/IwbjMaAk6h0y06wIlBcSZg/medium.jpg"
+   },
+   {
+    "title": "After All That, We Still Stand (When Black Lives Look Blue) #4",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/morel-doucet-after-all-that-we-still-stand-when-black-lives-look-blue-number-4",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/oi_pqxf4YCuHr6SxmneBjQ/medium.jpg"
+   }
+  ]
+ },
+ "Suchitra Mattai": {
+  "slug": "suchitra-mattai",
+  "birthday": "1973",
+  "deathday": "",
+  "nationality": "",
+  "location": "Denver, CO, USA",
+  "count": 64,
+  "works": [
+   {
+    "title": "inhabit",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/suchitra-mattai-inhabit",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/jM9ZLmk441jrW2lUGSCqGA/medium.jpg"
+   },
+   {
+    "title": "a wind, a scent, a sound",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/suchitra-mattai-a-wind-a-scent-a-sound",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/54-yawqQteX1Z2mJBXOURw/medium.jpg"
+   },
+   {
+    "title": "trance",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/suchitra-mattai-trance",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/vcxSfJUep9dJXkgSo4LDjA/medium.jpg"
+   }
+  ]
+ },
+ "Yermine Richardson": {
+  "slug": "yermine-richardson",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "Dominican",
+  "location": "",
+  "count": 2,
+  "works": [
+   {
+    "title": "Sol",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/yermine-richardson-sol",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Rd-m5vMns3a9CKhJnNbyLQ/medium.jpg"
+   },
+   {
+    "title": "Mar",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/yermine-richardson-mar",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/H30aXkNVZJnyPo8zznnVSQ/medium.jpg"
+   }
+  ]
+ },
+ "Akuzuru": {
+  "slug": "akuzuru",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "Trinidad and Tobago",
+  "count": 0,
+  "works": []
+ },
+ "Thierry Alet": {
+  "slug": "thierry-alet",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 14,
+  "works": [
+   {
+    "title": "Cocorico",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/thierry-alet-cocorico",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/CxKzFLiykNGJQ-MbHXbWMw/medium.jpg"
+   },
+   {
+    "title": "series \"I Dream The Same Dream \"",
+    "year": "2009",
+    "url": "https://www.artsy.net/artwork/thierry-alet-series-i-dream-the-same-dream",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/KXubt1sTEIYbN1AfXoQdpA/medium.jpg"
+   },
+   {
+    "title": "Epines multicolores",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/thierry-alet-epines-multicolores",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/W-BjPgvZzBECMtg9RJiPYg/medium.jpg"
+   }
+  ]
+ },
+ "Juan Carlos Alom": {
+  "slug": "juan-carlos-alom",
+  "birthday": "1964",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "La Habana, Cuba",
+  "count": 29,
+  "works": [
+   {
+    "title": "Estudio anatotécnico para abandonar una isla",
+    "year": "2004",
+    "url": "https://www.artsy.net/artwork/juan-carlos-alom-estudio-anatotecnico-para-abandonar-una-isla-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/aPBzuHxhRJJ4G6nP1PV2Xw/medium.jpg"
+   },
+   {
+    "title": "Playa Santa Maria en un Ciclon II",
+    "year": "1989",
+    "url": "https://www.artsy.net/artwork/juan-carlos-alom-playa-santa-maria-en-un-ciclon-ii",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/3uZ0k3EZV96mEQZeX9Ph6w/medium.jpg"
+   },
+   {
+    "title": "Untitled",
+    "year": "1991",
+    "url": "https://www.artsy.net/artwork/juan-carlos-alom-untitled-7",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/dDLV9VTooNo2zv8hU9JN_A/medium.jpg"
+   }
+  ]
+ },
+ "Hurvin Anderson": {
+  "slug": "hurvin-anderson",
+  "birthday": "1965",
+  "deathday": "",
+  "nationality": "British",
+  "location": "London, UK",
+  "count": 31,
+  "works": [
+   {
+    "title": "The Raft",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/hurvin-anderson-the-raft-7",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/V-N4M505lXuQiYhmO0hm8g/medium.jpg"
+   },
+   {
+    "title": "The Raft",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/hurvin-anderson-the-raft-8",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/dVEN_PkfbBrFx6YS4SiKgw/medium.jpg"
+   },
+   {
+    "title": "The Raft",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/hurvin-anderson-the-raft-5",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/cebQzjfNYP1ABV7NyVdcww/medium.jpg"
+   }
+  ]
+ },
+ "Janine Antoni": {
+  "slug": "janine-antoni",
+  "birthday": "1964",
+  "deathday": null,
+  "nationality": "Bahamian",
+  "location": "New York, NY, USA",
+  "count": 13,
+  "works": [
+   {
+    "title": "Touched By The Artist",
+    "year": "1996",
+    "url": "https://www.artsy.net/artwork/janine-antoni-touched-by-the-artist",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/x08dpaNo2g-JkqJIE3Bk_w/medium.jpg"
+   },
+   {
+    "title": "Mortar and Pestle",
+    "year": "1999",
+    "url": "https://www.artsy.net/artwork/janine-antoni-mortar-and-pestle-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/BlXDKdzsjhiLwqhdvhrmUA/medium.jpg"
+   },
+   {
+    "title": "Mettlesome and Meddlesome",
+    "year": "1993",
+    "url": "https://www.artsy.net/artwork/janine-antoni-mettlesome-and-meddlesome",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/fX7vuCGFGxHMvL7Qc6slKg/medium.jpg"
+   }
+  ]
+ },
+ "Deborah Anzinger": {
+  "slug": "deborah-anzinger",
+  "birthday": "1978",
+  "deathday": "",
+  "nationality": "Jamaican",
+  "location": "",
+  "count": 0,
+  "works": []
+ },
+ "Abel Barroso": {
+  "slug": "abel-barroso",
+  "birthday": "1971",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Havana, Cuba",
+  "count": 22,
+  "works": [
+   {
+    "title": "eyePhone",
+    "year": "2010",
+    "url": "https://www.artsy.net/artwork/abel-barroso-eyephone",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/GtkFR50CZ0i1rNnWse6-vg/medium.jpg"
+   },
+   {
+    "title": "Ciudadano del Mundo",
+    "year": "2012",
+    "url": "https://www.artsy.net/artwork/abel-barroso-ciudadano-del-mundo-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/d7dESC3pdoQUeKiPnmp_Rw/medium.jpg"
+   },
+   {
+    "title": "Automatic Border Control",
+    "year": "2012",
+    "url": "https://www.artsy.net/artwork/abel-barroso-automatic-border-control-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/LB4mJzwpBh5oYGa09Lex5g/medium.jpg"
+   }
+  ]
+ },
+ "José Bedia": {
+  "slug": "jose-bedia",
+  "birthday": "1959",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Miami, FL, USA",
+  "count": 151,
+  "works": [
+   {
+    "title": "Buena energía",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/jose-bedia-buena-energia-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/3Jb13ffYi9YkfpyDQM1qqA/medium.jpg"
+   },
+   {
+    "title": "Ntondele nkuame coballende ",
+    "year": "2025 ",
+    "url": "https://www.artsy.net/artwork/jose-bedia-ntondele-nkuame-coballende",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Ia4Iow6Kb4RvCLxoaEhbgA/medium.jpg"
+   },
+   {
+    "title": "Alli sera mi casa",
+    "year": "2003",
+    "url": "https://www.artsy.net/artwork/jose-bedia-alli-sera-mi-casa-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/73I7vkswkP5TX-t8pE-xLQ/medium.jpg"
+   }
+  ]
+ },
+ "La Vaughn Belle": {
+  "slug": "la-vaughn-belle",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "Christiansted, St. Croix, Virgin Islands",
+  "count": 36,
+  "works": [
+   {
+    "title": "Storm (how to imagine the tropicalia as monumental-as in the flesh of mountains undone) ",
+    "year": "ca. 2025",
+    "url": "https://www.artsy.net/artwork/la-vaughn-belle-storm-how-to-imagine-the-tropicalia-as-monumental-as-in-the-flesh-of-mountains-undone",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/fuUd6AhFi1a1a36MyGiEOw/medium.jpg"
+   },
+   {
+    "title": "Storm (how to imagine the tropicalia as monumental-as in the in-between of us and the stars) ",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/la-vaughn-belle-storm-how-to-imagine-the-tropicalia-as-monumental-as-in-the-in-between-of-us-and-the-stars",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/FRS2Ag-vdeKc0GtfaKipcg/medium.jpg"
+   },
+   {
+    "title": "Storm (how to imagine the tropicalia as monumental-as in amending)",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/la-vaughn-belle-storm-how-to-imagine-the-tropicalia-as-monumental-as-in-amending",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/9IadIs5JV4Pha8x5qWuTLg/medium.jpg"
+   }
+  ]
+ },
+ "Mario Benjamin": {
+  "slug": "mario-benjamin",
+  "birthday": "1964",
+  "deathday": "",
+  "nationality": "Haitian",
+  "location": "Haiti",
+  "count": 16,
+  "works": [
+   {
+    "title": "\"Leaves\"",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/mario-benjamin-leaves",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/LeT1Wj8gUTYFNLszEY6-JQ/medium.jpg"
+   },
+   {
+    "title": "\"Untitled\"",
+    "year": "1998",
+    "url": "https://www.artsy.net/artwork/mario-benjamin-untitled-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/3a--FSMtKV3soN5zlOVfEw/medium.jpg"
+   },
+   {
+    "title": "Abstract Expressionist Portrait ",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/mario-benjamin-abstract-expressionist-portrait",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/XyWmN3VY52ObGfBCid58JA/medium.jpg"
+   }
+  ]
+ },
+ "Jeannette Betancourt": {
+  "slug": "jeannette-betancourt",
+  "birthday": "1959",
+  "deathday": "",
+  "nationality": "Puerto Rican",
+  "location": "Mexico City, Mexico",
+  "count": 0,
+  "works": []
+ },
+ "Edward Bowen": {
+  "slug": "edward-bowen",
+  "birthday": "1963",
+  "deathday": "",
+  "nationality": "Trinidadian",
+  "location": "Trinidad and Tobago",
+  "count": 0,
+  "works": []
+ },
+ "Tania Bruguera": {
+  "slug": "tania-bruguera",
+  "birthday": "1968",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "New York, NY, USA",
+  "count": 10,
+  "works": [
+   {
+    "title": "Untitled (two works)",
+    "year": "1995",
+    "url": "https://www.artsy.net/artwork/tania-bruguera-untitled-two-works-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/sQKxgziZNyKXOHLRFDJHeQ/medium.jpg"
+   },
+   {
+    "title": "Untitled (two works)",
+    "year": "1995",
+    "url": "https://www.artsy.net/artwork/tania-bruguera-untitled-two-works-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/ndYU7dPmW2kAtqdib2ZxVg/medium.jpg"
+   },
+   {
+    "title": "Untitled (two works)",
+    "year": "1995",
+    "url": "https://www.artsy.net/artwork/tania-bruguera-untitled-two-works-3",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/vVF4DcVvL95SXKe7lzgQDw/medium.jpg"
+   }
+  ]
+ },
+ "Alex Burke": {
+  "slug": "alex-burke",
+  "birthday": "1944",
+  "deathday": "",
+  "nationality": "French",
+  "location": "Paris, France",
+  "count": 29,
+  "works": [
+   {
+    "title": "Doll",
+    "year": "2023-2024",
+    "url": "https://www.artsy.net/artwork/alex-burke-doll-43",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/wQH6dBZrpKzkg0Zk4A7_uw/medium.jpg"
+   },
+   {
+    "title": "Untitled (In Memory of Goree)",
+    "year": "1998",
+    "url": "https://www.artsy.net/artwork/alex-burke-untitled-in-memory-of-goree",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/H_y7ckagJ3DqjqsMQ3_PIA/medium.jpg"
+   },
+   {
+    "title": "Doll",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/alex-burke-doll-37",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/4Y8fCI6a9Q9U7k5rcoMK4Q/medium.jpg"
+   }
+  ]
+ },
+ "Firelei Báez": {
+  "slug": "firelei-baez-1",
+  "birthday": "1981",
+  "deathday": "",
+  "nationality": "Dominican",
+  "location": "New York, NY, USA",
+  "count": 29,
+  "works": []
+ },
+ "Allora & Calzadilla": {
+  "slug": "allora-and-calzadilla",
+  "birthday": "1974 and 1971",
+  "deathday": "",
+  "nationality": "Cuban-American",
+  "location": "San Juan, Puerto Rico",
+  "count": 35,
+  "works": [
+   {
+    "title": "Aeolian Chart",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/allora-and-calzadilla-aeolian-chart",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/6ZJk3JyjsZAi4gDT6--B1w/medium.jpg"
+   },
+   {
+    "title": "2 hose petrified Petrol Pump",
+    "year": "2012",
+    "url": "https://www.artsy.net/artwork/allora-and-calzadilla-2-hose-petrified-petrol-pump-3",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/hC5fGt1SvcJlC2SoM1igwQ/medium.jpg"
+   },
+   {
+    "title": "Electromagnetic Field (September 1, 2020, Meter Number 96215234, Consumption Charge 425kWh x $0.04944, Consumption Charge for Additional 805 kWh x $0.05564, Fuel Charge 1,230kWh x $0.05534, Purchase Power Charge 1,230kWh x $0.046489, Municipalities Charge,",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/allora-and-calzadilla-electromagnetic-field-september-1-2020-meter-number-96215234-consumption-charge-425kwh-x-0-dollars-dot-04944-consumption-charge-for-additional-805-kwh-x-0-dollars-dot-05564-fuel-charge-1230kwh-x-0-dollars-dot-05534-purchase-power-charge-1230kwh-x-0-dollars-dot-046489-municipalities-charge",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Te_eUvhc4GJE4x1sGfg10A/medium.jpg"
+   }
+  ]
+ },
+ "Charles Campbell": {
+  "slug": "charles-campbell",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 7,
+  "works": [
+   {
+    "title": "Actor Boy IV",
+    "year": "2009",
+    "url": "https://www.artsy.net/artwork/charles-campbell-actor-boy-iv",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/xllvKVlfkoJB8fwzsPcSOw/medium.jpg"
+   },
+   {
+    "title": "Moonscape 1: Cockpit Archipelago",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/charles-campbell-moonscape-1-cockpit-archipelago",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/DPwuLVRgIt621j_YjRjLaw/medium.jpg"
+   },
+   {
+    "title": "Bagasse",
+    "year": "2009",
+    "url": "https://www.artsy.net/artwork/charles-campbell-bagasse",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/PYnVbDI_T53e42lCtQYLyw/medium.jpg"
+   }
+  ]
+ },
+ "María Magdalena Campos-Pons": {
+  "slug": "maria-magdalena-campos-pons",
+  "birthday": "1959",
+  "deathday": null,
+  "nationality": "Cuban",
+  "location": "Nashville, TN, USA",
+  "count": 20,
+  "works": [
+   {
+    "title": "Testigo (Hand-Embellished, Limited Edition Print)",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/maria-magdalena-campos-pons-testigo-hand-embellished-limited-edition-print",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/3ScJkL6jXTBIUwqJAM9D2w/medium.jpg"
+   },
+   {
+    "title": "Mar Pacífico del Jardín de Amparo",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/maria-magdalena-campos-pons-mar-pacifico-del-jardin-de-amparo",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/kE91SZ7v0zBGhkT_LnQACA/medium.jpg"
+   },
+   {
+    "title": "Sugar/Bittersweet Installation 2",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/maria-magdalena-campos-pons-sugar-slash-bittersweet-installation-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/w7l9igeWRvp0cMBcbz1fpQ/medium.jpg"
+   }
+  ]
+ },
+ "Los Carpinteros": {
+  "slug": "los-carpinteros",
+  "birthday": "Established 1992",
+  "deathday": null,
+  "nationality": "Cuban",
+  "location": "Havana, Cuba",
+  "count": 81,
+  "works": [
+   {
+    "title": "Bloques Inertes",
+    "year": "2004",
+    "url": "https://www.artsy.net/artwork/los-carpinteros-bloques-inertes-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/20mQzUgzAQtHAkqSI_0LAw/medium.jpg"
+   },
+   {
+    "title": "Esquina",
+    "year": "2002",
+    "url": "https://www.artsy.net/artwork/los-carpinteros-esquina",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/32BqoKuLaA41ozFjYQ4AMw/medium.jpg"
+   },
+   {
+    "title": "Sala de Lectura Quimbumbia",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/los-carpinteros-sala-de-lectura-quimbumbia",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/2MeETzgDhjSo-f3PaFFIdQ/medium.jpg"
+   }
+  ]
+ },
+ "Liset Castillo": {
+  "slug": "liset-castillo",
+  "birthday": "1973",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Havana, Cuba",
+  "count": 5,
+  "works": [
+   {
+    "title": "Liquid city",
+    "year": "2002",
+    "url": "https://www.artsy.net/artwork/liset-castillo-liquid-city",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/LS-XegSlbnzyP8B5eEFSrw/medium.jpg"
+   },
+   {
+    "title": "Liquid City ",
+    "year": "2002",
+    "url": "https://www.artsy.net/artwork/liset-castillo-liquid-city-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/415qr1qp3kdW-XdxB4AMkQ/medium.jpg"
+   },
+   {
+    "title": "Garlic",
+    "year": "2000",
+    "url": "https://www.artsy.net/artwork/liset-castillo-garlic",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/naPu7k6k3rIWNZYdzv-hDw/medium.jpg"
+   }
+  ]
+ },
+ "Douglas Pérez Castro": {
+  "slug": "douglas-perez-castro",
+  "birthday": "1972",
+  "deathday": null,
+  "nationality": "Cuban",
+  "location": "Cuba",
+  "count": 9,
+  "works": [
+   {
+    "title": "Vedado (No. 3)",
+    "year": "2006",
+    "url": "https://www.artsy.net/artwork/douglas-perez-castro-vedado-no-3",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/NN7-uG-zMgHM1cuorGrZ0w/medium.jpg"
+   },
+   {
+    "title": "Vedado (No. 22)",
+    "year": "2006",
+    "url": "https://www.artsy.net/artwork/douglas-perez-castro-vedado-no-22",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/4LkMGTuwpuTf4J34HCSrnw/medium.jpg"
+   },
+   {
+    "title": "Vedado (No. 17)",
+    "year": "2006",
+    "url": "https://www.artsy.net/artwork/douglas-perez-castro-vedado-no-17",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/ZDXbitffe_CSOSd_SRlZTQ/medium.jpg"
+   }
+  ]
+ },
+ "Marie-Hélène Cauvin": {
+  "slug": "marie-helene-cauvin",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "Canadian-Haitian",
+  "location": "Montreal, QC, Canada",
+  "count": 4,
+  "works": [
+   {
+    "title": "\"Untitled\" ( Whisper of Temptation)",
+    "year": "1998",
+    "url": "https://www.artsy.net/artwork/marie-helene-cauvin-untitled-whisper-of-temptation",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Bg42eNjOAx-e-IRCjgkAOA/medium.jpg"
+   },
+   {
+    "title": "\"Initiation\"",
+    "year": "1998",
+    "url": "https://www.artsy.net/artwork/marie-helene-cauvin-initiation",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/olv39cWzHZOhJSfVVMSUOg/medium.jpg"
+   },
+   {
+    "title": "The Sorcerer",
+    "year": "1995",
+    "url": "https://www.artsy.net/artwork/marie-helene-cauvin-the-sorcerer",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/jHXHBTf7jyJ0T8XAxllN_g/medium.jpg"
+   }
+  ]
+ },
+ "Robert Charlotte": {
+  "slug": "robert-charlotte",
+  "birthday": "1966",
+  "deathday": "",
+  "nationality": "French",
+  "location": "Fort-de-France, Martinique",
+  "count": 24,
+  "works": [
+   {
+    "title": "Deep 3 (serie Sous influence)",
+    "year": "2018",
+    "url": "https://www.artsy.net/artwork/robert-charlotte-deep-3-serie-sous-influence-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/uHTMDQPQ9Uw5744JBVoOYA/medium.jpg"
+   },
+   {
+    "title": "Deep 2 (serie Sous influence)",
+    "year": "2018",
+    "url": "https://www.artsy.net/artwork/robert-charlotte-deep-2-serie-sous-influence-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/9sf8rt8H7I31ra2F4WSp0w/medium.jpg"
+   },
+   {
+    "title": "Letters - serie Correspondences - diptych",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/robert-charlotte-letters-serie-correspondences-diptych",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/CXEGSLWM54xlVu0oR1FdmQ/medium.jpg"
+   }
+  ]
+ },
+ "Camille Chedda": {
+  "slug": "camille-chedda",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "Jamaican",
+  "location": "",
+  "count": 6,
+  "works": [
+   {
+    "title": "Cemented 2",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/camille-chedda-cemented-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/sVR_jqMszTKZlGzLR-Pjsg/medium.jpg"
+   },
+   {
+    "title": "Sunbather 1 and 2",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/camille-chedda-sunbather-1-and-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/0R1qGSnJz1oFt33A6WxF_Q/medium.jpg"
+   },
+   {
+    "title": "Cemented at Emancipation Park 1",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/camille-chedda-cemented-at-emancipation-park-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/voM6twPzmSB_ljmFpG1chw/medium.jpg"
+   }
+  ]
+ },
+ "Albert Chong": {
+  "slug": "albert-chong",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 6,
+  "works": [
+   {
+    "title": "Yesolina's Daughter",
+    "year": "",
+    "url": "https://www.artsy.net/artwork/albert-chong-yesolinas-daughter",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/-SSAOKfzDmlEA0cLHEj87A/medium.jpg"
+   },
+   {
+    "title": "Codfish Throne with Coconut Vessels and Joshua Tree Spines",
+    "year": "1991",
+    "url": "https://www.artsy.net/artwork/albert-chong-codfish-throne-with-coconut-vessels-and-joshua-tree-spines",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/UNEYn4LSvbIlFeH96MEElQ/medium.jpg"
+   },
+   {
+    "title": "The Sisters",
+    "year": "1986",
+    "url": "https://www.artsy.net/artwork/albert-chong-the-sisters",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Gw0O_QjZlK116cOT1dkQIQ/medium.jpg"
+   }
+  ]
+ },
+ "Nayda Collazo-Lloréns": {
+  "slug": "nayda-collazo-llorens",
+  "birthday": "1968",
+  "deathday": "",
+  "nationality": "Puerto Rican",
+  "location": "Pittsburgh, PA, USA",
+  "count": 2,
+  "works": [
+   {
+    "title": "Locus Rackets Hypnotic: Noise 1",
+    "year": "2013",
+    "url": "https://www.artsy.net/artwork/nayda-collazo-llorens-locus-rackets-hypnotic-noise-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/CHyUZXCplI757ehLAXsrZA/medium.jpg"
+   },
+   {
+    "title": "Geo Dis/Connect 3",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/nayda-collazo-llorens-geo-dis-slash-connect-3",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/F3OnTM2YyCGlMI011fN67A/medium.jpg"
+   }
+  ]
+ },
+ "Myrlande Constant": {
+  "slug": "myrlande-constant",
+  "birthday": "1968",
+  "deathday": "",
+  "nationality": "Haitian",
+  "location": "Haiti",
+  "count": 50,
+  "works": [
+   {
+    "title": "\"Central African Republic\"",
+    "year": "2011",
+    "url": "https://www.artsy.net/artwork/myrlande-constant-central-african-republic",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/0osKMZC5PgTqxV38Ng9FSg/medium.jpg"
+   },
+   {
+    "title": "\"Guatemala\"",
+    "year": "2011",
+    "url": "https://www.artsy.net/artwork/myrlande-constant-guatemala",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/6cctwg_a0sCEEFSwZ76fnQ/medium.jpg"
+   },
+   {
+    "title": "People's Republic of the Congo (1969–1991).",
+    "year": "2011",
+    "url": "https://www.artsy.net/artwork/myrlande-constant-peoples-republic-of-the-congo-1969-1991",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/jXIhuOmiXO3fN19wH9Xx2A/medium.jpg"
+   }
+  ]
+ },
+ "James Cooper": {
+  "slug": "james-cooper-1",
+  "birthday": "1965",
+  "deathday": "",
+  "nationality": "Bermudian",
+  "location": "Bermuda",
+  "count": 23,
+  "works": []
+ },
+ "José García Cordero": {
+  "slug": "jose-garcia-cordero",
+  "birthday": "1951",
+  "deathday": "",
+  "nationality": "Dominican",
+  "location": "Paris, France",
+  "count": 5,
+  "works": [
+   {
+    "title": "Makandall, Ha Ya Siglos",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/jose-garcia-cordero-makandall-ha-ya-siglos",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/idedixAOpx8JJr9dBdxJhw/medium.jpg"
+   },
+   {
+    "title": "Bosque Seco (Díptico)",
+    "year": "2005-2023",
+    "url": "https://www.artsy.net/artwork/jose-garcia-cordero-bosque-seco-diptico",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/x_Gro4xtZqqVd4emWi5AUA/medium.jpg"
+   },
+   {
+    "title": "Tierra",
+    "year": "2001-2002",
+    "url": "https://www.artsy.net/artwork/jose-garcia-cordero-tierra",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Upfi--rEcKJSZYa9D0BhOQ/medium.jpg"
+   }
+  ]
+ },
+ "John Edward Cox": {
+  "slug": "john-edward-cox",
+  "birthday": "1973",
+  "deathday": "",
+  "nationality": "Bahamian",
+  "location": "Nassau, The Bahamas",
+  "count": 0,
+  "works": []
+ },
+ "Renee Cox": {
+  "slug": "renee-cox",
+  "birthday": "1960",
+  "deathday": null,
+  "nationality": "Jamaican-American",
+  "location": null,
+  "count": 93,
+  "works": [
+   {
+    "title": "Chillen with Liberty (From Raje Series)",
+    "year": "1998",
+    "url": "https://www.artsy.net/artwork/renee-cox-chillen-with-liberty-from-raje-series-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/8iGu77FgC8x6EqfFrC9KGA/medium.jpg"
+   },
+   {
+    "title": "The Liberation of Aunt Jemima and Uncle Ben (From Raje Series)",
+    "year": "1998",
+    "url": "https://www.artsy.net/artwork/renee-cox-the-liberation-of-aunt-jemima-and-uncle-ben-from-raje-series",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/cS6T3tU6RC0cHuYNXUuLig/medium.jpg"
+   },
+   {
+    "title": "Detail from The Signing (Figure with Platform Boots)",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/renee-cox-detail-from-the-signing-figure-with-platform-boots",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/_qdDHGH4RjlaEiqiAFcHWg/medium.jpg"
+   }
+  ]
+ },
+ "Blue Curry": {
+  "slug": "blue-curry",
+  "birthday": "1974",
+  "deathday": "",
+  "nationality": "Bahamian",
+  "location": "London, UK",
+  "count": 25,
+  "works": [
+   {
+    "title": "Vacay Vibez",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/blue-curry-vacay-vibez",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/aKQ2eBONoeZtWZqaQqjy2w/medium.jpg"
+   },
+   {
+    "title": "Island, No 2",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/blue-curry-island-no-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/_KdFn9uhFD7ks5TqITm-tg/medium.jpg"
+   },
+   {
+    "title": "Mask 5",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/blue-curry-mask-5",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/y9Im0LY6Uz5ld2LbNVIeQA/medium.jpg"
+   }
+  ]
+ },
+ "Carlos Rodríguez Cárdenas": {
+  "slug": "carlos-rodriguez-cardenas",
+  "birthday": "1962",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "New York, NY, USA",
+  "count": 12,
+  "works": [
+   {
+    "title": "Architectural Landscape ",
+    "year": "2018",
+    "url": "https://www.artsy.net/artwork/carlos-rodriguez-cardenas-architectural-landscape",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/QgzBlRywZ3YRZql4N2VPyA/medium.jpg"
+   },
+   {
+    "title": "The Bridge between Sea and Sky",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/carlos-rodriguez-cardenas-the-bridge-between-sea-and-sky",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/d_cS8_RDq3BxXBvWQL_DWw/medium.jpg"
+   },
+   {
+    "title": "Untitled",
+    "year": "1992",
+    "url": "https://www.artsy.net/artwork/carlos-rodriguez-cardenas-untitled-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/uGxsydGM3jt59xh2F22iYw/medium.jpg"
+   }
+  ]
+ },
+ "Annalee Davis": {
+  "slug": "annalee-davis",
+  "birthday": "1963",
+  "deathday": "",
+  "nationality": "Barbadian",
+  "location": "Barbados",
+  "count": 6,
+  "works": [
+   {
+    "title": "Parasite on Gold II",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/annalee-davis-parasite-on-gold-ii",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/NiGmE7GxsEcB0jNYIpVmZw/medium.jpg"
+   },
+   {
+    "title": "Second Spring Study (i)",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/annalee-davis-second-spring-study-i",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/QtrSg6OL0ZThzTvtyH8WXA/medium.jpg"
+   },
+   {
+    "title": "Parasite on Gold I",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/annalee-davis-parasite-on-gold-i-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/CIcHbaVniMVuZ0hTOsnr7w/medium.jpg"
+   }
+  ]
+ },
+ "Maksaens Denis": {
+  "slug": "maksaens-denis",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 3,
+  "works": [
+   {
+    "title": "Saint Sebastien",
+    "year": "2016",
+    "url": "https://www.artsy.net/artwork/maksaens-denis-saint-sebastien",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/jzUtOl-Vu0QLqA51q8GTSA/medium.jpg"
+   },
+   {
+    "title": "Saint Sébastien",
+    "year": "2016",
+    "url": "https://www.artsy.net/artwork/maksaens-denis-saint-sebastien-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/CJMU5evO9ck8S2pC_LU3Mw/medium.jpg"
+   }
+  ]
+ },
+ "Juan Roberto Diago": {
+  "slug": "juan-roberto-diago",
+  "birthday": "1971",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Havana, Cuba",
+  "count": 43,
+  "works": [
+   {
+    "title": "Untitled",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/juan-roberto-diago-untitled-453",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/2Whhl0XRyWLZXWTQZdUpMA/medium.jpg"
+   },
+   {
+    "title": "Cielo de Todos Tierra de Nadie",
+    "year": "2001",
+    "url": "https://www.artsy.net/artwork/juan-roberto-diago-cielo-de-todos-tierra-de-nadie",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/3wCBrH-tT8kh7s_FNEdtGw/medium.jpg"
+   },
+   {
+    "title": "Mi Señora",
+    "year": "2005",
+    "url": "https://www.artsy.net/artwork/juan-roberto-diago-mi-senora-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/LFncDr8vqOWfcF3ZLa0Htw/medium.jpg"
+   }
+  ]
+ },
+ "Philippe Dodard": {
+  "slug": "philippe-dodard",
+  "birthday": "1954",
+  "deathday": "",
+  "nationality": "Haitian",
+  "location": "",
+  "count": 31,
+  "works": [
+   {
+    "title": "Le Petit Excentrique ",
+    "year": "1995",
+    "url": "https://www.artsy.net/artwork/philippe-dodard-le-petit-excentrique",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/NYfnwftcMdTwQwhUk5ysUA/medium.jpg"
+   },
+   {
+    "title": "Untitled Abstract",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/philippe-dodard-untitled-abstract",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/r1mgcyI0eYxm6XT5XvtKyg/medium.jpg"
+   },
+   {
+    "title": "Crepuscule ",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/philippe-dodard-crepuscule",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Ihm-MCswTao4NRyVR5UgQg/medium.jpg"
+   }
+  ]
+ },
+ "Peter Doig": {
+  "slug": "peter-doig",
+  "birthday": "1959",
+  "deathday": "",
+  "nationality": "British",
+  "location": "Port of Spain, Trinidad",
+  "count": 596,
+  "works": [
+   {
+    "title": "Kings Cross Mosquito",
+    "year": "2000",
+    "url": "https://www.artsy.net/artwork/peter-doig-kings-cross-mosquito-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/-U6xkHZqoOodfkZ4p6B_HQ/medium.jpg"
+   },
+   {
+    "title": "Fisherman",
+    "year": "2004",
+    "url": "https://www.artsy.net/artwork/peter-doig-fisherman-303",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/tJzlzjxFvd-wQoqgX0gnXA/medium.jpg"
+   },
+   {
+    "title": "Music, 2 Trees",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/peter-doig-music-2-trees-20",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/3kICdyEFbPudKUMNZLk6nQ/medium.jpg"
+   }
+  ]
+ },
+ "Edouard Duval-Carrié": {
+  "slug": "edouard-duval-carrie",
+  "birthday": "1954",
+  "deathday": "",
+  "nationality": "Haitian",
+  "location": "Miami, FL, USA",
+  "count": 39,
+  "works": [
+   {
+    "title": "Untitled",
+    "year": "2004",
+    "url": "https://www.artsy.net/artwork/edouard-duval-carrie-untitled-10",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/PIlfqtfT6rH7_pBXuQ9EjA/medium.jpg"
+   },
+   {
+    "title": "Untitled (Heart)",
+    "year": "2013",
+    "url": "https://www.artsy.net/artwork/edouard-duval-carrie-untitled-heart-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/3bN9C2nYKiEjnVj9OBYM6A/medium.jpg"
+   },
+   {
+    "title": "Untitled",
+    "year": "2004",
+    "url": "https://www.artsy.net/artwork/edouard-duval-carrie-untitled-12",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/qkDwpu6v6YQVggYb6tlbAQ/medium.jpg"
+   }
+  ]
+ },
+ "Jean-Ulrick Désert": {
+  "slug": "jean-ulrick-desert",
+  "birthday": "1960",
+  "deathday": "",
+  "nationality": "Haitian",
+  "location": "Berlin, Germany",
+  "count": 16,
+  "works": [
+   {
+    "title": "“Waters of Kiskeya” (1 of 2 unique)",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/jean-ulrick-desert-waters-of-kiskeya-1-of-2-unique",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/krdd0H7Vl2tNwMN0tqI7WQ/medium.jpg"
+   },
+   {
+    "title": "Waters of Kiskeya",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/jean-ulrick-desert-waters-of-kiskeya-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/uqMNRyACTlUKguE--aZ4tg/medium.jpg"
+   },
+   {
+    "title": "Your silence will not protect you",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/jean-ulrick-desert-your-silence-will-not-protect-you",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/dlFx2Y9aIS_KaBELOcozQg/medium.jpg"
+   }
+  ]
+ },
+ "Laura Facey": {
+  "slug": "laura-facey",
+  "birthday": "1954",
+  "deathday": "",
+  "nationality": "Jamaican",
+  "location": "",
+  "count": 3,
+  "works": [
+   {
+    "title": "Golden Tree Sculpture",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/laura-facey-golden-tree-sculpture",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/-XraOVC9cmyo5vWa8TuGcg/medium.jpg"
+   },
+   {
+    "title": "Untitled",
+    "year": "2008",
+    "url": "https://www.artsy.net/artwork/laura-facey-untitled",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/HGkkQBeRDuJK8MkL4Zcjxg/medium.jpg"
+   },
+   {
+    "title": "'Dancing Combs'",
+    "year": "2016",
+    "url": "https://www.artsy.net/artwork/laura-facey-dancing-combs",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/mReNeg3RH1YzwvbXCZhmLA/medium.jpg"
+   }
+  ]
+ },
+ "Denzil Forrester": {
+  "slug": "denzil-forrester",
+  "birthday": "1956",
+  "deathday": "",
+  "nationality": "Grenadian, British",
+  "location": "Truro, UK",
+  "count": 2,
+  "works": [
+   {
+    "title": "Reverb",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/denzil-forrester-reverb",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/SsNxn3_iZv-Cxt29X_7Mqw/medium.jpg"
+   },
+   {
+    "title": "Police In Blues Club",
+    "year": "1981",
+    "url": "https://www.artsy.net/artwork/denzil-forrester-police-in-blues-club",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/v6Wf4U5gFMgIS5fSnjaCGQ/medium.jpg"
+   }
+  ]
+ },
+ "José Manuel Fors": {
+  "slug": "jose-manuel-fors",
+  "birthday": "1956",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Cuba and Spain",
+  "count": 19,
+  "works": [
+   {
+    "title": "Atados de Memoria",
+    "year": "2005",
+    "url": "https://www.artsy.net/artwork/jose-manuel-fors-atados-de-memoria-8",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/uKWIqZ1wRHuMTB14ooolvA/medium.jpg"
+   },
+   {
+    "title": "Atados de Memoria",
+    "year": "2005",
+    "url": "https://www.artsy.net/artwork/jose-manuel-fors-atados-de-memoria-9",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/gN6oqU1TDH4_0X5Z_Iab6Q/medium.jpg"
+   },
+   {
+    "title": "Palimpsesto",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/jose-manuel-fors-palimpsesto-32",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/s7S6R74vRbvajopUL8qFWA/medium.jpg"
+   }
+  ]
+ },
+ "Carlos Garaicoa": {
+  "slug": "carlos-garaicoa",
+  "birthday": "1967",
+  "deathday": null,
+  "nationality": "Cuban",
+  "location": "Madrid, Spain",
+  "count": 89,
+  "works": [
+   {
+    "title": "Sin título",
+    "year": "2005",
+    "url": "https://www.artsy.net/artwork/carlos-garaicoa-sin-titulo-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/WeiqKWo1ySeBKl2uipyAiw/medium.jpg"
+   },
+   {
+    "title": "De la serie Puzzles: Tanque de Agua / From the Puzzles series: Water Tank",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/carlos-garaicoa-de-la-serie-puzzles-tanque-de-agua-slash-from-the-puzzles-series-water-tank",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/JAJyhHjGYekP5em55sn-Jg/medium.jpg"
+   },
+   {
+    "title": "Rivoli, O el lugar de donde emana la sangre (Rivoli or The Place Where Blood Flows)",
+    "year": "1993",
+    "url": "https://www.artsy.net/artwork/carlos-garaicoa-rivoli-o-el-lugar-de-donde-emana-la-sangre-rivoli-or-the-place-where-blood-flows",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/0Qmf_KkTshpjVdRS-5qnXA/medium.jpg"
+   }
+  ]
+ },
+ "Aimée García": {
+  "slug": "aimee-garcia",
+  "birthday": "1972",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Winston-Salem, NC, USA",
+  "count": 33,
+  "works": [
+   {
+    "title": "De la serie Orden: Atributos",
+    "year": "2004",
+    "url": "https://www.artsy.net/artwork/aimee-garcia-de-la-serie-orden-atributos",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/3TRdVJUoEKQfhAXcMdTD8w/medium.jpg"
+   },
+   {
+    "title": "Repression #7",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/aimee-garcia-repression-number-7",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/uHXKFjoc_OMENfHhkvP66A/medium.jpg"
+   },
+   {
+    "title": "Antipodal",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/aimee-garcia-antipodal",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/MySgYaEjbNRVyS-PeCWuiQ/medium.jpg"
+   }
+  ]
+ },
+ "Scherezade García": {
+  "slug": "scherezade-garcia",
+  "birthday": "1966",
+  "deathday": "",
+  "nationality": "Dominican",
+  "location": "Brooklyn, NY, USA",
+  "count": 17,
+  "works": [
+   {
+    "title": "Tropical Bouquet II",
+    "year": "ca. 2023",
+    "url": "https://www.artsy.net/artwork/scherezade-garcia-tropical-bouquet-ii",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/7BwmAWCJL4EqxX35lixIzg/medium.jpg"
+   },
+   {
+    "title": "Tropical Bouquet ",
+    "year": "ca. 2023",
+    "url": "https://www.artsy.net/artwork/scherezade-garcia-tropical-bouquet",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/85JXAxNBcF9FTgFW4zho1A/medium.jpg"
+   },
+   {
+    "title": "Archipiélago Caribe II",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/scherezade-garcia-archipielago-caribe-ii",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/BD5G2ytcv0FaSO7jykrVCQ/medium.jpg"
+   }
+  ]
+ },
+ "Eduardo Ponjuán González": {
+  "slug": "eduardo-ponjuan-gonzalez",
+  "birthday": "1956",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "",
+  "count": 31,
+  "works": [
+   {
+    "title": "Secreta Pasion",
+    "year": "1997",
+    "url": "https://www.artsy.net/artwork/eduardo-ponjuan-gonzalez-secreta-pasion",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/T0yLU9FKdOGwutq_A9d_PA/medium.jpg"
+   },
+   {
+    "title": "Voyeur",
+    "year": "1995",
+    "url": "https://www.artsy.net/artwork/eduardo-ponjuan-gonzalez-voyeur",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Pc8V019pfAJx3oXUw34Pbg/medium.jpg"
+   },
+   {
+    "title": "Tornado II",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/eduardo-ponjuan-gonzalez-tornado-ii",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/_sDvRTWw0kFwVw6ciNFR_g/medium.jpg"
+   }
+  ]
+ },
+ "Marlon Griffith": {
+  "slug": "marlon-griffith",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 0,
+  "works": []
+ },
+ "David Gumbs": {
+  "slug": "david-gumbs",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 6,
+  "works": [
+   {
+    "title": "Coralita",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/david-gumbs-coralita",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/KssuSTRE1CtOVKnZ5mQgIA/medium.jpg"
+   },
+   {
+    "title": "Power M",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/david-gumbs-power-m",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/ie8snSnzLwK-KF5mzI5jOQ/medium.jpg"
+   },
+   {
+    "title": "Power M2",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/david-gumbs-power-m2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Yq1WC_vRCBuad-mXnUsYcA/medium.jpg"
+   }
+  ]
+ },
+ "Abigail Hadeed": {
+  "slug": "abigail-hadeed",
+  "birthday": "1963",
+  "deathday": "",
+  "nationality": "Trinidadian",
+  "location": "Trinidad and Tobago",
+  "count": 4,
+  "works": [
+   {
+    "title": "01_Still Life | Still Lives – Not so Enchanted_Rock the Boat",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/abigail-hadeed-01-still-life-still-lives-not-so-enchanted-rock-the-boat",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/7xnWrTLIDx0Ob9FfCOkT-g/medium.jpg"
+   },
+   {
+    "title": "Still Life | Still Lives – Not so Enchanted_Not so Enchanted",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/abigail-hadeed-still-life-still-lives-not-so-enchanted-not-so-enchanted",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/qx2T1UBUAOBjaBUUSrwayg/medium.jpg"
+   },
+   {
+    "title": "Still Life | Still Lives – Not so Enchanted_The Ghost Ship",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/abigail-hadeed-still-life-still-lives-not-so-enchanted-the-ghost-ship",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Sw12RcRv1615QEHfFWS-ZQ/medium.jpg"
+   }
+  ]
+ },
+ "Satch Hoyt": {
+  "slug": "satch-hoyt",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 1,
+  "works": [
+   {
+    "title": "Three Degrees of Silence",
+    "year": "2018",
+    "url": "https://www.artsy.net/artwork/satch-hoyt-three-degrees-of-silence",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/IM_S2CjWe8eUxMDjN2ZNUg/medium.jpg"
+   }
+  ]
+ },
+ "Jean-Marc Hunt": {
+  "slug": "jean-marc-hunt",
+  "birthday": "1974",
+  "deathday": "",
+  "nationality": "French",
+  "location": "Guadeloupe",
+  "count": 0,
+  "works": []
+ },
+ "Deborah Jack": {
+  "slug": "deborah-jack",
+  "birthday": "1970",
+  "deathday": "",
+  "nationality": "Dutch Antillean",
+  "location": "United States",
+  "count": 42,
+  "works": [
+   {
+    "title": "Drawn by Water: Sea drawings in three acts, Act 3: sinking, I remembered that the embrace of oceans is the love I know",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/deborah-jack-drawn-by-water-sea-drawings-in-three-acts-act-3-sinking-i-remembered-that-the-embrace-of-oceans-is-the-love-i-know",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/ZSkUXUZr-HJ_xxYFpzylwg/medium.jpg"
+   },
+   {
+    "title": "Intertidal Imaginaries: the cordage of mangrove tightens bland water to bland sky",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/deborah-jack-intertidal-imaginaries-the-cordage-of-mangrove-tightens-bland-water-to-bland-sky",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/rSaA6k8bVlJIM4Dbc7VKdQ/medium.jpg"
+   },
+   {
+    "title": "evidence #20",
+    "year": "2009",
+    "url": "https://www.artsy.net/artwork/deborah-jack-evidence-number-20",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/CJzFPRzi_iuD9zaVCfXyfA/medium.jpg"
+   }
+  ]
+ },
+ "Leasho Johnson": {
+  "slug": "leasho-johnson",
+  "birthday": "1984",
+  "deathday": "",
+  "nationality": "Jamaican",
+  "location": "Chicago",
+  "count": 24,
+  "works": [
+   {
+    "title": "When every cell in your body turns itself into sorrow, it will want to turn into water next",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/leasho-johnson-when-every-cell-in-your-body-turns-itself-into-sorrow-it-will-want-to-turn-into-water-next",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/twf0XKxeAj6eXF2FNNZKPg/medium.jpg"
+   },
+   {
+    "title": "Jumbles and juice",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/leasho-johnson-jumbles-and-juice",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/tvkb17LQZ4SHszlO0Kvj_Q/medium.jpg"
+   },
+   {
+    "title": "No one wants to see, or seeing is a charity they submit to",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/leasho-johnson-no-one-wants-to-see-or-seeing-is-a-charity-they-submit-to",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/KOnam6yjyQJX7dLQSXTnrw/medium.jpg"
+   }
+  ]
+ },
+ "Remy Jungerman": {
+  "slug": "remy-jungerman",
+  "birthday": "1959",
+  "deathday": "",
+  "nationality": "Surinamese",
+  "location": "Amsterdam, Netherlands",
+  "count": 57,
+  "works": [
+   {
+    "title": "Horizontal Obeah KANGAA I",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/remy-jungerman-horizontal-obeah-kangaa-i",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/twS-Cuq2dUkzzBdLpKa5-g/medium.jpg"
+   },
+   {
+    "title": "OBIAPOSU III",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/remy-jungerman-obiaposu-iii",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/pyCrS-R6DGOMntz-NuAaIA/medium.jpg"
+   },
+   {
+    "title": "Pimba Pimba ADONKE VIII",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/remy-jungerman-pimba-pimba-adonke-viii",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/cWWqwQlIdV7fgU3Dwtvi7A/medium.jpg"
+   }
+  ]
+ },
+ "Patricia Kaersenhout": {
+  "slug": "patricia-kaersenhout",
+  "birthday": "1966",
+  "deathday": "",
+  "nationality": "Dutch",
+  "location": "France/Netherlands",
+  "count": 12,
+  "works": [
+   {
+    "title": "Mea Culpa",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/patricia-kaersenhout-mea-culpa",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/k16xSaI-q1zol6cZ9jJlVg/medium.jpg"
+   },
+   {
+    "title": "Pre-Colonial Life / Creation Story out of A Phantasmagorical history of Manhatta Island ",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/patricia-kaersenhout-pre-colonial-life-slash-creation-story-out-of-a-phantasmagorical-history-of-manhatta-island",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/NDjbH28_M6AaGt6gCMEgEg/medium.jpg"
+   },
+   {
+    "title": "Forest Spirit out of A Phantasmagorical history of Manhatta Island 2024",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/patricia-kaersenhout-forest-spirit-out-of-a-phantasmagorical-history-of-manhatta-island-2024",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/_RfE7w8Ct7Y8R-IXuDicAw/small.jpg"
+   }
+  ]
+ },
+ "Kcho": {
+  "slug": "kcho-1",
+  "birthday": "1970",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Havana, Cuba",
+  "count": 171,
+  "works": []
+ },
+ "Marc Latamie": {
+  "slug": "marc-latamie",
+  "birthday": "1952",
+  "deathday": "",
+  "nationality": "French",
+  "location": "New York, NY, USA",
+  "count": 4,
+  "works": [
+   {
+    "title": "\"Alaska\"",
+    "year": "1997",
+    "url": "https://www.artsy.net/artwork/marc-latamie-alaska",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/8bFDhUwZxY_XTpMfRj6sgw/medium.jpg"
+   },
+   {
+    "title": "\"The Netherlands\"",
+    "year": "ca. 1997",
+    "url": "https://www.artsy.net/artwork/marc-latamie-the-netherlands",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/69NhbWmkPyx7BzBh_0h07w/medium.jpg"
+   },
+   {
+    "title": "Pan 23",
+    "year": "1997",
+    "url": "https://www.artsy.net/artwork/marc-latamie-pan-23",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/qvJd-B-CAzGDU7aHc3QN_A/medium.jpg"
+   }
+  ]
+ },
+ "Daniel Lind-Ramos": {
+  "slug": "daniel-lind-ramos",
+  "birthday": "1953",
+  "deathday": "",
+  "nationality": "",
+  "location": "Puerto Rico",
+  "count": 0,
+  "works": []
+ },
+ "Ruben Torres Llorca": {
+  "slug": "ruben-torres-llorca",
+  "birthday": "1957",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Miami, FL, USA",
+  "count": 15,
+  "works": [
+   {
+    "title": "Narrative",
+    "year": "1999",
+    "url": "https://www.artsy.net/artwork/ruben-torres-llorca-narrative",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/2SPubJgnTgfgRgFe5CLjFg/medium.jpg"
+   },
+   {
+    "title": "Nobody Listens",
+    "year": "",
+    "url": "https://www.artsy.net/artwork/ruben-torres-llorca-nobody-listens-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/lYLtoDZaqBTNfi4ftQGdng/medium.jpg"
+   },
+   {
+    "title": "Untitled",
+    "year": "2002",
+    "url": "https://www.artsy.net/artwork/ruben-torres-llorca-untitled-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Q8tRWVBM1b_gu272AZzQ8w/medium.jpg"
+   }
+  ]
+ },
+ "Hew Locke": {
+  "slug": "hew-locke",
+  "birthday": "1959",
+  "deathday": "",
+  "nationality": "",
+  "location": "London, UK",
+  "count": 52,
+  "works": [
+   {
+    "title": "Triumph 1",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/hew-locke-triumph-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/OMWNuYd4AStDEPTsrSk0XA/medium.jpg"
+   },
+   {
+    "title": "Kings & Queens 9",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/hew-locke-kings-and-queens-9",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Zwtuhg98-AEQUJGSOugURg/medium.jpg"
+   },
+   {
+    "title": "Kings & Queens 11",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/hew-locke-kings-and-queens-11",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/6AMqwPC0OCDRLFkFqNHLhA/medium.jpg"
+   }
+  ]
+ },
+ "Che Lovelace": {
+  "slug": "che-lovelace",
+  "birthday": "1969",
+  "deathday": "",
+  "nationality": "Trinidadian",
+  "location": "Port of Spain, Trinidad and Tobago",
+  "count": 5,
+  "works": [
+   {
+    "title": "Roadside Fire",
+    "year": "2004",
+    "url": "https://www.artsy.net/artwork/che-lovelace-roadside-fire",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Aarvyj8HJy4zMclkVvKb2A/medium.jpg"
+   },
+   {
+    "title": "Street Boy",
+    "year": "2006",
+    "url": "https://www.artsy.net/artwork/che-lovelace-street-boy",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/bAgvw6IQM_queftvRABjbQ/medium.jpg"
+   },
+   {
+    "title": "The Movement of Paramin Devils",
+    "year": "2016",
+    "url": "https://www.artsy.net/artwork/che-lovelace-the-movement-of-paramin-devils",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/vNzd-uGNlpR8StuJOqQ7XA/medium.jpg"
+   }
+  ]
+ },
+ "Miguel Luciano": {
+  "slug": "miguel-luciano",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 1,
+  "works": [
+   {
+    "title": "Right On Be Free",
+    "year": "2015",
+    "url": "https://www.artsy.net/artwork/miguel-luciano-right-on-be-free",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/00ZCdKnFN0zuWTk1HDXYWw/medium.jpg"
+   }
+  ]
+ },
+ "Shastri Maharaj": {
+  "slug": "shastri-maharaj",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "Trinidadian",
+  "location": "Trinidad and Tobago",
+  "count": 3,
+  "works": [
+   {
+    "title": "Alone with the Land",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/shastri-maharaj-alone-with-the-land",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/laKQKOlSYHHUvZMSEorvhg/medium.jpg"
+   },
+   {
+    "title": "Deep in the Flat Lands",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/shastri-maharaj-deep-in-the-flat-lands",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/sd-NOY8KZcBviQoV28QZvw/medium.jpg"
+   },
+   {
+    "title": "Off the Main Road",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/shastri-maharaj-off-the-main-road",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/v_TDx4gogNhO1jXPt-qp0A/medium.jpg"
+   }
+  ]
+ },
+ "Pauline Marcelle": {
+  "slug": "pauline-marcelle",
+  "birthday": "1964",
+  "deathday": "",
+  "nationality": "Dominican",
+  "location": "Vienna, Austria",
+  "count": 52,
+  "works": [
+   {
+    "title": "Gipsy Stories",
+    "year": "2005",
+    "url": "https://www.artsy.net/artwork/pauline-marcelle-gipsy-stories",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Je82zPI6xq6TCrao1Fr-EQ/medium.jpg"
+   },
+   {
+    "title": "How Could It",
+    "year": "2005",
+    "url": "https://www.artsy.net/artwork/pauline-marcelle-how-could-it",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/6aoQEhNe_21zVFhsqXGg5w/medium.jpg"
+   },
+   {
+    "title": "Papercut",
+    "year": "2005",
+    "url": "https://www.artsy.net/artwork/pauline-marcelle-papercut",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/JhncTVzAh--qSUnKW-F4aw/medium.jpg"
+   }
+  ]
+ },
+ "Tessa Mars": {
+  "slug": "tessa-mars",
+  "birthday": "1985",
+  "deathday": "",
+  "nationality": "Haitian",
+  "location": "Port-au-Prince, Haiti",
+  "count": 33,
+  "works": [
+   {
+    "title": "Fauna and flora",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/tessa-mars-fauna-and-flora",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/kgqawx1e-DLcgxPdBM1dug/medium.jpg"
+   },
+   {
+    "title": "Dream of freedom, dream of death III",
+    "year": "2016",
+    "url": "https://www.artsy.net/artwork/tessa-mars-dream-of-freedom-dream-of-death-iii",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/ZfcIbKLYd34RTTi2yWXCoQ/medium.jpg"
+   },
+   {
+    "title": "The other side",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/tessa-mars-the-other-side-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/3UQEwuukA2eY1fdz0XUJVg/medium.jpg"
+   }
+  ]
+ },
+ "Kelly Sinnapah Mary": {
+  "slug": "kelly-sinnapah-mary",
+  "birthday": "1981",
+  "deathday": "",
+  "nationality": "Carribbean",
+  "location": "",
+  "count": 1,
+  "works": [
+   {
+    "title": "Violette's Book: The Girl with 3 Eyes",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/kelly-sinnapah-mary-violettes-book-the-girl-with-3-eyes",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/RJkGxCZMKrvSH3cHJig64g/medium.jpg"
+   }
+  ]
+ },
+ "Olivia McGilchrist": {
+  "slug": "olivia-mcgilchrist",
+  "birthday": "1981",
+  "deathday": "",
+  "nationality": "French-Jamaican",
+  "location": "Montreal, QC, Canada",
+  "count": 32,
+  "works": [
+   {
+    "title": "from many sides Davidoff Art Initiative commission, video still 5219",
+    "year": "2016",
+    "url": "https://www.artsy.net/artwork/olivia-mcgilchrist-from-many-sides-davidoff-art-initiative-commission-video-still-5219",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/RbF-Gph4ozA_rfhGreWRJQ/medium.jpg"
+   },
+   {
+    "title": " ISLAND, Virtual Reality screen capture #438",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/olivia-mcgilchrist-island-virtual-reality-screen-capture-number-438",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Hdxy_cgE94lHYlRFbsbZHw/medium.jpg"
+   },
+   {
+    "title": "ISLAND, Virtual Reality screen capture # 196",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/olivia-mcgilchrist-island-virtual-reality-screen-capture-number-196",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/ZWUKd8Y-o-AAWounxCFpOA/medium.jpg"
+   }
+  ]
+ },
+ "Wendell McShine": {
+  "slug": "wendell-mcshine",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 2,
+  "works": [
+   {
+    "title": "100 Jump Shots",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/wendell-mcshine-100-jump-shots",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/KUUMdLoNv7WVNXzYmxZ5Mw/medium.jpg"
+   },
+   {
+    "title": "Newtopian Republic",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/wendell-mcshine-newtopian-republic",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/wCX6wrrFhTrQPULmGVzuOg/medium.jpg"
+   }
+  ]
+ },
+ "Joiri Minaya": {
+  "slug": "joiri-minaya",
+  "birthday": "1990",
+  "deathday": "",
+  "nationality": "American",
+  "location": "New York, NY, USA",
+  "count": 31,
+  "works": [
+   {
+    "title": "Container #2",
+    "year": "2016",
+    "url": "https://www.artsy.net/artwork/joiri-minaya-container-number-2-3",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/2FmDuL7SyTDkdVZZFTBbkg/medium.jpg"
+   },
+   {
+    "title": "Container #7",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/joiri-minaya-container-number-7",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/gR8GnmYzchK8YigpfQWIZQ/medium.jpg"
+   },
+   {
+    "title": "Container #2",
+    "year": "2016",
+    "url": "https://www.artsy.net/artwork/joiri-minaya-container-number-2-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/eW_lw-BQcVGKg-WgoxHm2A/medium.jpg"
+   }
+  ]
+ },
+ "Ibrahim Miranda": {
+  "slug": "ibrahim-miranda",
+  "birthday": "1969",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Havana, Cuba",
+  "count": 4,
+  "works": [
+   {
+    "title": "Lagrimas Negras (Black Tears)",
+    "year": "2000",
+    "url": "https://www.artsy.net/artwork/ibrahim-miranda-lagrimas-negras-black-tears",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/8XVMbFyawQ0UMu8pdCR4DA/medium.jpg"
+   },
+   {
+    "title": "Sin titulo (from the Mapas series)",
+    "year": "2001",
+    "url": "https://www.artsy.net/artwork/ibrahim-miranda-sin-titulo-from-the-mapas-series-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Zj2wbg0yZL_alvUC_FAcxw/medium.jpg"
+   },
+   {
+    "title": "Sin titulo (from the Mapas series)",
+    "year": "1998",
+    "url": "https://www.artsy.net/artwork/ibrahim-miranda-sin-titulo-from-the-mapas-series-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/BdrhX1EafcyfLyL07PpJLA/medium.jpg"
+   }
+  ]
+ },
+ "Madsen Mompremier": {
+  "slug": "madsen-mompremier",
+  "birthday": "Unknown",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 0,
+  "works": []
+ },
+ "Esterio Segura Mora": {
+  "slug": "esterio-segura-mora",
+  "birthday": "1970",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Havana, Cuba",
+  "count": 19,
+  "works": [
+   {
+    "title": "Dónde el Silencio Produce Ansias",
+    "year": "2004",
+    "url": "https://www.artsy.net/artwork/esterio-segura-mora-donde-el-silencio-produce-ansias",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/d4xk4GQJUb028G77jTbO0Q/medium.jpg"
+   },
+   {
+    "title": "Submarine Homemade",
+    "year": "2018",
+    "url": "https://www.artsy.net/artwork/esterio-segura-mora-submarine-homemade",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/sCPDrnFut7l7572HpKptuw/medium.jpg"
+   },
+   {
+    "title": "Goodbye my love III",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/esterio-segura-mora-goodbye-my-love-iii",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/V2M--s2uJYSWN298gJsyxg/medium.jpg"
+   }
+  ]
+ },
+ "Arnaldo Morales": {
+  "slug": "arnaldo-morales",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 1,
+  "works": [
+   {
+    "title": "Avi-spa 3 No.12",
+    "year": "2012",
+    "url": "https://www.artsy.net/artwork/arnaldo-morales-avi-spa-3-no-dot-12",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/laYoketTes2f1KkiG-QPzA/medium.jpg"
+   }
+  ]
+ },
+ "Lavar Munroe": {
+  "slug": "lavar-munroe",
+  "birthday": "1982",
+  "deathday": null,
+  "nationality": "Bahamian",
+  "location": "Washington, D.C., USA",
+  "count": 19,
+  "works": [
+   {
+    "title": "Sisters in Christ III",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/lavar-munroe-sisters-in-christ-iii",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/l9B2xT5tr56yW5-AUDTrNg/medium.jpg"
+   },
+   {
+    "title": "Sisters in Christ I",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/lavar-munroe-sisters-in-christ-i",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/y4-VVUjVeZDo-MkGu3COaQ/medium.jpg"
+   },
+   {
+    "title": "Sisters in Christ IV",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/lavar-munroe-sisters-in-christ-iv",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/_VvWVE6aKYrtsa-7-v1mkA/medium.jpg"
+   }
+  ]
+ },
+ "Beatriz Santiago Muñoz": {
+  "slug": "beatriz-santiago-munoz",
+  "birthday": "1972",
+  "deathday": "",
+  "nationality": "Puerto Rican",
+  "location": "",
+  "count": 5,
+  "works": [
+   {
+    "title": "La Cueva Negra",
+    "year": "2013",
+    "url": "https://www.artsy.net/artwork/beatriz-santiago-munoz-la-cueva-negra",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/czuQOzhyl0RJK-wjIuYsnQ/medium.jpg"
+   },
+   {
+    "title": "Esto Es Un Mensaje Explosivo",
+    "year": "2010",
+    "url": "https://www.artsy.net/artwork/beatriz-santiago-munoz-esto-es-un-mensaje-explosivo",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/pEk3AZp7xqXb6upAgSAAIg/medium.jpg"
+   },
+   {
+    "title": "Marché Salomon",
+    "year": "2015",
+    "url": "https://www.artsy.net/artwork/beatriz-santiago-munoz-marche-salomon",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/bRc9Enz-cHzKALLHuG1wSg/medium.jpg"
+   }
+  ]
+ },
+ "Chris Ofili": {
+  "slug": "chris-ofili",
+  "birthday": "1968",
+  "deathday": "",
+  "nationality": "British",
+  "location": "Port-of-Spain, Trinidad",
+  "count": 198,
+  "works": [
+   {
+    "title": "Untitled",
+    "year": "2000",
+    "url": "https://www.artsy.net/artwork/chris-ofili-untitled-86",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/PRIv5qMXX8_HV1VrnI1AwQ/medium.jpg"
+   },
+   {
+    "title": "Untitled",
+    "year": "2000",
+    "url": "https://www.artsy.net/artwork/chris-ofili-untitled-85",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/3A7XuHfBlUvpMmuP2o9Sow/medium.jpg"
+   },
+   {
+    "title": "Afternoon with la Soufrière (Prelude 4)",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/chris-ofili-afternoon-with-la-soufriere-prelude-4-8",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/QVoSWIfxgLO9n45RS3Pn8Q/medium.jpg"
+   }
+  ]
+ },
+ "Karyn Olivier": {
+  "slug": "karyn-olivier",
+  "birthday": "1968",
+  "deathday": "",
+  "nationality": "Trinidadian",
+  "location": "",
+  "count": 7,
+  "works": [
+   {
+    "title": "Here (Hear)",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/karyn-olivier-here-hear",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Mm_qIe6O-hOgX0PLHbr_Kw/medium.jpg"
+   },
+   {
+    "title": "Avulsion",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/karyn-olivier-avulsion-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/IzmzDaG32PFjyhtycJberg/medium.jpg"
+   },
+   {
+    "title": "Welcome (Accra)",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/karyn-olivier-welcome-accra-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/fgavGwsgeH2rgTfFLi6WEA/medium.jpg"
+   }
+  ]
+ },
+ "Shuck One": {
+  "slug": "shuck-one",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "French",
+  "location": "",
+  "count": 0,
+  "works": []
+ },
+ "Zak Ové": {
+  "slug": "zak-ove",
+  "birthday": "1966",
+  "deathday": "",
+  "nationality": "British",
+  "location": "London, UK",
+  "count": 38,
+  "works": [
+   {
+    "title": "DP69",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/zak-ove-dp69-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/LUIuKf06f5F7oucqU17Pyg/medium.jpg"
+   },
+   {
+    "title": "DP70",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/zak-ove-dp70-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/1PLz1ZjFqjo0USANOtmwww/medium.jpg"
+   },
+   {
+    "title": "Black and Blue: The Invisible Man and the Masque of Blackness",
+    "year": "2016",
+    "url": "https://www.artsy.net/artwork/zak-ove-black-and-blue-the-invisible-man-and-the-masque-of-blackness-2017",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/TTWHTCOK2F0d-1bhgsOoVQ/medium.jpg"
+   }
+  ]
+ },
+ "Raquel Paiewonsky": {
+  "slug": "raquel-paiewonsky",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "Dominican",
+  "location": "Santo Domingo, Dominican Republic",
+  "count": 0,
+  "works": []
+ },
+ "Jorge Pardo": {
+  "slug": "jorge-pardo",
+  "birthday": "1963",
+  "deathday": null,
+  "nationality": "Cuban-American",
+  "location": "Los Angeles, CA, USA",
+  "count": 55,
+  "works": [
+   {
+    "title": "1230 (4)",
+    "year": "2000",
+    "url": "https://www.artsy.net/artwork/jorge-pardo-1230-4",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/9uD9pf1NQgoT916OdwjkMQ/medium.jpg"
+   },
+   {
+    "title": "Untitled (In Honor of Scott Burton)",
+    "year": "2000",
+    "url": "https://www.artsy.net/artwork/jorge-pardo-untitled-in-honor-of-scott-burton",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/kg7ODlPZlp0LnMnpJ-fkpw/medium.jpg"
+   },
+   {
+    "title": "SUBSCRIPTION LAMP II",
+    "year": "2010",
+    "url": "https://www.artsy.net/artwork/jorge-pardo-subscription-lamp-ii-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/aGki8NtM7qn8nzuCBxq3tw/medium.jpg"
+   }
+  ]
+ },
+ "René Peña": {
+  "slug": "rene-pena",
+  "birthday": "1957",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Havana, Cuba",
+  "count": 45,
+  "works": [
+   {
+    "title": "Untitled",
+    "year": "2018",
+    "url": "https://www.artsy.net/artwork/rene-pena-untitled-48",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/uxBS2N3cz4wBQ1i14uzcgA/medium.jpg"
+   },
+   {
+    "title": "Untitled 2001",
+    "year": "2001",
+    "url": "https://www.artsy.net/artwork/rene-pena-untitled-2001",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/voIHth-S7unRwWuOf_X5SA/medium.jpg"
+   },
+   {
+    "title": "Sin título",
+    "year": "1997",
+    "url": "https://www.artsy.net/artwork/rene-pena-sin-titulo-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/luzovtrD5t4zvSrZvUl4BQ/medium.jpg"
+   }
+  ]
+ },
+ "Marcel Pinas": {
+  "slug": "marcel-pinas-1",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 0,
+  "works": []
+ },
+ "Wilfredo Prieto": {
+  "slug": "wilfredo-prieto",
+  "birthday": "1978",
+  "deathday": null,
+  "nationality": "Cuban",
+  "location": "Barcelona, Spain",
+  "count": 18,
+  "works": [
+   {
+    "title": "Untitled",
+    "year": "Unknown",
+    "url": "https://www.artsy.net/artwork/wilfredo-prieto-untitled-74",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/DUd46gGmbOPjfZefhXHH4Q/medium.jpg"
+   },
+   {
+    "title": "Cien vueltas a su jardín",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/wilfredo-prieto-cien-vueltas-a-su-jardin",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/fRhbCgddAJGeLgYqm_UG2w/medium.jpg"
+   },
+   {
+    "title": "Untitled",
+    "year": "2016",
+    "url": "https://www.artsy.net/artwork/wilfredo-prieto-untitled-75",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/hEXfak96mAb4GcOiLYjQ8g/medium.jpg"
+   }
+  ]
+ },
+ "Omari Ra": {
+  "slug": "omari-ra",
+  "birthday": "1960",
+  "deathday": "",
+  "nationality": "Jamaican",
+  "location": "Kingston",
+  "count": 7,
+  "works": [
+   {
+    "title": "Desert",
+    "year": "circa 90s",
+    "url": "https://www.artsy.net/artwork/omari-ra-desert",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/rT51vpFZ9W9lrfIEQnHWlQ/medium.jpg"
+   },
+   {
+    "title": "The King Series",
+    "year": "circa 90s",
+    "url": "https://www.artsy.net/artwork/omari-ra-the-king-series",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/esnUB_l5y6B-RZkHzCPjzQ/medium.jpg"
+   },
+   {
+    "title": "Untitled",
+    "year": "circa 90s",
+    "url": "https://www.artsy.net/artwork/omari-ra-untitled",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/cmChqLDXoSFsqcnraAruVA/medium.jpg"
+   }
+  ]
+ },
+ "Sandra Ramos": {
+  "slug": "sandra-ramos",
+  "birthday": "1969",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Miami, FL, USA",
+  "count": 17,
+  "works": [
+   {
+    "title": "Trumpito. Homage to Thomas Nast (Balloons)",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/sandra-ramos-trumpito-homage-to-thomas-nast-balloons-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/p0_3MlrHjnLhw5RZ7U6ddA/medium.jpg"
+   },
+   {
+    "title": "Estrella Fugaz 9/50 (Shooting Star)",
+    "year": "2002",
+    "url": "https://www.artsy.net/artwork/sandra-ramos-estrella-fugaz-9-slash-50-shooting-star",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/ExTm99kVLcPVIEdF0ZohHg/medium.jpg"
+   },
+   {
+    "title": "Con mi cruz a cuestas",
+    "year": "1993",
+    "url": "https://www.artsy.net/artwork/sandra-ramos-con-mi-cruz-a-cuestas-2",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Lx874ScRdekJeQAXpNPsMQ/medium.jpg"
+   }
+  ]
+ },
+ "Dhiradj Ramsamoedj": {
+  "slug": "dhiradj-ramsamoedj",
+  "birthday": "1986",
+  "deathday": "",
+  "nationality": "Surinamese",
+  "location": "Suriname",
+  "count": 34,
+  "works": [
+   {
+    "title": "In gesprek met de onzen (In conversation with ours)",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/dhiradj-ramsamoedj-in-gesprek-met-de-onzen-in-conversation-with-ours",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/1YLbH2tpxdSjP2_mYdGVmg/medium.jpg"
+   },
+   {
+    "title": "Beauty of innocence",
+    "year": "2015",
+    "url": "https://www.artsy.net/artwork/dhiradj-ramsamoedj-beauty-of-innocence",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/g2LRXcGKA-2d6PbNp8ZNoA/medium.jpg"
+   },
+   {
+    "title": "The greenest country (Het groenste land)",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/dhiradj-ramsamoedj-the-greenest-country-het-groenste-land",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/z0TYI60S9IJvWAZCsrNaZg/medium.jpg"
+   }
+  ]
+ },
+ "Richard Mark Rawlins": {
+  "slug": "richard-mark-rawlins",
+  "birthday": "1967",
+  "deathday": "",
+  "nationality": "",
+  "location": "Hastings, UK",
+  "count": 1,
+  "works": [
+   {
+    "title": "Another Horizon",
+    "year": "",
+    "url": "https://www.artsy.net/artwork/richard-mark-rawlins-another-horizon",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/-qLKegobln_NOdfh-5WcJQ/medium.jpg"
+   }
+  ]
+ },
+ "Marcos Lora Read": {
+  "slug": "marcos-lora-read",
+  "birthday": "1965",
+  "deathday": "",
+  "nationality": "Dominican",
+  "location": "Dominican Republic",
+  "count": 0,
+  "works": []
+ },
+ "René Francisco Rodríguez": {
+  "slug": "rene-francisco-rodriguez",
+  "birthday": "1960",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "",
+  "count": 4,
+  "works": [
+   {
+    "title": "Ciudad Simulada",
+    "year": "2008",
+    "url": "https://www.artsy.net/artwork/rene-francisco-rodriguez-ciudad-simulada",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/vScICRnibBTp1v_bZFztwQ/medium.jpg"
+   },
+   {
+    "title": "Full",
+    "year": "2008",
+    "url": "https://www.artsy.net/artwork/rene-francisco-rodriguez-full",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/qynHX16hqXSILtCUIXyfJw/medium.jpg"
+   },
+   {
+    "title": "No Mas Soldados",
+    "year": "2000-2015",
+    "url": "https://www.artsy.net/artwork/rene-francisco-rodriguez-no-mas-soldados",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/IEkThJB0u_oUKZnneU0I0g/medium.jpg"
+   }
+  ]
+ },
+ "Chemi Rosado-Seijo": {
+  "slug": "chemi-rosado-seijo",
+  "birthday": "1973",
+  "deathday": "",
+  "nationality": "Puerto Rican",
+  "location": "San Juan and Naranjito, Puerto Rico",
+  "count": 1,
+  "works": [
+   {
+    "title": "Untitled (from History on Wheels series)",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/chemi-rosado-seijo-untitled-from-history-on-wheels-series",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/k1nfBfeuVjj3byHWFOMGKg/medium.jpg"
+   }
+  ]
+ },
+ "Sheena Rose": {
+  "slug": "sheena-rose",
+  "birthday": "1985",
+  "deathday": null,
+  "nationality": "Barbadian",
+  "location": "Barbados",
+  "count": 36,
+  "works": [
+   {
+    "title": "A Sense of Community",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/sheena-rose-a-sense-of-community",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/zaKMAMy9Wl8elxB6w63IjQ/medium.jpg"
+   },
+   {
+    "title": "Magical Blue",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/sheena-rose-magical-blue",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/mY5m1kuWtL21eaWqVsx2HQ/medium.jpg"
+   },
+   {
+    "title": "I Will Be Free",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/sheena-rose-i-will-be-free",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/i0SE9zx7TgIk30cPz7_Gag/medium.jpg"
+   }
+  ]
+ },
+ "Oneika Russell": {
+  "slug": "oneika-russell",
+  "birthday": "1980",
+  "deathday": "",
+  "nationality": "Jamaican",
+  "location": "Kingston, Jamaica",
+  "count": 0,
+  "works": []
+ },
+ "Heino Schmid": {
+  "slug": "heino-schmid",
+  "birthday": "1976",
+  "deathday": "",
+  "nationality": "Bahamian",
+  "location": "Nassau, The Bahamas",
+  "count": 46,
+  "works": [
+   {
+    "title": "Group Of Men 6",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/heino-schmid-group-of-men-6",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/8UsDAlxYt_MhBlt9KbqknQ/medium.jpg"
+   },
+   {
+    "title": "Group of Men 5",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/heino-schmid-group-of-men-5-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/63pEvV9Lsmmm_VmQdXq7ag/medium.jpg"
+   },
+   {
+    "title": "Bouquet",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/heino-schmid-bouquet",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/5lKG9iy_u-WqMqRWdTnH8g/medium.jpg"
+   }
+  ]
+ },
+ "Arthur Simms": {
+  "slug": "arthur-simms",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 8,
+  "works": [
+   {
+    "title": "Roman Soldier",
+    "year": "2010",
+    "url": "https://www.artsy.net/artwork/arthur-simms-roman-soldier",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/7dqMXvURCyvH69E3mQ5IgA/medium.jpg"
+   },
+   {
+    "title": "A Citrus Branch for David Fisch",
+    "year": "2003",
+    "url": "https://www.artsy.net/artwork/arthur-simms-a-citrus-branch-for-david-fisch",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/xVgSooB4YDX4owIObM5vGQ/medium.jpg"
+   },
+   {
+    "title": "Search for Form Three",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/arthur-simms-search-for-form-three",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/3XHQbQosHJVkmhzS2VfXcg/medium.jpg"
+   }
+  ]
+ },
+ "Roberta Stoddart": {
+  "slug": "roberta-stoddart",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "Jamaican",
+  "location": "Port of Spain, Trinidad and Tobago",
+  "count": 5,
+  "works": [
+   {
+    "title": "'Immortel'",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/roberta-stoddart-immortel",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/UU7CEN5mSbH2HfnwJm10pQ/medium.jpg"
+   },
+   {
+    "title": "'Glow Worms'",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/roberta-stoddart-glow-worms",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/9lITw2YlyGxLZG7CRMlyHA/medium.jpg"
+   },
+   {
+    "title": "'Mrs Upper St Andrew'",
+    "year": "1992",
+    "url": "https://www.artsy.net/artwork/roberta-stoddart-mrs-upper-st-andrew",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/MgK51YePbWVPZJLKUrHhdA/medium.jpg"
+   }
+  ]
+ },
+ "Tavares Strachan": {
+  "slug": "tavares-strachan",
+  "birthday": "1979",
+  "deathday": "",
+  "nationality": "Bahamian",
+  "location": "New York, NY, USA",
+  "count": 24,
+  "works": [
+   {
+    "title": "Shadow Maps (The Snowy Owl)",
+    "year": "2022",
+    "url": "https://www.artsy.net/artwork/tavares-strachan-shadow-maps-the-snowy-owl",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/yXhqXQMG1VdcMWvhhuLSRQ/medium.jpg"
+   },
+   {
+    "title": "Altocumulus (lenticularis) II from Cloud Chamber Series ",
+    "year": "2006",
+    "url": "https://www.artsy.net/artwork/tavares-strachan-altocumulus-lenticularis-ii-from-cloud-chamber-series",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/-TgCpb8l_ewRc0TpO3N2hA/medium.jpg"
+   },
+   {
+    "title": "We Are in This Together (Shades of Blue)",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/tavares-strachan-we-are-in-this-together-shades-of-blue",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/uZUZ5BOoV7FSFubMQS6OgA/medium.jpg"
+   }
+  ]
+ },
+ "Philippe Thomarel": {
+  "slug": "philippe-thomarel",
+  "birthday": "1964",
+  "deathday": "",
+  "nationality": "",
+  "location": "Guadeloupe",
+  "count": 0,
+  "works": []
+ },
+ "Phillip Thomas": {
+  "slug": "phillip-thomas",
+  "birthday": "1980",
+  "deathday": "",
+  "nationality": "Jamaican",
+  "location": "New York, NY, USA",
+  "count": 28,
+  "works": [
+   {
+    "title": "N Train",
+    "year": "2008",
+    "url": "https://www.artsy.net/artwork/phillip-thomas-n-train",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/9Lab_rp9rQWxIgdp2TAHnA/medium.jpg"
+   },
+   {
+    "title": "Tank",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/phillip-thomas-tank",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/9mGAt-g6p9mwyG6FhffbUQ/medium.jpg"
+   },
+   {
+    "title": "Observance",
+    "year": "2019",
+    "url": "https://www.artsy.net/artwork/phillip-thomas-observance",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/_U82OS6D1uZf-fn7LsJ16w/medium.jpg"
+   }
+  ]
+ },
+ "Jasmine Thomas-Girvan": {
+  "slug": "jasmine-thomas-girvan",
+  "birthday": "1961",
+  "deathday": "",
+  "nationality": "Jamaican",
+  "location": "",
+  "count": 6,
+  "works": [
+   {
+    "title": "Covered",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/jasmine-thomas-girvan-covered",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/SDd5pk6qBznVct4omCLsHg/medium.jpg"
+   },
+   {
+    "title": "…for the ones I can't name...I Love You",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/jasmine-thomas-girvan-dot-dot-dot-for-the-ones-i-cant-name-dot-dot-dot-i-love-you",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/qPshZWk3UgdsZMLeoLAwJQ/medium.jpg"
+   },
+   {
+    "title": "Queenie",
+    "year": "2021",
+    "url": "https://www.artsy.net/artwork/jasmine-thomas-girvan-queenie",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/dRbxKmewBGbzw2nyhpdtBQ/medium.jpg"
+   }
+  ]
+ },
+ "José Toirac": {
+  "slug": "jose-toirac",
+  "birthday": "",
+  "deathday": "",
+  "nationality": "",
+  "location": "",
+  "count": 37,
+  "works": [
+   {
+    "title": "La Crisis de los 50",
+    "year": "2015",
+    "url": "https://www.artsy.net/artwork/jose-toirac-la-crisis-de-los-50-14",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/PVrNC4eqLCeesL6Kw8H1rA/medium.jpg"
+   },
+   {
+    "title": "La Crisis delos 50",
+    "year": "2015",
+    "url": "https://www.artsy.net/artwork/jose-toirac-la-crisis-delos-50",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/fup3Ntb__7s1o_bkT6G5vQ/medium.jpg"
+   },
+   {
+    "title": "La Crisis de los 50",
+    "year": "2016",
+    "url": "https://www.artsy.net/artwork/jose-toirac-la-crisis-de-los-50-21",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/bbZf5teYSzit-jidCgXTIA/medium.jpg"
+   }
+  ]
+ },
+ "Tonel": {
+  "slug": "tonel",
+  "birthday": "1958",
+  "deathday": "",
+  "nationality": "Cuban",
+  "location": "Havana, Cuba",
+  "count": 0,
+  "works": []
+ },
+ "Fernando Varela": {
+  "slug": "fernando-varela",
+  "birthday": "1951",
+  "deathday": "",
+  "nationality": "Uruguayan",
+  "location": "Santo Domingo, Dominican Republic",
+  "count": 17,
+  "works": [
+   {
+    "title": "Adan",
+    "year": "2006",
+    "url": "https://www.artsy.net/artwork/fernando-varela-adan",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/n5ahJJPBAESUFk-oVSN4Ug/medium.jpg"
+   },
+   {
+    "title": "Sin Titulo",
+    "year": "2006",
+    "url": "https://www.artsy.net/artwork/fernando-varela-sin-titulo",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/wCT7zswIn1ql1mGHWCsDfQ/medium.jpg"
+   },
+   {
+    "title": "Fragmentations III",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/fernando-varela-fragmentations-iii",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Drq_CIHPsGXkvF32DvWCOA/medium.jpg"
+   }
+  ]
+ },
+ "Nari Ward": {
+  "slug": "nari-ward",
+  "birthday": "1963",
+  "deathday": "",
+  "nationality": "Jamaican",
+  "location": "New York, NY, USA",
+  "count": 55,
+  "works": [
+   {
+    "title": "OH FREEDOM!",
+    "year": "2024-2025",
+    "url": "https://www.artsy.net/artwork/nari-ward-oh-freedom-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/vwX3A5-Z207Q06CWNBEH2Q/medium.jpg"
+   },
+   {
+    "title": "Spring Note",
+    "year": "2025",
+    "url": "https://www.artsy.net/artwork/nari-ward-spring-note",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/1FfK2BMbF1UGdLunCrTLVA/medium.jpg"
+   },
+   {
+    "title": "Casio Black ",
+    "year": "2017",
+    "url": "https://www.artsy.net/artwork/nari-ward-casio-black-1",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/4IQhEupqK__zUN-0xZM98g/medium.jpg"
+   }
+  ]
+ },
+ "Rodell Warner": {
+  "slug": "rodell-warner-1",
+  "birthday": "1986",
+  "deathday": "",
+  "nationality": "Trinidadian",
+  "location": "Austin, TX, USA",
+  "count": 23,
+  "works": []
+ },
+ "Tessa Whitehead": {
+  "slug": "tessa-whitehead",
+  "birthday": "1985",
+  "deathday": "",
+  "nationality": "Bahamian",
+  "location": "Nassau, The Bahamas",
+  "count": 26,
+  "works": [
+   {
+    "title": "All of Them, and All of Us",
+    "year": "2019-26",
+    "url": "https://www.artsy.net/artwork/tessa-whitehead-all-of-them-and-all-of-us",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Ab2nYIzqO8KK7h7Qgyc7KQ/medium.jpg"
+   },
+   {
+    "title": "Feeling Shy",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/tessa-whitehead-feeling-shy",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/UucK65FhP63kq9JvhIMYeA/medium.jpg"
+   },
+   {
+    "title": "A Second Portrait",
+    "year": "2026",
+    "url": "https://www.artsy.net/artwork/tessa-whitehead-a-second-portrait",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/c61zkXndlbnEoLszI6KlWg/medium.jpg"
+   }
+  ]
+ },
+ "Alberta Whittle": {
+  "slug": "alberta-whittle",
+  "birthday": "1980",
+  "deathday": "",
+  "nationality": "Scottish-Barbadian ",
+  "location": "Glasgow, UK",
+  "count": 1,
+  "works": [
+   {
+    "title": "Listening for all that has been forgotten",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/alberta-whittle-listening-for-all-that-has-been-forgotten",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/ogYrpEzPbg1JWDM6WKtaBQ/medium.jpg"
+   }
+  ]
+ },
+ "Cosmo Whyte": {
+  "slug": "cosmo-whyte",
+  "birthday": "1982",
+  "deathday": "",
+  "nationality": "",
+  "location": "Atlanta, GA, USA",
+  "count": 15,
+  "works": [
+   {
+    "title": "Ballad for Rodney",
+    "year": "2024",
+    "url": "https://www.artsy.net/artwork/cosmo-whyte-ballad-for-rodney",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/5J6QZtXtA34MNzLEPXFWkQ/medium.jpg"
+   },
+   {
+    "title": "The Enigma of Arrival in 4 Sections. Section 2 Red, Green, Blue, and Black",
+    "year": "2020",
+    "url": "https://www.artsy.net/artwork/cosmo-whyte-the-enigma-of-arrival-in-4-sections-section-2-red-green-blue-and-black",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/Eq7xGc6FXSj99v-WexJ1ww/medium.jpg"
+   },
+   {
+    "title": "Agitation 1- An account of lingering effects of what’s seemingly over and done with",
+    "year": "2023",
+    "url": "https://www.artsy.net/artwork/cosmo-whyte-agitation-1-an-account-of-lingering-effects-of-whats-seemingly-over-and-done-with",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/OSQ7U43XB_Ufx7QdHrXi4w/medium.jpg"
+   }
+  ]
+ },
+ "Frantz Zéphirin": {
+  "slug": "frantz-zephirin",
+  "birthday": "1968",
+  "deathday": "",
+  "nationality": "Haitian",
+  "location": "Port-au-Prince, Haiti",
+  "count": 45,
+  "works": [
+   {
+    "title": "Untitled (Damballa and Ayida-Wedo)",
+    "year": "c2000",
+    "url": "https://www.artsy.net/artwork/frantz-zephirin-untitled-damballa-and-ayida-wedo",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/kqpkV822skZzMnmnyw7aaw/medium.jpg"
+   },
+   {
+    "title": "Guacanagaric and the Santa Maria ",
+    "year": "2018",
+    "url": "https://www.artsy.net/artwork/frantz-zephirin-guacanagaric-and-the-santa-maria",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/9XN5ADglQKPiLdEd7MeOYQ/medium.jpg"
+   },
+   {
+    "title": "Le Passage de l'Ouragan Matthew",
+    "year": "2018",
+    "url": "https://www.artsy.net/artwork/frantz-zephirin-le-passage-de-louragan-matthew",
+    "img": "https://d32dm0rphc51dk.cloudfront.net/kdBcf5_bCO43kalb2w_N7g/medium.jpg"
+   }
+  ]
+ }
+}

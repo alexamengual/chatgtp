@@ -5,6 +5,10 @@ Usage: python3 -I review/build.py   (run from edicio-canouan-festive/)
 import json, re, unicodedata
 
 AZ = json.load(open("data/az-artists.json"))
+try: ARTSY = json.load(open("data/artsy.json"))
+except FileNotFoundError: ARTSY = {}
+try: IMAGES = json.load(open("data/images.json"))
+except FileNotFoundError: IMAGES = {}
 EXTRA = json.load(open("review/extra.json"))
 
 def slug(s):
@@ -66,7 +70,7 @@ for e in EXTRA["artists"]:
     a["origin"] = clean(e.get("origin_country")) or a.get("country", "")
     a["residence"] = clean(e.get("residence")) or a.get("based", "")
     if e.get("note3"): a["note"] = strip_boiler(e["note3"])
-    a.pop("origin_country", None); a.pop("note3", None)
+    a.pop("origin_country", None); a.pop("note3", None); a.pop("mustique_works", None)
     if "svg" in a["pools"] and not any(t.get("cls") == "svg" for t in a["tags"]):
         a["tags"] = a["tags"] + [{"label": "St Vincent & Grenadines", "cls": "svg"}]
     artists.append(a)
@@ -93,6 +97,17 @@ def lives_region(res):
 
 THIS_YEAR = 2026
 for a in artists:
+    ar = ARTSY.get(a["name"])
+    if ar:
+        a.setdefault("extra", [])
+        a["extra"] = a["extra"] + [{"label": "Artsy", "url": "https://www.artsy.net/artist/" + ar["slug"]}]
+        m = re.match(r"\D*(\d{4})", ar.get("birthday") or "")
+        if m and not a.get("born") and not re.search(r"\d{4}", a.get("life", "")): a["born"] = int(m.group(1))
+        if ar.get("deathday") and re.search(r"\d{4}", ar["deathday"]):
+            a["living"] = "deceased"; a["died"] = int(re.search(r"\d{4}", ar["deathday"]).group(0))
+        if ar.get("location") and not a.get("residence"): a["residence"] = ar["location"]
+    a["imgs"] = [{"t": x.get("title") or "", "y": x.get("year") or "", "u": x["url"], "src": x["thumb"], "s": x["source"], "w": x["w"], "h": x["h"]}
+                 for x in IMAGES.get(a["id"], [])]
     b = a.get("born")
     try: b = int(str(b)[:4]) if b else None
     except ValueError: b = None

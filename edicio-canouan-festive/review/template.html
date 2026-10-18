@@ -103,8 +103,13 @@ details.master .row { background: transparent; }
 .work a:hover i { text-decoration: underline; }
 .work.see { border-style: dashed; background: transparent; }
 .work.see a { color: var(--accent); font-weight: 500; }
-.thumbs { display: flex; gap: 6px; margin-top: 8px; overflow-x: auto; }
-.thumbs img { height: 120px; width: auto; border-radius: 6px; border: 1px solid var(--line); background: var(--work); }
+.thumbs { display: flex; gap: 10px; margin-top: 10px; overflow-x: auto; padding-bottom: 4px; }
+.thumbs figure { margin: 0; flex: 0 0 auto; max-width: 260px; }
+.thumbs a { display: block; text-decoration: none; color: var(--ink); }
+.thumbs img { display: block; height: 150px; width: auto; max-width: 260px; object-fit: cover; border-radius: 6px; border: 1px solid var(--line); background: var(--work); }
+.thumbs figcaption { font-size: 12px; line-height: 1.3; margin-top: 4px; color: var(--muted); max-width: 220px; }
+.thumbs figcaption i { font-family: var(--font-display); font-size: 13.5px; color: var(--ink); }
+.thumbs a:hover img { outline: 2px solid var(--accent); outline-offset: 1px; }
 .links { display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 8px; font-size: 13px; }
 .links .find { color: var(--muted); }
 .note { color: var(--muted); font-size: 13px; margin-top: 4px; max-width: 80ch; }
@@ -178,7 +183,7 @@ details.master .row { background: transparent; }
     <summary><div class="section-head"><h2>Master list only</h2><p id="master-sub"></p></div></summary>
     <div class="list" id="list-master"></div>
   </details>
-  <p class="legend">Ages are worked out from the birth year, so may be a year out. <b>From</b> is the country of birth or nationality; <b>lives in</b> is where they work now. Works were found in search results; click a title to see where it's shown, or <b>See images</b> for a picture search. <b>site</b> and <b>@handle</b> come from search results; open a handle once to confirm it. <span style="color:var(--gold)">UNVERIFIED</span> rows carry facts the research hasn't confirmed. Research of 17 Oct 2026.</p>
+  <p class="legend">Ages are worked out from the birth year, so may be a year out. <b>From</b> is the country of birth or nationality; <b>lives in</b> is where they work now. Pictures come from Artsy, the Mustique show's site and the artists' own pages; click one to open its source. Where no picture was found, works are listed by title, with <b>See images</b> for a picture search. Pictures are shown for private review only. <b>site</b> and <b>@handle</b> come from search results; open a handle once to confirm it. <span style="color:var(--gold)">UNVERIFIED</span> rows carry facts the research hasn't confirmed. Research of 17 Oct 2026.</p>
 </main>
 
 <script id="data" type="application/json">/*DATA*/</script>
@@ -224,13 +229,17 @@ details.master .row { background: transparent; }
   }
 
   function worksHtml(a) {
+    if ((a.imgs || []).length) {
+      const figs = a.imgs.map(x => `<figure><a href="${esc(x.u)}" target="_blank" rel="noopener"><img src="${esc(x.src)}" width="${x.w}" height="${x.h}" alt="${esc(x.t || "Work by " + a.name)}" loading="lazy"></a>` +
+        `<figcaption>${x.t ? `<i>${esc(x.t)}</i>` : "Work"}${x.y ? `, ${esc(x.y)}` : ""} · ${esc(x.s)}</figcaption></figure>`).join("");
+      return `<div class="thumbs">${figs}</div><div class="works"><span class="work see"><a href="${searchUrl(a.name + " artist artwork", true)}" target="_blank" rel="noopener">More images ↗</a></span></div>`;
+    }
     const items = (a.works || []).slice(0, 3).map(w => {
       const t = `<i>${esc(w.title)}</i>${w.year ? `<span class="yr">${esc(w.year)}</span>` : ""}`;
       return `<span class="work">${w.url ? `<a href="${esc(w.url)}" target="_blank" rel="noopener">${t}</a>` : t}</span>`;
     });
     items.push(`<span class="work see"><a href="${searchUrl(a.name + " artist artwork", true)}" target="_blank" rel="noopener">See images ↗</a></span>`);
-    const thumbs = (a.images || []).length ? `<div class="thumbs">${a.images.map(s => `<img src="${esc(s.src)}" alt="${esc(s.alt || a.name)}" loading="lazy">`).join("")}</div>` : "";
-    return thumbs + `<div class="works">${items.join("")}</div>`;
+    return `<div class="works">${items.join("")}</div>`;
   }
 
   function pickHtml(id) {
